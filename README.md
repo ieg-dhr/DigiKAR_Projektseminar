@@ -16,5 +16,3 @@ Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a>
 <hr>
 
 
-
-
