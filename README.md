@@ -29,7 +29,7 @@ For the second geocoding test, the input data needed to be enriched and cleaned.
 
 Moreover, the four date columns (before, after, start, end) specifying the time-frame of events in the original CSV table were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
 
-Please view or downloaded the <a href="./CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
+Please view or downloaded the <a href="./CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the version with coordinates in <a href="./GeoJSON%20layers/Domherren_v2.geojson">GeoJSON format (v2)</a>.
 
 <hr2><strong>1st static map showing places linked with persons</strong></hr2>
 
