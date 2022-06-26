@@ -15,17 +15,21 @@ Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a>
 
 <hr>
 
-<hr2><strong>Geocoding process</strong></hr2>
+<hr2><strong>1st geocoding test and disambiguation issues</strong></hr2>
 
-The collected data refer to biographic events in the careers of several clerics ("Domherren") active in Electoral Mainz. The first geocoding attempt (v1) was carried out in QGIS, using the <a href="https://plugins.qgis.org/plugins/mmqgis/">MMQIGS</a> app and the <strong>Open Street Map / Nominatim</strong> web service for geodata. For 371 place names in the input file, the geocoding API found 1641 results, thus attributing alternatives to several non-unique place names. This issue generally occurs when geocoding European towns which have "colonial twins" in North America, South Africa or Australia.
+The collected data refer to biographic events in the careers of several clerics ("Domherren") active in Electoral Mainz. The first geocoding attempt (v1) was carried out in QGIS, using the <a href="https://plugins.qgis.org/plugins/mmqgis/">MMQIGS</a> app and the <strong>Open Street Map / Nominatim</strong> web service for geodata. For 281 entries in the input file, the geocoding API found 1641 results, attributing alternative coordinates to several non-unique place names. This problem generally occurs when geocoding European towns which have "colonial twins" in North America, South Africa or Australia.
 
 View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1_new.geojson">Domherren_v1.geojson</a>
 
-For the second geocoding trial, the input data therefore needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named "modern_region" was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, "Europe" was added to at least exclude overseas locations. 
+<hr2><strong>2nd geocoding test based on enriched CSV table</strong></hr2>
+
+For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named "modern_region" was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, "Europe" was added to at least exclude overseas locations. 
 
 Moreover, the four date columns (before, after, start, end) specifying the time-frame of events were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
 
 Please view or downloaded the <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
+
+<hr2><strong>1st static map showing places linked with persons</strong></hr2>
 
 The first static map based on this GeoJSON file shows each cleric's biographically relevant places in a different colour: 
 
