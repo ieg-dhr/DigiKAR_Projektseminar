@@ -25,7 +25,7 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named "modern_region" was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, "Europe" was added to at least exclude overseas locations. 
 
-<img src="./images/MMQGIS_geocoding-settings.png" align="left" width="500px"/>In MMQGIS, both the "city" and "country" fields could thus be filled with input data to retrieve better geocoding results (cf. QGIS screenshot on the left).
+<img src="./images/MMQGIS_geocoding-settings.png" align="left" width="500px"/>In MMQGIS, both the "city" and "country" fields could thus be filled with input data to retrieve better geocoding results (cf. QGIS screenshot on the left). Out of 281 table entries, 215 could now be matched with a unique location. The entries not geocoded did not have spatial information in the first place.
 
 Moreover, the four date columns (before, after, start, end) specifying the time-frame of events were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
 
