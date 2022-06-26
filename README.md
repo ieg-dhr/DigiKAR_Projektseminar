@@ -25,7 +25,7 @@ For the second geocoding trial, the input data therefore needed to be enriched a
 
 Moreover, the four date columns (before, after, start, end) specifying the time-frame of events were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
 
-Please view or downloaded the<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
+Please view or downloaded the <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
 
 The first static map based on this GeoJSON file shows each cleric's biographically relevant places in a different colour: 
 
