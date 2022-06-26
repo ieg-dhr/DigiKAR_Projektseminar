@@ -25,9 +25,11 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named "modern_region" was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, "Europe" was added to at least exclude overseas locations. 
 
+In MMQGIS, both the "city" and "country" fields could thus be filled with input data to retrieve better geocoding results. <img src="./images/MMQGIS_geocoding-settings.png" align="left" width="500px"/>
+
 Moreover, the four date columns (before, after, start, end) specifying the time-frame of events were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
 
-Please view or downloaded the <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
+Please view or downloaded the <a href="./CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
 
 <hr2><strong>1st static map showing places linked with persons</strong></hr2>
 
