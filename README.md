@@ -15,7 +15,7 @@ Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a>
 
 <hr>
 
-<hr3>Geocoding process</hr3>
+<hr2>Geocoding process</hr2>
 
 The collected data refer to biographic events in the careers of several clerics ("Domherren") active in Electoral Mainz. The first geocoding attempt (v1) was carried out in QGIS, using the <a href="https://plugins.qgis.org/plugins/mmqgis/">MMQIGS</a> app and the <strong>Open Street Map / Nominatim</strong> web service for geodata. For 371 place names in the input file, the geocoding API found 1641 results, thus attributing alternatives to several non-unique place names:
 
