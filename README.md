@@ -27,7 +27,7 @@ For the second geocoding test, the input data needed to be enriched and cleaned.
 
 <img src="./images/MMQGIS_geocoding-settings.png" align="left" width="500px"/>In MMQGIS, both the "city" and "country" fields could thus be filled with input data to retrieve better geocoding results (cf. QGIS screenshot on the left). Out of 281 table entries, 215 could now be matched with a unique location. The entries not geocoded did not have spatial information in the first place.
 
-Moreover, the four date columns (before, after, start, end) specifying the time-frame of events were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
+Moreover, the four date columns (before, after, start, end) specifying the time-frame of events in the original CSV table were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.
 
 Please view or downloaded the <a href="./CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the geocoded version in GeoJSON format (v2).
 
