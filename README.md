@@ -15,13 +15,13 @@
 
 <hr>
 
-<hr2><strong>Contents:</hr2>
+<hr2><strong>Contents:</strong></hr2>
  
- <a href="./readme.html">Home</a>
- <a href="./geocoding.html">Geocoding</a>
- <a href="./interactive-map.html">Interactive map</a>
- <a href="./static-maps.html">Static maps</a>
- <a href="./network-graph.html">Network graph</a>
+ <p><a href="./readme.html">Home</a></p>
+ <p><a href="./geocoding.html">Geocoding</a></p>
+ <p><a href="./interactive-map.html">Interactive map</a></p>
+ <p><a href="./static-maps.html">Static maps</a></p>
+ <p><a href="./network-graph.html">Network graph</a></p>
 
 <hr>
 
