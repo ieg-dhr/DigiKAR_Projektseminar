@@ -15,9 +15,7 @@
 
 <hr>
 
-<hr2><strong>Contents:</strong></hr2>
- 
- <div align="center"><p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar">Home</a></p>
+ <div align="center"><hr2><strong>Contents:</strong></hr2><p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar">Home</a></p>
  <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding.html">Geocoding</a></p>
  <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map.html">Interactive map</a></p>
  <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps.html">Static maps</a></p>
