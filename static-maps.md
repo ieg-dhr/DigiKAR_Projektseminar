@@ -5,7 +5,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 <em>1) One approach was to visualise event times using the colouring of point geometries.</em>
 
 <a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="./maps/Atlas_de_Wit_Utrecht.jpg" width="300px" align="left"/></a>
-<p>ADD STUDENT MAPS AND MAP DESCRIPTIONS! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus at urna sed gravida. Pellentesque fermentum ligula leo, elementum tincidunt mi sollicitudin quis. Proin vel est id eros efficitur volutpat sit amet at lorem. Aenean eget condimentum arcu, in finibus tellus. Donec efficitur erat nec dolor tincidunt, vitae blandit justo luctus. Phasellus in sagittis mauris. Nam tincidunt, nisi in laoreet tincidunt, elit augue blandit lacus, luctus tempor ex lorem eget est. Donec vel ipsum vitae libero placerat dictum. Vestibulum id risus at dui varius viverra id id est. Mauris vestibulum blandit dolor maximus finibus.</p>
+<p padding="10px">ADD STUDENT MAPS AND MAP DESCRIPTIONS! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus at urna sed gravida. Pellentesque fermentum ligula leo, elementum tincidunt mi sollicitudin quis. Proin vel est id eros efficitur volutpat sit amet at lorem. Aenean eget condimentum arcu, in finibus tellus. Donec efficitur erat nec dolor tincidunt, vitae blandit justo luctus. Phasellus in sagittis mauris. Nam tincidunt, nisi in laoreet tincidunt, elit augue blandit lacus, luctus tempor ex lorem eget est. Donec vel ipsum vitae libero placerat dictum. Vestibulum id risus at dui varius viverra id id est. Mauris vestibulum blandit dolor maximus finibus.</p>
 
 <hr>
 
@@ -31,7 +31,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <em>3) The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
-<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="./maps/Atlas_de_Wit_Utrecht.jpg" width="300px" align="left"/></a>
+<a href="https://github.com/ieg-dhr/Praxisprojekt2021/blob/main/QGIS/maps/static/png/Cluster_points.png"><img src="https://github.com/ieg-dhr/Praxisprojekt2021/blob/main/QGIS/maps/static/png/Cluster_points.png" width="300px" align="left"/></a>
 <p>ADD STUDENT MAPS AND MAP DESCRIPTIONS! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus at urna sed gravida. Pellentesque fermentum ligula leo, elementum tincidunt mi sollicitudin quis. Proin vel est id eros efficitur volutpat sit amet at lorem. Aenean eget condimentum arcu, in finibus tellus. Donec efficitur erat nec dolor tincidunt, vitae blandit justo luctus. Phasellus in sagittis mauris. Nam tincidunt, nisi in laoreet tincidunt, elit augue blandit lacus, luctus tempor ex lorem eget est. Donec vel ipsum vitae libero placerat dictum. Vestibulum id risus at dui varius viverra id id est. Mauris vestibulum blandit dolor maximus finibus.</p>
 
 <hr>
