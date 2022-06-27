@@ -4,7 +4,7 @@
 
 View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1_new.geojson">Domherren_v1.geojson</a>
 
-<h2>2nd geocoding test based on enriched CSV table</strong></h2>
+<h2>2nd geocoding test based on enriched CSV table</h2>
 
 <p align="justify">For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named <code>modern_region</code> was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, <code>Europe</code> was added to at least exclude overseas locations.</p> 
 
