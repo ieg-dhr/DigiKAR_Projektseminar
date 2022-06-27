@@ -8,12 +8,12 @@
 <h4>Participating students:</h4>
 
  <table style="width:100%">
-  <tr>
+  <tr style="width:200px">
     <td>NN</td>
     <td>NN</td>
     <td>NN</td>
   </tr>
-  <tr>
+  <tr style="width:200px">
     <td>NN</td>
     <td>NN</td>
     <td>NN</td>
