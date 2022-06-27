@@ -7,18 +7,18 @@
 
 <h4>Participating students:</h4>
 
- <div class="row">
-  <div class="column">
-   <p>NN</p>
-   <p>NN</p>
-   <p>NN</p>
- </div>
-  <div class="column">
-   <p>NN</p>
-   <p>NN</p>
-   <p>NN</p>
-  </div>
-</div> 
+ <table>
+  <tr>
+    <td>NN</td>
+    <td>NN</td>
+    <td>NN</td>
+  </tr>
+  <tr>
+    <td>NN</td>
+    <td>NN</td>
+    <td>NN</td>
+  </tr>
+</table> 
 
 <hr>
 
