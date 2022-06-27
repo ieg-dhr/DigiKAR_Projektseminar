@@ -7,7 +7,7 @@
 
 <h4>Participating students:</h4>
 
- <table border="0" style="width:100%">
+ <table border="0" style="width:90%" align="center">
   <tr style="width:200px">
     <td>NN</td>
     <td>NN</td>
