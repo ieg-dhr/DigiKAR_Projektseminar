@@ -5,6 +5,15 @@
 
 <p align="justify">For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
 
+<h4>Participating students:</h4>
+
+<p>NN</p>
+<p>NN</p>
+<p>NN</p>
+<p>NN</p>
+<p>NN</p>
+<p>NN</p>
+
 <hr>
 
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" padding="10px" align="left"/> 
@@ -16,6 +25,7 @@
 <hr>
 
  <div align="center"><hr2><strong>Contents:</strong></hr2><p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar">Home</a></p>
+ <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information.html">Persons studied in the project</a></p>
  <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding.html">Geocoding</a></p>
  <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map.html">Interactive map</a></p>
  <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps.html">Static maps</a></p>
