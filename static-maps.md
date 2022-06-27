@@ -13,10 +13,9 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 <hr>
 
 <stong>Example:</strong>
-
-<code><p>Stockholm, Paris</p>
-  <p>London, New York</p>
-  <p>Paris, London</p></code>
+<blockquote>Stockholm, Paris</blockquote>
+<blockquote>London, New York</blockquote>
+<blockquote>Paris, London</blockquote>
 
 <hr>
  
