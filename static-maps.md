@@ -2,7 +2,7 @@
 
 As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects:
 
-<h3>1) Using colours to illustrate developments over times</3>
+<h4>1) Using colours to illustrate developments over times</h4>
 <p><em>One approach was to visualise event times using the categorised or rule-based colouring of point geometries.</em></p>
 
 <a href="https://github.com/ieg-dhr/Praxisprojekt2021/blob/main/QGIS/maps/static/png/Geburtsbriefe_standard.png"><img src="https://github.com/ieg-dhr/Praxisprojekt2021/blob/main/QGIS/maps/static/png/Geburtsbriefe_standard.png" width="300px" align="left"/></a>
@@ -11,7 +11,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <hr>
 
-<h3>2) Lines connecting point geometries to illustrate biographic "journeys"</3>
+<h4>2) Lines connecting point geometries to illustrate biographic "journeys"</h4>
 <p><em>Another approach was to connect events in one person's biography with straight lines to highlight individual mobility. In QGIS2, the best plug-in for converting point geometries to line geometries was <a href="https://plugins.qgis.org/plugins/pointstopaths_v02/">PointsToPaths</a>, an application developed for wildlife tracking. Unfortunately, this plug-in is no longer available in QGIS3. Alternatively, the <a href="https://plugins.qgis.org/plugins/PointConnector/">PointConnector</a> plug-in can be used. This plug-in, however, requires a separate source-to-target list in CSV or TXT format.</em></p>
   
 <p><em>The comma separated txt-file (CSV-file) containing the rules need to be formatted like this: <code>[from], [to]</code>. Each row results in a straight line between the two corresponding points.</em></p>
@@ -33,7 +33,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 <hr>
 
 
-<h3>3) Point clustering to show centres of action</3>
+<h4>3) Point clustering to show centres of action</h4>
 <em>The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
 <a href="https://github.com/ieg-dhr/Praxisprojekt2021/blob/main/QGIS/maps/static/png/Cluster_points.png"><img src="https://github.com/ieg-dhr/Praxisprojekt2021/blob/main/QGIS/maps/static/png/Cluster_points.png" width="300px" align="left"/></a>
