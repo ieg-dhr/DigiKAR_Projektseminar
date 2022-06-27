@@ -17,20 +17,20 @@
 
 <hr2><strong>1st geocoding test and disambiguation issues</strong></hr2>
 
-<p align="justify">The collected data refer to biographic events in the careers of several clerics ("Domherren") active in Electoral Mainz. The first geocoding attempt (v1) was carried out in QGIS, using the <a href="https://plugins.qgis.org/plugins/mmqgis/">MMQIGS</a> app and the <strong>Open Street Map / Nominatim</strong> web service for geodata. For 281 entries in the input file, the geocoding API found 1641 results, attributing alternative coordinates to several non-unique place names. This problem generally occurs when geocoding European towns which have "colonial twins" in North America, South Africa or Australia.</p>
+<p align="justify">The collected data refer to biographic events in the careers of several clerics ("Domherren") active in Electoral Mainz. The first geocoding attempt (v1) was carried out in QGIS, using the <a href="https://plugins.qgis.org/plugins/mmqgis/">MMQIGS</a> plug-in and the <strong>Open Street Map / Nominatim</strong> web service for geodata. For 281 entries in the input file, the geocoding API found 1641 results, attributing alternative coordinates to several non-unique place names. This problem generally occurs when geocoding European towns which have "colonial twins" in North America, South Africa or Australia.</p>
 
 View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1_new.geojson">Domherren_v1.geojson</a>
 
 <hr2><strong>2nd geocoding test based on enriched CSV table</strong></hr2>
 
-<p align="justify">For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named "modern_region" was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, "Europe" was added to at least exclude overseas locations.</p> 
+<p align="justify">For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named <code>modern_region</code> was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, <code>Europe</code> was added to at least exclude overseas locations.</p> 
 
-<img src="./images/MMQGIS_geocoding-settings.png" align="left" padding="10px" width="630px"/> 
-<p align="justify">In MMQGIS, both the "city" and "country" fields could thus be filled with input data to retrieve better geocoding results (cf. QGIS screenshot on the left). Out of 281 table entries, 215 could now be matched with a unique location. The entries not geocoded did not have spatial information in the first place.</p>
+<img src="./images/MMQGIS_geocoding-settings.png" align="left" padding="15px" width="630px"/> 
+<p align="justify">In MMQGIS, both the <code>city</code> and <code>country</code> fields could thus be filled with input data to retrieve better geocoding results (cf. QGIS screenshot above). Out of 281 table entries, 215 could now be matched with a unique location. The entries <em>not</em> geocoded did not contain spatial information in the first place.</p>
 
-<p align="justify">Moreover, the four date columns (before, after, start, end) specifying the time-frame of events in the original CSV table were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.</p>
+<p align="justify">Moreover, the four date columns (<code>before</code>, <code>after</code>, <code>start</code>, <code>end</code>) specifying the time-frames of events in the original CSV table were merged into one <code>display date</code> column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.</p>
 
-<p align="justify">Please view or downloaded the <a href="./CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the version with coordinates in <a href="./GeoJSON%20layers/Domherren_v2.geojson">GeoJSON format (v2)</a>.</p>
+<p align="justify">Please view or download the <a href="./CSV%20tables/FactoidList_27Juni2022_enriched.csv">updated data table in CSV format</a> or check the data with coordinates in <a href="./GeoJSON%20layers/Domherren_v2.geojson">GeoJSON format (v2)</a>.</p>
 
 <hr2><strong>1st interactive web map showing places linked with persons</strong></hr2>
 
@@ -38,7 +38,27 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/qgis2web_Domherren_v2/index.html"><img src="./images/Domherren_v2_map-screenshot.png" width="630px" padding="10px" align="center"/></a>
 
+<hr2><strong>Static maps highlighting alternative data aspects</strong></hr2>
 
+As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects:
+
+1) One approach was to visualise event times using the colouring of point geometries. 
+
+(Links to student maps to be added!)
+
+2) Another approach was to connect events in one person's biography with straight lines to highlight individual mobility.
+
+(Links to student maps to be added!)
+
+3) The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.
+
+(Links to student maps to be added!)
+
+<hr2><strong>Displaying connections between people and places in a network graph</strong></hr2>
+
+<p align="justify">The browser-based visualisation tool <a href="https://hdlab.stanford.edu/palladio/">Palladio</a>, provided by Stanford University, could be used to experiment with interactive maps, timelines and network graphs. In order to show the connections between people and places, person names need to be selected as <code>source</code> and mapped to place names as <code>target</code>. In the screenshot, the size of the place dots depends on the frequency of the place names in the input data.</p>
+
+<a href="https://hdlab.stanford.edu/palladio-app/#/visualization"><img src="./images/Palladio_network.png" width="630px" padding="15px" align="center"/></a>
 
  
 
