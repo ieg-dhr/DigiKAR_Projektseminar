@@ -38,27 +38,6 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/qgis2web_Domherren_v2/index.html"><img src="./images/Domherren_v2_map-screenshot.png" width="630px" padding="10px" align="center"/></a>
 
-<hr2><strong>Static maps highlighting alternative data aspects</strong></hr2>
-
-As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects:
-
-1) One approach was to visualise event times using the colouring of point geometries. 
-
-(Links to student maps to be added!)
-
-2) Another approach was to connect events in one person's biography with straight lines to highlight individual mobility.
-
-(Links to student maps to be added!)
-
-3) The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.
-
-(Links to student maps to be added!)
-
-<hr2><strong>Displaying connections between people and places in a network graph</strong></hr2>
-
-<p align="justify">The browser-based visualisation tool <a href="https://hdlab.stanford.edu/palladio/">Palladio</a>, provided by Stanford University, could be used to experiment with interactive maps, timelines and network graphs. In order to show the connections between people and places, person names need to be selected as <code>source</code> and mapped to place names as <code>target</code>. In the screenshot, the size of the place dots depends on the frequency of the place names in the input data.</p>
-
-<a href="https://hdlab.stanford.edu/palladio-app/#/visualization"><img src="./images/Palladio_network.png" width="630px" padding="15px" align="center"/></a>
 
  
 
