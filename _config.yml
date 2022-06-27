@@ -1,4 +1,7 @@
-remote_theme: pages-themes/time-machine@v0.2.0
-
 title: Clerical biographies in early modern Mainz
 description:
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
+
+
