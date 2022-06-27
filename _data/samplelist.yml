@@ -1,0 +1,20 @@
+docs_list_title: Maps and Charts
+docs:
+
+- title: Home
+  url: https://ieg-dhr.github.io/DigiKAR_Projektseminar/
+
+- title: Geocoding
+  url: geocoding.html
+
+- title: Interactive map
+  url: interactive-map.html
+
+- title: Static maps
+  url: static-maps.html
+
+- title: Network graph
+  url: network-graph.html
+
+- title: Information
+  url: information.html
