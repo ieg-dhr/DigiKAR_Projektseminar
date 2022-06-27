@@ -1,7 +1,3 @@
----
-Title: Information
-order: 6
----
 
 
 SPACE TO ADD FURTHER READING AND CONTACT DETAILS
