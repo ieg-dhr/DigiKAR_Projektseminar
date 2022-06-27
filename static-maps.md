@@ -2,14 +2,14 @@
 
 As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects:
 
-1) One approach was to visualise event times using the colouring of point geometries. 
+<em>1) One approach was to visualise event times using the colouring of point geometries.</em>
 
 (Links to student maps to be added!)
 
-2) Another approach was to connect events in one person's biography with straight lines to highlight individual mobility.
+<em>2) Another approach was to connect events in one person's biography with straight lines to highlight individual mobility.</em>
 
 (Links to student maps to be added!)
 
-3) The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.
+<em>3) The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
 (Links to student maps to be added!)
