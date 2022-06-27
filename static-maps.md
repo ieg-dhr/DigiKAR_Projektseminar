@@ -12,11 +12,11 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <h3>Example:</h3>
 
-<code>Stockholm, Paris
+<code>Stockholm, Paris</code>
 
-London, New York
+<code>London, New York</code>
 
-Paris, London</code>
+<code>Paris, London</code>
   
 <p><Users with coding skills can write <a href="https://docs.qgis.org/2.18/en/docs/user_manual/plugins/python_console.html">Python scripts</a> to connect point geometries based on rules.</em></p>
 
