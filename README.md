@@ -17,11 +17,11 @@
 
 <hr2><strong>Contents:</strong></hr2>
  
- <p><a href="./readme.html">Home</a></p>
- <p><a href="./geocoding.html">Geocoding</a></p>
- <p><a href="./interactive-map.html">Interactive map</a></p>
- <p><a href="./static-maps.html">Static maps</a></p>
- <p><a href="./network-graph.html">Network graph</a></p>
+ <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/readme.html">Home</a></p>
+ <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding.html">Geocoding</a></p>
+ <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map.html">Interactive map</a></p>
+ <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps.html">Static maps</a></p>
+ <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph.html">Network graph</a></p>
 
 <hr>
 
