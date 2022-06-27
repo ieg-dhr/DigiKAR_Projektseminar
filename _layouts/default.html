@@ -19,7 +19,7 @@
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
 
-{% seo %}
+  {% seo %}
 
   {% include head-custom.html %}
 </head>
@@ -28,7 +28,7 @@
 
   <div class="wrapper">
     <header>
-      <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
+      <h3 class="title">{{ site.title | default: site.github.repository_name }}</h1>
     </header>
     <nav id="menu" class="clearfix">
           <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/"><img src="./assets/home.png" width="75" align="center"/></a>
