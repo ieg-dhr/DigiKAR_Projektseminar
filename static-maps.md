@@ -10,15 +10,15 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
   
 <p><em>The comma separated txt-file (CSV-file) containing the rules need to be formatted like this: <code>[from], [to]</code>. Each row results in a straight line between the two corresponding points.</em></p>
 
-</hr>
+<hr>
 
 <stong>Example:</strong>
 
-<code>Stockholm, Paris
-London, New York
+<code>Stockholm, Paris</br>
+London, New York</br>
 Paris, London</code>
 
-</hr>
+<hr>
  
 <p><em><Users with coding skills can write <a href="https://docs.qgis.org/2.18/en/docs/user_manual/plugins/python_console.html">Python scripts</a> to connect point geometries based on rules.</em></p>
 
