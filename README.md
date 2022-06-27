@@ -15,6 +15,16 @@
 
 <hr>
 
+<hr2><strong>Contents:</hr2>
+ 
+ <a href="./readme.html">Home</a>
+ <a href="./geocoding.html">Geocoding</a>
+ <a href="./interactive-map.html">Interactive map</a>
+ <a href="./static-maps.html">Static maps</a>
+ <a href="./network-graph.html">Network graph</a>
+
+<hr>
+
 <hr2><strong>1st geocoding test and disambiguation issues</strong></hr2>
 
 <p align="justify">The collected data refer to biographic events in the careers of several clerics ("Domherren") active in Electoral Mainz. The first geocoding attempt (v1) was carried out in QGIS, using the <a href="https://plugins.qgis.org/plugins/mmqgis/">MMQIGS</a> plug-in and the <strong>Open Street Map / Nominatim</strong> web service for geodata. For 281 entries in the input file, the geocoding API found 1641 results, attributing alternative coordinates to several non-unique place names. This problem generally occurs when geocoding European towns which have "colonial twins" in North America, South Africa or Australia.</p>
