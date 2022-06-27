@@ -6,7 +6,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 (Links to student maps to be added!)
 
-<em>2) Another approach was to connect events in one person's biography with straight lines to highlight individual mobility. One QGIS-plug-in that helps with converting point geometries to line geometries is <a href="https://plugins.qgis.org/plugins/pointstopaths_v02/">PointsToPaths</a>, an application developed for wildlife tracking.</em>
+<em>2) Another approach was to connect events in one person's biography with straight lines to highlight individual mobility. One QGIS-plug-in that helps with converting point geometries to line geometries is <a href="https://plugins.qgis.org/plugins/pointstopaths_v02/">PointsToPaths</a>, an application developed for wildlife tracking. Alternatively, the <a href="https://plugins.qgis.org/plugins/PointConnector/">PointConnector</a> plug-in can be used. This plug-in, however, requires a separate source-to-target list in CSV or TXT format.</em>
 
 (Links to student maps to be added!)
 
