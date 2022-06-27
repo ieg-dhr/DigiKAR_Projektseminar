@@ -1,13 +1,13 @@
 # DigiKAR_Projektseminar
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" align="left"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding=10px" align="left"/> 
 <p align="justify">This repository contains data and visualisations of early modern clerical biographies. The data were collected by students of history at <a href="https://www.uni-mainz.de/eng/">Mainz University</a> as part of an MA seminar in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information.</p>
 
 <p align="justify">For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
 
 <hr>
 
-<img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" align="left"/> 
+<img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" padding=10px" align="left"/> 
 <p align="justify">The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
 E-Mail: digikar@ieg-mainz.de</br>
@@ -25,7 +25,7 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 <p align="justify">For the second geocoding test, the input data needed to be enriched and cleaned. In order to improve the automated place-matching, a separate table column named "modern_region" was introduced to specify in which modern countries (e.g. Germany and France) the places ought to be located. In cases where the country was not immediately clear, "Europe" was added to at least exclude overseas locations.</p> 
 
-<img src="./images/MMQGIS_geocoding-settings.png" align="left" width="630px"/> 
+<img src="./images/MMQGIS_geocoding-settings.png" align="left" padding=10px" width="630px"/> 
 <p align="justify">In MMQGIS, both the "city" and "country" fields could thus be filled with input data to retrieve better geocoding results (cf. QGIS screenshot on the left). Out of 281 table entries, 215 could now be matched with a unique location. The entries not geocoded did not have spatial information in the first place.</p>
 
 <p align="justify">Moreover, the four date columns (before, after, start, end) specifying the time-frame of events in the original CSV table were merged into one "display date" column in order to make creating a chronologically categorised map easier. The more detailed date information, however, has been kept for display in the map labels.</p>
