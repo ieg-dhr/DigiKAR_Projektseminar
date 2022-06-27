@@ -31,7 +31,7 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 <hr2><strong>1st static map showing places linked with persons</strong></hr2>
 
-<p align="justify">The first zoomable map based on this GeoJSON file shows each cleric's biographically relevant places in a different colour. THe individual layers per person can be (de-)selected in the interactive legend on the right. However, this map needs improvement as points in one place are currently overlapping, so not all relevant events might be visible at all ZOOM levels.</p>
+<p align="justify">The first <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/qgis2web_Domherren_v2/index.html">zoomable map</a> based on this GeoJSON file shows each cleric's biographically relevant places in a different colour. THe individual layers per person can be (de-)selected in the interactive legend on the right. However, this map needs improvement as points in one place are currently overlapping, so not all relevant events might be visible at all ZOOM levels.</p>
 
 
 
