@@ -1,4 +1,4 @@
-<hr2><strong>Static maps highlighting alternative data aspects</strong></hr2>
+<h2>Static maps highlighting alternative data aspects</h2>
 
 As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects:
 
