@@ -8,7 +8,7 @@
 
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" align="left"/> <p align="justify">The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
-E-Mail: digikar@ieg-mainz.de
+E-Mail: digikar@ieg-mainz.de</br>
 Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a>
 
 <hr>
