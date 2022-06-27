@@ -14,11 +14,9 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <stong>Example:</strong>
 
-<code>Stockholm, Paris</code>
-
-<code>London, New York</code>
-
-<code>Paris, London</code>
+<code>Stockholm, Paris
+London, New York
+Paris, London</code>
 
 </hr>
  
