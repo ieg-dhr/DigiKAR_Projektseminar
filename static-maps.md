@@ -4,7 +4,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <em>1) One approach was to visualise event times using the colouring of point geometries.</em>
 
-<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg" width="500px" align="center"></a>
+<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="./map/Atlas_de_Wit_Utrecht.jpg" width="500px" align="center"></a>
 
 <hr>
 
@@ -23,12 +23,12 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
  
 <p><em>Users with coding skills can write <a href="https://docs.qgis.org/2.18/en/docs/user_manual/plugins/python_console.html">Python scripts</a> to connect point geometries based on rules.</em></p>
 
-<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg" width="500px" align="center"></a>
+<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="./map/Atlas_de_Wit_Utrecht.jpg" width="500px" align="center"></a>
 
 <hr>
 
 <em>3) The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
-<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg" width="500px" align="center"></a>
+<a href="https://en.wikipedia.org/wiki/Map#/media/File:Atlas_de_Wit_1698-pl044-Utrecht-KB_PPN_145205088.jpg"><img src="./map/Atlas_de_Wit_Utrecht.jpg" width="500px" align="center"></a>
 
 <hr>
