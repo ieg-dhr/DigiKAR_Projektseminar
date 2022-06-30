@@ -4,7 +4,7 @@
 
 <a href="./images/Palladio_network.png"><img src="./images/Palladio_network.png" width="650px" padding="15px" align="center"/></a>
 
-<p align="justify">Similarly, person names can be linked with institution names from the same CSV table to highlight professional networks that the analysed clerics may have shared.</p>
+<p align="justify">Similarly, person names can be linked with institution names from the same CSV table to highlight professional networks that the analysed clerics may have shared. In order to look at the interactive network graph directly on the Palladio website, go to <a href="https://hdlab.stanford.edu/palladio-app/#/upload">Load an existing project</a> and add the following Github URL: <a href="https://raw.githubusercontent.com/ieg-dhr/DigiKAR_Projektseminar/main/networks/Network_person-to-institution_1.2.9.json">https://raw.githubusercontent.com/ieg-dhr/DigiKAR_Projektseminar/main/networks/Network_person-to-institution_1.2.9.json</a> The <code>LOAD</code> button takes you directly to the network graph interface.</p>
 
 
 <a href="./networks/Domherren_network_person-to-institution.svg"><img src="./networks/Domherren_network_person-to-institution.svg" width="650px" padding="15px" align="center"/></a>
