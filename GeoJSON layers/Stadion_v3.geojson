@@ -1,0 +1,413 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.12.1638",
+    "event_end":"#",
+    "display_date":"1638",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":4,
+    "country":"Germany",
+    "Full Address":"  Germany ",
+    "comment":"Ich kann keinen genauen Ort finden",
+    "source":"Rauch, S. 168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.09.1657",
+    "event_end":"#",
+    "display_date":"1657",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 168; https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"1664",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1664",
+    "event_type":"Studium",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":4,
+    "country":"Germany",
+    "Full Address":"  Germany ",
+    "comment":"Keinen Ort und genaue Jahreszahl gefunden",
+    "source":"https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"1664",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1664",
+    "event_type":"Weihe",
+    "pers_function":"Niedere Weihen",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":4,
+    "country":"Germany",
+    "Full Address":"  Germany ",
+    "comment":"Keinen Ort und genaue Jahreszahl gefunden, wahrscheinlich in Mainz",
+    "source":"https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"1669",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1669",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":4,
+    "country":"Germany",
+    "Full Address":"  Germany ",
+    "comment":"Keinen Ort und genaue Jahreszahl gefunden, wahrscheinlich in Mainz",
+    "source":"https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2806368,50.0192814 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"13.11.1669",
+    "event_end":"#",
+    "display_date":"1669",
+    "event_type":"Ernennung",
+    "pers_function":"Generalvikar",
+    "inst_name":"Mainzer Erzbistum",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Mainzer Castle Germany ",
+    "comment":"#",
+    "source":"Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26; https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2806368,50.0192814 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1678",
+    "event_end":"#",
+    "display_date":"1678",
+    "event_type":"Niederlegung",
+    "pers_function":"Generalvikar",
+    "inst_name":"Mainzer Erzbistum",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Mainzer Castle Germany ",
+    "comment":"#",
+    "source":"Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3675767,48.2112667 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"1679",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Reise an den kaiserlichen Hof zur offiziellen Einholung des Kurmainzer Reichslehen",
+    "pers_function":"Gesandter",
+    "inst_name":"Kaiserlicher Hof",
+    "place_name":"Wien",
+    "place_count":1,
+    "country":"Austria",
+    "Full Address":"Kaiserlicher Hof Wien Austria ",
+    "comment":"#",
+    "source":"https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1685",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2739456,49.9988965 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1695",
+    "event_end":"#",
+    "display_date":"1695",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"Bei Rauch: Pröpste, Propstei und Stift von Sankt Bartholomäus in Frankfurt, S. 186 steht 1696; sonst überall 1695",
+    "source":"Rauch, S. 175; Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1695",
+    "event_end":"#",
+    "display_date":"1695",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Ritterstift St. Alban",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Ritterstift St. Alban Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 175; Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6821267,50.1109221 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1695",
+    "event_end":"#",
+    "display_date":"1695",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"St. Bartholomäusstift zu Frankfurt",
+    "place_name":"Frankfurt",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":"St. Bartholomäusstift zu Frankfurt Frankfurt Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 175; Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Geheimrat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":" Mainz Germany ",
+    "comment":"#",
+    "source":"Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"1679",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Ernennung",
+    "pers_function":"Hofratspräsident",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":" Mainz Germany ",
+    "comment":"#",
+    "source":"Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0298799,50.9847679 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Statthalter zu Erfurt",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Erfurt",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":" Erfurt Germany ",
+    "comment":"#",
+    "source":"Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0298799,50.9847679 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1699",
+    "event_end":"#",
+    "display_date":"1699",
+    "event_type":"Ernennung",
+    "pers_function":"Rector magnificus",
+    "inst_name":"#",
+    "place_name":"Erfurt",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":" Erfurt Germany ",
+    "comment":"#",
+    "source":"Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26; https://www.uni-erfurt.de/fileadmin/fakultaet/philosophische/Historisches_Seminar/Forschung/Geschichte_der_aelteren_Erfurter_Universitaet/Liste_Rektoren_Universitaet_Erfurt.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.01.1700",
+    "event_end":"#",
+    "display_date":"1700",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"Mainzer Dom",
+    "place_name":"Mainz",
+    "place_count":9,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 175; https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  }
+]
+}

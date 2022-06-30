@@ -1,0 +1,437 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9602786,50.937531 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"31.03.1642",
+    "event_end":"#",
+    "display_date":1642,
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Köln",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":" Köln Germany ",
+    "comment":"Geburtsdatum auf Wikipedia kann nicht stimmen",
+    "source":"Rauch, S. 175; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich; Mainzer Inschriften von 1651 bis 1800, S. 56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9602786,50.937531 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"1653",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1653,
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Köln",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":" Köln Germany ",
+    "comment":"Keine Jahreszahl gefunden",
+    "source":"https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6371433,49.749992 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"1653",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1653,
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Trier",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":" Trier Germany ",
+    "comment":"Keine Jahreszahl gefunden",
+    "source":"https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6371433,49.749992 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"09.07.1653",
+    "event_end":"#",
+    "display_date":1653,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Trierer Domkapitel",
+    "place_name":"Trier",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":"Cathedral Trier Germany ",
+    "comment":"#",
+    "source":"https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich; Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.06.1656",
+    "event_end":"#",
+    "display_date":1656,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Eichstätter Domkapitel",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral Eichstätt Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.12.1664",
+    "event_end":"#",
+    "display_date":1664,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 175; Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4963655,41.9027835 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.11.1667",
+    "event_end":"#",
+    "display_date":1667,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Rom",
+    "place_count":1,
+    "country":"Italy",
+    "Full Address":" Rom Italy ",
+    "comment":"visitatio liminum",
+    "source":"Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1016236,49.0134297 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.08.1673",
+    "event_end":"#",
+    "display_date":1673,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Regensburg",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":" Regensburg Germany ",
+    "comment":"zum Reichstag",
+    "source":"Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1676",
+    "event_end":"25.02.1677",
+    "display_date":1676,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Wien",
+    "place_count":1,
+    "country":"Austria",
+    "Full Address":" Wien Austria ",
+    "comment":"zum Kaiser",
+    "source":"Germania Sacra, Neue Folge 19, Die Bistümer der Kirchenprovinz Trier, S. 313; Das Domkapitel zu Eichstätt, S. 350; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3013025,50.183648 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.01.1679",
+    "event_end":"#",
+    "display_date":1679,
+    "event_type":"Ernennung",
+    "pers_function":"Probst",
+    "inst_name":"Kollegiatstift St. Kastor",
+    "place_name":"Karden an der Mosel",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":"Kollegiatstift St. Kastor Karden an der Mosel Germany ",
+    "comment":"#",
+    "source":"Germania Sacra, Neue Folge 19, Die Bistümer der Kirchenprovinz Trier, S. 313"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.3028282,50.1723814 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.01.1679",
+    "event_end":"#",
+    "display_date":1679,
+    "event_type":"Ernennung",
+    "pers_function":"Archidiakon",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Karden an der Mosel",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":" Karden an der Mosel Germany ",
+    "comment":"#",
+    "source":"https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6821267,50.1109221 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.03.1682",
+    "event_end":"08.01.1683",
+    "display_date":1682,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Frankfurt",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":" Frankfurt Germany ",
+    "comment":"zum Deputationstag",
+    "source":"Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.89779,48.3705449 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.12.1689",
+    "event_end":"24.01.1690",
+    "display_date":1689,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Augsburg",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":" Augsburg Germany ",
+    "comment":"zum Wahltag",
+    "source":"Das Domkapitel zu Eichstätt, S. 350; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1743197,52.3555177 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"16.02.1691",
+    "event_end":"08.06.1691",
+    "display_date":1691,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"England",
+    "place_count":1,
+    "country":"United Kingdom",
+    "Full Address":" England United Kingdom ",
+    "comment":"#",
+    "source":"Das Domkapitel zu Eichstätt, S. 350 f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"16.02.1700",
+    "event_end":"#",
+    "display_date":1700,
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.185239,48.8910779 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"14.01.1705",
+    "event_end":"#",
+    "display_date":1705,
+    "event_type":"Wahl",
+    "pers_function":"Fürstbischof",
+    "inst_name":"Eichstätter Hochstift",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Eichstätter Hochstift Eichstätt Germany ",
+    "comment":"#",
+    "source":"Das Domkapitel zu Eichstätt, S. 351"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.185239,48.8910779 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1705",
+    "event_end":"#",
+    "display_date":1705,
+    "event_type":"Resignation und Ablehnung der Wahl zum Fürstbischof",
+    "pers_function":"#",
+    "inst_name":"Eichstätter Domkapitel; Eichstätter Hochstift",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral; Eichstätter Hochstift Eichstätt Germany ",
+    "comment":"#",
+    "source":"Germania Sacra, Neue Folge 19, Die Bistümer der Kirchenprovinz Trier, S. 313; Hersche, S. 90 https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1714",
+    "event_end":"#",
+    "display_date":1714,
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"Mainzer Dom",
+    "place_name":"Mainz",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 176; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  }
+]
+}

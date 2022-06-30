@@ -1,0 +1,413 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.882515,49.8907746 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1754",
+    "event_end":"#",
+    "display_date":"1754",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Bamberger Domkapitel",
+    "place_name":"Bamberg",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Bamberger Dom Bamberg Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.882515,49.8907746 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"01.02.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Bamberger Domkapitel",
+    "place_name":"Bamberg",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Bamberger Dom Bamberg Germany ",
+    "comment":"#",
+    "source":"Salver, S. 738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.882515,49.8907746 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.02.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Bamberger Domkapitel",
+    "place_name":"Bamberg",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Bamberger Dom Bamberg Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249; Salver, S. 738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.9582814,50.9412784 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1754",
+    "event_end":"#",
+    "display_date":"1754",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Kölner Domkapitel",
+    "place_name":"Köln",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":"Kölner Dom Köln Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249; Robins, Der ritterliche landständige Adel des Großherzogthum Niederrein, S. 277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":6,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S.177; Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6371433,49.749992 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1749",
+    "event_end":"#",
+    "display_date":"1749",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Trierer Domkapitel",
+    "place_name":"Trier",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":"Cathedral Trier Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3507182,49.6341372 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1793",
+    "event_end":"#",
+    "display_date":"1793",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Wormser Domkapitel",
+    "place_name":"Worms",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":"Cathedral Worms Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3507182,49.6341372 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1793",
+    "event_end":"#",
+    "display_date":"1793",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Wormser Domkapitel",
+    "place_name":"Worms",
+    "place_count":2,
+    "country":"Germany",
+    "Full Address":"Cathedral Worms Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Würzburger Domkapitel",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral Würzburg Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1784",
+    "event_end":"#",
+    "display_date":"1784",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Würzburger Domkapitel",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":"Cathedral Würzburg Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.01.1738",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":1,
+    "country":"Germany",
+    "Full Address":"  Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9533548,49.7913044 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.09.1817",
+    "event_end":"#",
+    "display_date":"1817",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "Full Address":" Würzburg Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.09.1781",
+    "event_end":"#",
+    "display_date":"1781",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":6,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Rauch, S. 177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1781",
+    "event_end":"#",
+    "display_date":"1781",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Mainzer Domkapitel",
+    "place_name":"Mainz",
+    "place_count":6,
+    "country":"Germany",
+    "Full Address":"Cathedral Mainz Germany ",
+    "comment":"#",
+    "source":"Hersche, S. 131"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Geheimrat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":6,
+    "country":"Germany",
+    "Full Address":" Mainz Germany ",
+    "comment":"#",
+    "source":"Robins, Der ritterliche landständige Adel des Großherzogthum Niederrein, S. 277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Ehrenritter des Malteserorden",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":6,
+    "country":"Germany",
+    "Full Address":" Mainz Germany ",
+    "comment":"#",
+    "source":"Robins, Der ritterliche landständige Adel des Großherzogthum Niederrein, S. 277; Kurmainzischer Hof - und Staatskalender 1773, S. 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1771",
+    "event_end":"1774/ 75",
+    "display_date":"1771",
+    "event_type":"Wahl",
+    "pers_function":"Generalvikar",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":6,
+    "country":"Germany",
+    "Full Address":" Mainz Germany ",
+    "comment":"#",
+    "source":"Kurmainzischer Hof- und Staatskalender 1774, S. 16; 1775, S. 17; May 2004, S. 336; Bischofslexikon, S. 271."
+    }
+  }
+]
+}
