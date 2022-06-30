@@ -1,0 +1,293 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.89779,48.3705449 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.12.1689",
+    "event_end":"24.01.1690",
+    "display_date":1689,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Augsburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Augsburg Germany",
+    "comment":"zum Wahltag",
+    "source":"Das Domkapitel zu Eichstätt, S. 350; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1743197,52.3555177 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"16.02.1691",
+    "event_end":"08.06.1691",
+    "display_date":1691,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"England",
+    "place_count":1,
+    "country":"United Kingdom",
+    "# Full Address":"England United Kingdom",
+    "comment":"#",
+    "source":"Das Domkapitel zu Eichstätt, S. 350 f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6821267,50.1109221 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.03.1682",
+    "event_end":"08.01.1683",
+    "display_date":1682,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Frankfurt",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Frankfurt Germany",
+    "comment":"zum Deputationstag",
+    "source":"Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1016236,49.0134297 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.08.1673",
+    "event_end":"#",
+    "display_date":1673,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Regensburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Regensburg Germany",
+    "comment":"zum Reichstag",
+    "source":"Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4963655,41.9027835 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.11.1667",
+    "event_end":"#",
+    "display_date":1667,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Rom",
+    "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Rom Italy",
+    "comment":"visitatio liminum",
+    "source":"Das Domkapitel zu Eichstätt, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1676",
+    "event_end":"25.02.1677",
+    "display_date":1676,
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Trierer Erzbistum",
+    "place_name":"Wien",
+    "place_count":1,
+    "country":"Austria",
+    "# Full Address":"Vienna Austria",
+    "comment":"zum Kaiser",
+    "source":"Germania Sacra, Neue Folge 19, Die Bistümer der Kirchenprovinz Trier, S. 313; Das Domkapitel zu Eichstätt, S. 350; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.472962,49.817492 ]
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1643",
+    "event_end":"1644",
+    "display_date":1643,
+    "event_type":"Kommando über eine Kompanie Kürassiere",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Böhmen",
+    "place_count":1,
+    "country":"Europe",
+    "# Full Address":"Bohemia Europe",
+    "comment":"#",
+    "source":"Lahrkamp, S. 97"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.83183,50.42893 ]
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.08.1648",
+    "event_end":"#",
+    "display_date":1648,
+    "event_type":"Niederlage in der Schlacht bei Lens",
+    "pers_function":"Obrist eines spanischen Reiterregiments",
+    "inst_name":"#",
+    "place_name":"Lens",
+    "place_count":1,
+    "country":"France",
+    "# Full Address":"Lens France",
+    "comment":"#",
+    "source":"Lahrkamp, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3675767,48.2112667 ]
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"1679",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1679,
+    "event_type":"Reise an den kaiserlichen Hof zur offiziellen Einholung des Kurmainzer Reichslehen",
+    "pers_function":"Gesandter",
+    "inst_name":"Kaiserlicher Hof",
+    "place_name":"Wien",
+    "place_count":1,
+    "country":"Austria",
+    "# Full Address":"Kaiserlicher Hof Wien Austria",
+    "comment":"#",
+    "source":"https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7704158,49.488537 ]
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"??.08.1724",
+    "event_end":"#",
+    "display_date":1724,
+    "event_type":"Staatsreise",
+    "pers_function":"#",
+    "inst_name":"Hochmeister-Residenz von Franz Ludwig von Pfalz-Neuburg",
+    "place_name":"Mergentheim",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Hochmeister-Residenz von Franz Ludwig von Pfalz-Neuburg Mergentheim Germany",
+    "comment":"Ziel: Bewegung zur Resignation in der kurmainzischen Koadjutorie-Angelegenheit",
+    "source":"Romberger, Winfried: Germania Sacra. Dritte Folge. Band 8: Die Bistümer der Kirchenprovinz Mainz. Das Bistum Würzburg 8. Die Würzburger Bischöfe von 1687-1746, S. 306"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1647",
+    "event_end":"#",
+    "display_date":1647,
+    "event_type":"Versuch spanische Truppen nach Mainz zu schmuggeln",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
+    "comment":"#",
+    "source":"Lahrkamp, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1666",
+    "event_end":"#",
+    "display_date":1666,
+    "event_type":"Vertretung des Kurfürsten während eines Pestausbruches",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
+    "comment":"#",
+    "source":"http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html"
+    }
+  }
+]
+}
