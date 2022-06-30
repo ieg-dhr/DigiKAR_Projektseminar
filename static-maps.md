@@ -36,7 +36,6 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 <h4>3) Point clustering to show centres of action</h4>
 <em>The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
-<a href="./maps/Domherren_places-frequency.png"><img src="./maps/Domherren_places-frequency.png" width="620px" align="center"/></a>
 <a href="./maps/Domherren_clustered-close-up.png"><img src="./maps/Domherren_clustered-close-up.png" width="620px" align="center"/></a>
 <p>The maps above shows places in the collected dataset as coloured clusters. The largest dots indicate place names that are disproportionately frequent in the data.</p>
 
