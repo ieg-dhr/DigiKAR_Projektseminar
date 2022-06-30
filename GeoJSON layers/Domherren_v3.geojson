@@ -332,7 +332,7 @@
     "place_name":"Bamberg",
     "place_count":6,
     "country":"Germany",
-    "# Full Address":"Cathedral Bamberg Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
     "source":"Hersche, S. 249"
     }
@@ -356,7 +356,7 @@
     "place_name":"Bamberg",
     "place_count":6,
     "country":"Germany",
-    "# Full Address":"Cathedral Bamberg Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
     "source":"Salver, S. 738"
     }
@@ -380,7 +380,7 @@
     "place_name":"Bamberg",
     "place_count":6,
     "country":"Germany",
-    "# Full Address":"Cathedral Bamberg Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
     "source":"Hersche, S. 249; Salver, S. 738"
     }
@@ -404,7 +404,7 @@
     "place_name":"Bamberg",
     "place_count":6,
     "country":"Germany",
-    "# Full Address":"Cathedral Bamberg Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
     "source":"Johann Philipp Franz Graf von Schönborn"
     }
@@ -428,7 +428,7 @@
     "place_name":"Bamberg",
     "place_count":6,
     "country":"Germany",
-    "# Full Address":"Cathedral Bamberg Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
     "source":"Johann Philipp Franz Graf von Schönborn"
     }
@@ -452,7 +452,7 @@
     "place_name":"Bamberg",
     "place_count":6,
     "country":"Germany",
-    "# Full Address":"Cathedral Bamberg Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
     "source":"Hersche, S. 75"
     }
@@ -476,7 +476,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"Hersche, S. 90"
     }
@@ -500,7 +500,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben; Braun, Das Domkapitel Eichstätt, S. 440"
     }
@@ -524,7 +524,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben"
     }
@@ -548,7 +548,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"Rauch, S. 175; https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben"
     }
@@ -572,7 +572,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"Braun, Das Domkapitel Eichstätt, S. 441"
     }
@@ -596,7 +596,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"Datum geht aus Weihe zum Bischof hervor; anders als für Resignation des Domdekanats ist für dieses Ereignis kein genaues Datum überliefert; Datum als terminus oder terminus ante quem",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben"
     }
@@ -620,7 +620,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben"
     }
@@ -644,7 +644,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"Braun, Das Domkapitel Eichstätt, S. 441"
     }
@@ -653,7 +653,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 11.185239,48.8910779 ]
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -668,7 +668,7 @@
     "place_name":"Eichstätt",
     "place_count":9,
     "country":"Germany",
-    "# Full Address":"Cathedral Eichstätt Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
     "source":"Germania Sacra, Neue Folge 19, Die Bistümer der Kirchenprovinz Trier, S. 313; Hersche, S. 90 https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
     }
@@ -692,7 +692,7 @@
     "place_name":"Halberstadt",
     "place_count":1,
     "country":"Germany",
-    "# Full Address":"Cathedral Halberstadt Germany",
+    "# Full Address":"Dom Halberstadt Germany",
     "comment":"#",
     "source":"Theux, Bd. 3., S. 345."
     }
@@ -716,7 +716,7 @@
     "place_name":"Hildesheim",
     "place_count":2,
     "country":"Germany",
-    "# Full Address":"Cathedral Hildesheim Germany",
+    "# Full Address":"Dom Hildesheim Germany",
     "comment":"#",
     "source":"Dylong, S. 372."
     }
@@ -740,7 +740,7 @@
     "place_name":"Hildesheim",
     "place_count":2,
     "country":"Germany",
-    "# Full Address":"Cathedral Hildesheim Germany",
+    "# Full Address":"Dom Hildesheim Germany",
     "comment":"#",
     "source":"Dylong, S. 372."
     }
@@ -764,7 +764,7 @@
     "place_name":"Lüttich",
     "place_count":2,
     "country":"Belgium",
-    "# Full Address":"Cathedral Lüttich Belgium",
+    "# Full Address":"Dom Lüttich Belgium",
     "comment":"#",
     "source":"Hersche, S. 121; Theux, Bd. 3, S. 345"
     }
@@ -788,7 +788,7 @@
     "place_name":"Lüttich",
     "place_count":2,
     "country":"Belgium",
-    "# Full Address":"Cathedral Lüttich Belgium",
+    "# Full Address":"Dom Lüttich Belgium",
     "comment":"#",
     "source":"Theux, Bd. 3., S. 345."
     }
@@ -812,7 +812,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Wendehorst: Germania Sacra: Historisch-statistische Beschreibung der Kirche des Alten Reiches. Neue Folge 40. Die Bistümer der Kirchenprovinz Mainz, hrsg. vom Max-Planck-Institut für Geschichte"
     }
@@ -836,7 +836,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Wendehorst: Germania Sacra: Historisch-statistische Beschreibung der Kirche des Alten Reiches. Neue Folge 40. Die Bistümer der Kirchenprovinz Mainz, hrsg. vom Max-Planck-Institut für Geschichte, 2001, S.225"
     }
@@ -860,7 +860,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"#"
     }
@@ -884,7 +884,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Wendehorst: Germania Sacra: Historisch-statistische Beschreibung der Kirche des Alten Reiches. Neue Folge 40. Die Bistümer der Kirchenprovinz Mainz, hrsg. vom Max-Planck-Institut für Geschichte; Germania Sacra, 2001, S.225"
     }
@@ -908,7 +908,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 168; https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
     }
@@ -932,7 +932,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 168"
     }
@@ -941,7 +941,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.2739456,49.9988965 ]
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -956,7 +956,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Bei Rauch: Pröpste, Propstei und Stift von Sankt Bartholomäus in Frankfurt, S. 186 steht 1696; sonst überall 1695",
     "source":"Rauch, S. 175; Constantin von Wurzbach: Stadion, Christoph Rudolf, in: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26"
     }
@@ -980,7 +980,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 175; https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion"
     }
@@ -1004,7 +1004,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S.177; Hersche, S. 249"
     }
@@ -1028,7 +1028,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 177"
     }
@@ -1052,7 +1052,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 131"
     }
@@ -1076,7 +1076,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Lahrkamp, S. 96"
     }
@@ -1100,7 +1100,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 128, Rauch, S. 174, Lahrkamp, S. 103"
     }
@@ -1124,7 +1124,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 175; Das Domkapitel zu Eichstätt, S. 350"
     }
@@ -1148,7 +1148,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 176"
     }
@@ -1172,7 +1172,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 176; https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich"
     }
@@ -1196,7 +1196,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 177."
     }
@@ -1220,7 +1220,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 177."
     }
@@ -1244,7 +1244,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 177."
     }
@@ -1268,7 +1268,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 140; Hersche, S. 130"
     }
@@ -1292,7 +1292,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Nottarp, S. 120"
     }
@@ -1316,7 +1316,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 176"
     }
@@ -1340,7 +1340,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 176"
     }
@@ -1364,7 +1364,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Nottarp, S. 121"
     }
@@ -1388,7 +1388,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 130;"
     }
@@ -1412,7 +1412,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S.176"
     }
@@ -1436,7 +1436,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 176, https://www.archivportal-d.de/item/YD4OU42NHIDVH4FCNTLSYHTP5B4TOXBB"
     }
@@ -1460,7 +1460,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 176"
     }
@@ -1484,7 +1484,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Inschrift",
     "source":"Rauch, S. 176; Beiträge Geschichte MZ, Bd. 26, 1982, S. 66 Nr. 1730"
     }
@@ -1508,7 +1508,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 174, Herrsche, S. 128"
     }
@@ -1532,7 +1532,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Wendehorst (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
     }
@@ -1556,7 +1556,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Datum nicht genau überliefert, geht aus Wahl zum Domprobst hervor",
     "source":"Rauch, S: 174"
     }
@@ -1580,7 +1580,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S: 174"
     }
@@ -1604,7 +1604,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Wendehorst (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
     }
@@ -1628,7 +1628,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Johann Philipp Franz Graf von Schönborn"
     }
@@ -1652,7 +1652,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"#"
     }
@@ -1676,7 +1676,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Johann Philipp Franz Graf von Schönborn"
     }
@@ -1700,7 +1700,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Herrsche, S. 128 hat 1631 als Datum für die Aufschwörung. Siehe Spalte \"source\" für die Begründung, warum diese Datum ausgewählt wurde",
     "source":"Rauch, S. 154; im Findbuch zum Aktenbestand des Archivs Schloss Gracht findet sich bei Akte 505 der enthält-Vermerk: „zum Kanonikat Johann Wilhelm Wolff Metternichs am Dom zu Mainz 1630-1643“. Dies spricht also dafür, dass er bereits 1630 zum Domkapitel aufgeschwört wurde."
     }
@@ -1724,7 +1724,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Laut Wikipedia wird er 1675 Domscholaster, so auch laut Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 341",
     "source":"Rauch, S. 154; Wikipedia"
     }
@@ -1748,7 +1748,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 167"
     }
@@ -1772,7 +1772,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 167"
     }
@@ -1796,7 +1796,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 175"
     }
@@ -1820,7 +1820,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 341, hat für dieses Amt das Jahr 1687",
     "source":"Rauch, S. 175"
     }
@@ -1844,7 +1844,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 130"
     }
@@ -1868,7 +1868,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108"
     }
@@ -1892,7 +1892,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Datum der Wahl in Universitätsmatrikeln 17.02.1739",
     "source":"Rauch, S. 176; Verzeichnis der Mainzer Universitätsmatrikeln, S. 108 (Datum der Wahl = 17.02.1738"
     }
@@ -1916,7 +1916,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 129; Christ, S. 9"
     }
@@ -1940,7 +1940,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 129, Rauch, S. 174, Christ, S. 9"
     }
@@ -1964,7 +1964,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Hersche, S. 129"
     }
@@ -1988,7 +1988,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben; Braun, Das Domkapitel Eichstätt, S. 440"
     }
@@ -2012,7 +2012,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"erwähnenswert?",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben"
     }
@@ -2036,7 +2036,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"Rauch, S. 175"
     }
@@ -2060,7 +2060,7 @@
     "place_name":"Mainz",
     "place_count":53,
     "country":"Germany",
-    "# Full Address":"Cathedral Mainz Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"erwähnenswert?",
     "source":"https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben"
     }
@@ -2084,7 +2084,7 @@
     "place_name":"Minden",
     "place_count":2,
     "country":"Germany",
-    "# Full Address":"Cathedral Minden Germany",
+    "# Full Address":"Dom Minden Germany",
     "comment":"Resignation mit Tod",
     "source":"Hersche, S. 205; Schrader, S. 109"
     }
@@ -2108,7 +2108,7 @@
     "place_name":"Minden",
     "place_count":2,
     "country":"Germany",
-    "# Full Address":"Cathedral Minden Germany",
+    "# Full Address":"Dom Minden Germany",
     "comment":"#",
     "source":"Hersche, S. 205; Schrader, S. 109"
     }
@@ -2132,7 +2132,7 @@
     "place_name":"Münster",
     "place_count":2,
     "country":"Germany",
-    "# Full Address":"Cathedral Münster Germany",
+    "# Full Address":"Dom Münster Germany",
     "comment":"#",
     "source":"Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 341"
     }
@@ -2156,7 +2156,7 @@
     "place_name":"Münster",
     "place_count":2,
     "country":"Germany",
-    "# Full Address":"Cathedral Münster Germany",
+    "# Full Address":"Dom Münster Germany",
     "comment":"Laut Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 341 zurückdatiert auf 1642",
     "source":"Herrsche, S. 135"
     }
@@ -2180,7 +2180,7 @@
     "place_name":"Paderborn",
     "place_count":1,
     "country":"Germany",
-    "# Full Address":"Cathedral Paderborn Germany",
+    "# Full Address":"Dom Paderborn Germany",
     "comment":"#",
     "source":"Herrsche, S. 147"
     }
@@ -2189,7 +2189,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.4422315,49.3171989 ]
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -2204,7 +2204,7 @@
     "place_name":"Speyer",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Speyer Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"Einfache Resignation",
     "source":"Hersche, S. 128"
     }
@@ -2213,7 +2213,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.4422315,49.3171989 ]
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2228,7 +2228,7 @@
     "place_name":"Speyer",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Speyer Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
     "source":"Hersche, S. 166"
     }
@@ -2237,7 +2237,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.4422315,49.3171989 ]
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -2252,7 +2252,7 @@
     "place_name":"Speyer",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Speyer Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
     "source":"Lahrkamp, S. 96"
     }
@@ -2261,7 +2261,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.4422315,49.3171989 ]
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2276,7 +2276,7 @@
     "place_name":"Speyer",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Speyer Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
     "source":"Hersche, S. 166"
     }
@@ -2285,7 +2285,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -2300,7 +2300,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Hersche, S. 249"
     }
@@ -2309,7 +2309,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -2324,7 +2324,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich; Das Domkapitel zu Eichstätt, S. 350"
     }
@@ -2333,7 +2333,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -2348,7 +2348,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Hersche, S. 185., Dylong, S. 372"
     }
@@ -2357,7 +2357,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -2372,7 +2372,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"stimmt das so? Im Staatskalender steht 1773, dass er Domizellar in TR sei. Evtl. wieder eingetreten? Ist sowas problemlos mgl.? Dylong sagt, 1775 ausgetreten",
     "source":"#"
     }
@@ -2381,7 +2381,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -2396,7 +2396,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Hersche, S. 184"
     }
@@ -2405,7 +2405,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2420,7 +2420,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Hersche, S. 184; Durchhardt, S. 255"
     }
@@ -2429,7 +2429,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2444,7 +2444,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Hersche, S. 184"
     }
@@ -2453,7 +2453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2468,7 +2468,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Hersche, S. 182; Christ, S. 9"
     }
@@ -2477,7 +2477,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2492,7 +2492,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Christ, S. 9"
     }
@@ -2501,7 +2501,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2516,7 +2516,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Christ, S. 9"
     }
@@ -2525,7 +2525,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2540,7 +2540,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Christ, S. 9"
     }
@@ -2549,7 +2549,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2564,7 +2564,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Christ, S. 9"
     }
@@ -2573,7 +2573,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.6371433,49.749992 ]
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2588,7 +2588,7 @@
     "place_name":"Trier",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Trier Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
     "source":"Christ, S. 9"
     }
@@ -2612,7 +2612,7 @@
     "place_name":"Worms",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Worms Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"#",
     "source":"Hersche, S. 249"
     }
@@ -2636,7 +2636,7 @@
     "place_name":"Worms",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Worms Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"#",
     "source":"Hersche, S. 249"
     }
@@ -2660,7 +2660,7 @@
     "place_name":"Worms",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Worms Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"Wikipedia schreibt, ab 1617 tauche von Saal in den Domkapitelprotokollen auf, Herrsche nimmt 1617 als Eintrittsdatum in das Wormser Domkapitel, was in Verbindung mit dem Alter die Vermutung naheliegt, es handelt sich bei diesem Ereignis um die Ernennung zum Domizellar",
     "source":"Herrsche, S. 128; Wikipedia"
     }
@@ -2684,7 +2684,7 @@
     "place_name":"Worms",
     "place_count":4,
     "country":"Germany",
-    "# Full Address":"Cathedral Worms Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"#",
     "source":"Wikipedia"
     }
@@ -2708,7 +2708,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Wendehorst: Germania Sacra: Historisch-statistische Beschreibung der Kirche des Alten Reiches. Neue Folge 40. Die Bistümer der Kirchenprovinz Mainz, hrsg. vom Max-Planck-Institut für Geschichte, 2001, S. 225."
     }
@@ -2732,7 +2732,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Wendehorst: Germania Sacra: Historisch-statistische Beschreibung der Kirche des Alten Reiches. Neue Folge 40. Die Bistümer der Kirchenprovinz Mainz, hrsg. vom Max-Planck-Institut für Geschichte"
     }
@@ -2756,7 +2756,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Wendehorst: Germania Sacra: Historisch-statistische Beschreibung der Kirche des Alten Reiches. Neue Folge 40. Die Bistümer der Kirchenprovinz Mainz, hrsg. vom Max-Planck-Institut für Geschichte, 2001, S.225"
     }
@@ -2780,7 +2780,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Hersche, S. 249"
     }
@@ -2804,7 +2804,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Hersche, S. 249"
     }
@@ -2828,7 +2828,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Wendehorst (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
     }
@@ -2852,7 +2852,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Bischofslexikon von Gatz, S. 442"
     }
@@ -2876,7 +2876,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"Widerspruch zur Kavalierstour",
     "source":"Romberger, Winfried: Germania Sacra. Dritte Folge. Band 8: Die Bistümer der Kirchenprovinz Mainz. Das Bistum Würzburg 8. Die Würzburger Bischöfe von 1687-1746, S. 290"
     }
@@ -2900,7 +2900,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Wendehorst, Alfred \"Johann Philipp Franz\", in: Neuere Deutsche Biographie 10 (1974), S. 546"
     }
@@ -2924,7 +2924,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"#"
     }
@@ -2948,7 +2948,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Romberger, Winfried: Germania Sacra. Dritte Folge. Band 8: Die Bistümer der Kirchenprovinz Mainz. Das Bistum Würzburg 8. Die Würzburger Bischöfe von 1687-1746, S. 292"
     }
@@ -2972,7 +2972,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Hersche, S. 195"
     }
@@ -2996,7 +2996,7 @@
     "place_name":"Würzburg",
     "place_count":13,
     "country":"Germany",
-    "# Full Address":"Cathedral Würzburg Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
     "source":"Bischofslexikon von Gatz, S. 442"
     }
@@ -5357,7 +5357,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.2806368,50.0192814 ]
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -5381,7 +5381,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.2806368,50.0192814 ]
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -5405,7 +5405,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.24556,49.91472 ]
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -5429,7 +5429,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.24556,49.91472 ]
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"karl Emmerich Franz von Breidbach-Bürresheim",
@@ -5453,7 +5453,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.24556,49.91472 ]
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -6389,7 +6389,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.6724335,49.3987524 ]
+       "coordinates":  [ 8.7045318,49.4114014 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -6437,7 +6437,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.9293608,50.9282632 ]
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -6461,7 +6461,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.0078781,49.2328426 ]
+       "coordinates":  [ 4.031696,49.258329 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
