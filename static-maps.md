@@ -37,6 +37,56 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 <em>The third visualisation option used <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
 <a href="./maps/Domherren_clustered_close-up.png"><img src="./maps/Domherren_clustered_close-up.png" width="650px" align="center"/></a>
-<p>The maps above shows places in the collected dataset as coloured clusters. The largest dots indicate place names that are disproportionately frequent in the data.</p>
+<p>The map above shows places in the collected dataset as coloured clusters. The largest dots indicate place names that are disproportionately frequent in the data.</p>
+<p>The map below shows numerical frequencies per cluster. In exact numbers, the cathedral of Mainz (Dom Mainz) is the most frequent place with 53 occurrences.</p>
+
+<a href="./maps/Domherren_places-frequency_2.png"><img src="./maps/Domherren_places-frequency_2.png" width="650px" align="center"/></a>
+
+<p>All places with 5 and more occurrences are listed in the following table:</p>
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #2"># Full Address</th>
+<th title="Field #3"># place_count</th>
+</tr></thead>
+<tbody><tr>
+<td>---------------------</td>
+<td>-------------</td>
+</tr>
+<tr>
+<td>Dom Mainz Germany    </td>
+<td>53           </td>
+</tr>
+<tr>
+<td>Mainz Germany        </td>
+<td>34           </td>
+</tr>
+<tr>
+<td>Germany              </td>
+<td>26           </td>
+</tr>
+<tr>
+<td>Dom Trier Germany    </td>
+<td>13           </td>
+</tr>
+<tr>
+<td>Dom Würzburg Germany </td>
+<td>13           </td>
+</tr>
+<tr>
+<td>Dom Eichstätt Germany</td>
+<td>9            </td>
+</tr>
+<tr>
+<td>Dom Bamberg Germany  </td>
+<td>6            </td>
+</tr>
+<tr>
+<td>Erfurt Germany       </td>
+<td>5            </td>
+</tr>
+<tr>
+<td>Köln Germany         </td>
+<td>5            </td>
+</tr>
+</tbody></table>
 
 <hr>
