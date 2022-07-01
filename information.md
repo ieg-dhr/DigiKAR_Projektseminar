@@ -1,7 +1,7 @@
 
 <h2>Persons studied in the project</h2>
 
-<p>The early modern clerics whose biographies the students have researched for this project held offices in the cathedral chapter of the Prince-Bishopric of Mainz (in present-day Germany). Initially, the students' research also included laymen who held cathedral prebends, but the final focus of the project was placed on <strong>fifteen deans of the cathedral</strong> ("Dompröbste") active between 1650 and 1800:</p>
+<p>The early modern clerics whose biographies the students have researched for this project held offices in the cathedral chapter of the Prince-Bishopric of Mainz (in present-day Germany). Initially, the students' research also included laymen who held cathedral prebends, but the final focus of the project was placed on <strong>fourteen provosts of the cathedral</strong> ("Dompröbste") active between 1650 and 1800:</p>
 
 1) Adolf Hund von Saulheim  
 
@@ -29,8 +29,6 @@
 
 13) Heinrich Wilhelm Harff von Dreyborn 
 
-14) Damian Friedrich Graf von der Leyen  
-
-15) ?
+14) Damian Friedrich Graf von der Leyen
 
 
