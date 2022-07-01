@@ -7,22 +7,22 @@
 
 <h4>Participating students:</h4>
 
- <table border="0" style="width:90%" align="center">
+ <table border="0" style="width:90%" align="center" style="padding: 30px">
   <tr style="width:200px">
-    <td>NN</td>
-    <td>NN</td>
-    <td>NN</td>
+    <td>Alina Buchal</td>
+    <td>Lara Beringer</td>
+    <td>Claudia Dorst Alonso</td>
   </tr>
   <tr style="width:200px">
-    <td>NN</td>
-    <td>NN</td>
-    <td>NN</td>
+    <td>Julia Celine Jung</td>
+    <td>Lukas Theobald</td>
+    <td>Jana Unselt</td>
   </tr>
 </table> 
 
 <hr>
 
-<img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" padding="10px" align="left"/> 
+<img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" style="padding: 10px" align="left"/> 
 <p align="justify" padding="10px">The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
 <p>E-Mail: digikar@ieg-mainz.de</p>
