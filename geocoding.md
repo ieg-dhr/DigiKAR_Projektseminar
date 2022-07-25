@@ -15,5 +15,5 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 <p align="justify">Finally, a column to count the overall occurence of each place name in the data set was added. These integers can be used as a <code>weight</code> to define in which size point geometries ought to be displayed in maps.</p>
 
-<p align="justify">Please view or download the <a href="./CSV%20tables/FactoidList_30Juni2022_enriched.csv">updated data table in CSV format</a> or check the data with coordinates in <a href="./GeoJSON%20layers/Domherren_v3.geojson">GeoJSON format (v3)</a>.</p>
+<p align="justify">Please view or download the <a href="./CSV%20tables/FactoidList_30Juni2022_enriched.csv">updated data table in CSV format</a> or check the data with coordinates in <a href="./GeoJSON%20layers/Domherren_v4.geojson">GeoJSON format (v3)</a>.</p>
 
