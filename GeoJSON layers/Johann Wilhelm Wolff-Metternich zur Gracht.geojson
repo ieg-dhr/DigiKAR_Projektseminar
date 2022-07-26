@@ -1,0 +1,355 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4917397,41.9050908 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"1650",
+    "event_start":"1644",
+    "event_end":"#",
+    "display_date":1650,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
+    "comment":"Allerdings keine genauere Angabe bei Becker-Huberti. Die Tridentische Reform S. 47 mit Anm. 27 und auch kein Verweis. woher diese Angabe stammt",
+    "source":"Becker-Huberti. Die Tridentische Reform im Bistum Münster. S. 47 mit Anm. 27, Schmidt. Collegium Germanicum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.09.1630",
+    "event_end":"#",
+    "display_date":1630,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Hersche. Deutsche Domkapitel. S. 128 hat 1631 als Datum für die Aufschwörung. Siehe Spalte \"source\" für die Begründung. warum diese Datum ausgewählt wurde",
+    "source":"Rauch. Domkapitel Mainz. S. 154, aus der Antwortmail auf eine Frage zu diesem Datum: \"im Findbuch zum Aktenbestand des Archivs Schloss Gracht findet sich bei Akte 505 der enthält-Vermerk: „zum Kanonikat Johann Wilhelm Wolff Metternichs am Dom zu Mainz 1630-1643“. Dies spricht also dafür. dass er bereits 1630 zum Domkapitel aufgeschwört wurde.\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.11.1674",
+    "event_end":"#",
+    "display_date":1674,
+    "event_type":"Wahl",
+    "pers_function":"Domscholaster",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Laut Wikipedia. Johann Wilhelm Wolff von Metternich zur Gracht. wird er 1675 Domscholaster. so auch laut Becker-Huberti. Die Tridentische Reform. S. 341. Allerdings genaues Datum bei Rauch (siehe Spalte source). sodass dieses Datum ausgewählt wurde",
+    "source":"Rauch. Domkapitel Mainz. S. 154, Wikipedia. Johann Wilhelm Wolff von Metternich zur Gracht"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"4.11.1679",
+    "event_end":"#",
+    "display_date":1679,
+    "event_type":"Resignation",
+    "pers_function":"Domscholaster",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"4.11.1679",
+    "event_end":"#",
+    "display_date":1679,
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"20.2.1685",
+    "event_end":"#",
+    "display_date":1685,
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"20.2.1685",
+    "event_end":"#",
+    "display_date":1685,
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Becker-Huberti. Die Tridentische Reform. S. 341. hat für dieses Amt das Jahr 1687",
+    "source":"Rauch. Domkapitel Mainz. S. 175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.12.1694",
+    "event_end":"#",
+    "display_date":1694,
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Arens. Mainzer Inschriften. S. 40ff."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6257716,51.9629806 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1693",
+    "event_end":"#",
+    "display_date":1693,
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Münster",
+    "place_name":"Münster",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Münster Germany",
+    "comment":"#",
+    "source":"Becker-Huberti. Die Tridentische Reform. S. 341"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6257716,51.9629806 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1649",
+    "event_end":"#",
+    "display_date":1649,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Münster",
+    "place_name":"Münster",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Münster Germany",
+    "comment":"Laut Becker-Huberti. Die Tridentische Reform im Bistum Münster. S. 341 zurückdatiert auf 1642",
+    "source":"Hersche. Deutsche Domkapitel. S. 135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.75583,51.7189529 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1644",
+    "event_end":"#",
+    "display_date":1644,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Paderborn",
+    "place_name":"Paderborn",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Dom Paderborn Germany",
+    "comment":"#",
+    "source":"Hersche. Deutsche Domkapitel. S. 147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":182,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.11.1624",
+    "event_end":"#",
+    "display_date":1624,
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Wikipedia. Johann Wilhelm Wolff von Metternich zur Gracht. nennt 13.11.1624 als Geburtsdatum",
+    "source":"Rauch. Domkapitel Mainz. S. 154, Schleicher. Ernst von Oidtman. Bd. 16. S. 720"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.12.1694",
+    "event_end":"#",
+    "display_date":1694,
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 154. Wikipedia. Johann Wilhelm Wolff von Metternich zur Gracht"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"15.12.1694",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1694,
+    "event_type":"Ernennung",
+    "pers_function":"Geheimer Rat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"Übte dieses Amt laut seinem Grabstein aus",
+    "source":"Arens. Mainzer Inschriften. S. 40ff."
+    }
+  }
+]
+}

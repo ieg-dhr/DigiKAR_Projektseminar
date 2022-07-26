@@ -1,0 +1,405 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.8421043,47.9990077 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1630",
+    "event_end":"#",
+    "display_date":"1630",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Albertina",
+    "place_name":"Freiburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Albertina Freiburg Germany",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321 (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 174. Hersche. Deutsche Domkapitel. S. 128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.02.1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.07.1668",
+    "event_end":"#",
+    "display_date":"1668",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 174"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.07.1668",
+    "event_end":"#",
+    "display_date":"1668",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 174"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"03.02.1672",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3507182,49.6341372 ]
+    },
+    "properties": {
+    "FIELD1":132,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1617",
+    "event_end":"#",
+    "display_date":"1617",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
+    "comment":"Wikipedia schreibt. ab 1617 tauche von Saal in den Domkapitelprotokollen auf. Herrsche nimmt 1617 als Eintrittsdatum in das Domkapitel Worms. was in Verbindung mit dem Alter die Vermutung naheliegt. es handelt sich bei diesem Ereignis um die Ernennung zum Domizellar",
+    "source":"Hersche. Domkapitel. S. 128, Wikipedia. Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3507182,49.6341372 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1654",
+    "event_end":"#",
+    "display_date":"1654",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
+    "comment":"#",
+    "source":"Wikipedia. Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.10.1622",
+    "event_end":"#",
+    "display_date":"1622",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1609",
+    "event_end":"#",
+    "display_date":"1609",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"#",
+    "source":"Hersche. Deutsche Domkapitel. S. 128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":181,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1619",
+    "event_end":"1626",
+    "display_date":"1619",
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Wird von Wikipedia als \"Studium\" bezeichnet. Aufgrund des Alters eher \"Schule\"?",
+    "source":"Wikipedia. Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1666",
+    "event_end":"#",
+    "display_date":"1666",
+    "event_type":"Vertretung des Kurfürsten während eines Pestausbruches",
+    "pers_function":"#",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":"Luschberger. Das Domkapitel Mainz (http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "FIELD1":231,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.02.1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.931242,49.7939163 ]
+    },
+    "properties": {
+    "FIELD1":238,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"13.05.1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Wahl",
+    "pers_function":"Stiftsprobst",
+    "inst_name":"Stift Neumünster",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Neumünster Stiftskapitel Würzburg Germany",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6724335,49.3987524 ]
+    },
+    "properties": {
+    "FIELD1":290,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"1654",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Kanzler",
+    "inst_name":"Universität Heidelberg",
+    "place_name":"Heidelberg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Universität Heidelberg Germany",
+    "comment":"Genaues Datum nicht überliefert. dieses Amt fiel ihm als Wormser Domprobst zu",
+    "source":"Wikipedia. Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.3868984,43.1164268 ]
+    },
+    "properties": {
+    "FIELD1":295,
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1634",
+    "event_end":"#",
+    "display_date":"1634",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Perugia",
+    "place_name":"Perugia",
+    "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Universität Perugia Italy",
+    "comment":"#",
+    "source":"Wendehorst. Das Stift Neumünster in Würzburg. S. 321"
+    }
+  }
+]
+}

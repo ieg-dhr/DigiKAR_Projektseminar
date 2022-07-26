@@ -1,0 +1,680 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.10.1712",
+    "event_end":"#",
+    "display_date":"1712",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 140, Hersche. Einleitung. S. 130"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"13.03.1738",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Wahl",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.03.1743",
+    "event_end":"#",
+    "display_date":"1743",
+    "event_type":"Resignation",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch.Domkapitel Mainz. S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.03.1743",
+    "event_end":"",
+    "display_date":"1743",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1765",
+    "event_end":"#",
+    "display_date":"1765",
+    "event_type":"Niederlage bei der Wahl zum Mainzer Erzbischof",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Nottarp. MIndener Domprobst. S. 145"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9191982,52.288856 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"1736",
+    "event_start":"",
+    "event_end":"#",
+    "display_date":"",
+    "event_type":"Resignation",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
+    "comment":"#",
+    "source":"Nottarp Mindener Domprobst.. S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9191982,52.288856 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Wahl",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
+    "comment":"Angabe bei Klassert kann nicht stimmen. da Eltz erst 1736 wegen der Ernennung zum Domprobst Mitglied des Domkapitels wurde. Domkantor als niedere Dignität müsste er ja vorher gewesen sein",
+    "source":"Klassert. Kollegialstift St. Peter. S. 54."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9191982,52.288856 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.03.1736",
+    "event_end":"#",
+    "display_date":"1736",
+    "event_type":"Ernennung",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
+    "comment":"Ernennung durch König FriedrichWilhelmI. in Preußen",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9191982,52.288856 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1736",
+    "event_end":"#",
+    "display_date":"1736",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 205, Schrader. S. 109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1725",
+    "event_end":"#",
+    "display_date":"1725",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 184, Kurmainzer Hof- und Staatskalender 1779. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1439183,51.3770314 ]
+    },
+    "properties": {
+    "FIELD1":152,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Spiritual",
+    "inst_name":"",
+    "place_name":"Eichsfeld",
+    "place_count":1,
+    "country":"",
+    "# Full Address":"Eichsfeld Germany",
+    "comment":"#",
+    "source":"Klassert. Kollegialstift St. Peter. S. 54."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0298799,50.9847679 ]
+    },
+    "properties": {
+    "FIELD1":158,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Probst",
+    "inst_name":"Kollegiatstift ULF",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
+    "comment":"#",
+    "source":"Orts- und Personenregister. S. 404, Kurmainzer Hof- und Staatskalender 1779. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0298799,50.9847679 ]
+    },
+    "properties": {
+    "FIELD1":159,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Probst",
+    "inst_name":"Kollegiatstift ULF",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
+    "comment":"#",
+    "source":"Schrader. Cathedral Chapter Minden. S. 109, Kurmainzer Hof- und Staatskalender 1779. S. 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6821267,50.1109221 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1741",
+    "event_end":"#",
+    "display_date":"1741",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Erster Mainzer Gesandter bei der Kaiserwahl",
+    "inst_name":"",
+    "place_name":"Frankfurt",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Frankfurt Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":178,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.11.1701",
+    "event_end":"#",
+    "display_date":"1701",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 120, Schrader. S.109, Staatskalender 1779. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1439107,51.3770297 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1732",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Statthalter des Eichsfelds",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Heiligenstadt",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Heiligenstadt Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 121. 132, Kurmainzer Hof- und Staatskalender 1740, Kurmainzer Hof- und Staatskalender 1779. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":210,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Geheimer Rat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1740, Kurzmainzer Hof- und Staatskalender 1779. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Leitender Minister",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":212,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1735",
+    "event_end":"#",
+    "display_date":"1735",
+    "event_type":"Ernennung",
+    "pers_function":"Generalvikar",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":"Nottarp. S. 121, Datum: https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1743",
+    "event_end":"",
+    "display_date":"#",
+    "event_type":"Resignation",
+    "pers_function":"Generalvikar",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":"https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":214,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"27.06.1779",
+    "event_end":"#",
+    "display_date":"1779",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"Alternativ wird der 26.03.1778 als Todesdatum angegeben. aufgrund der Nachwahl seines Nachfolgers Heinrich Wilhelm Harff von Dreyborn als Domprobst in Mainz am 26.07.1779. wird jedoch das Todesjahr 1779 (vgl. Rauch. Domkapitel Mainz. S. 177) als wahrscheinlicher angenommen (Veit. Dom Mainzherren. S. 14, sowie von Hersche. Domkapitel Mainz. S. 130).",
+    "source":"Rauch. Dom Mainzkaoitel. S. 176, https://www.dilibri.de/dilibri/name/view/2597111 , Nottarp. Mindener Domprobst. S., Schrader. S. 109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.232266,46.0727345 ]
+    },
+    "properties": {
+    "FIELD1":261,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Kommendatarabt",
+    "inst_name":"Stift Pecswarad",
+    "place_name":"Fünfkirchen in Niederungarn",
+    "place_count":1,
+    "country":"Hungary",
+    "# Full Address":"Stift Pecswarad Fünfkirchen in Niederungarn Hungary",
+    "comment":"#",
+    "source":"Nottarp. Mindener Domprobst. S. 121, Schrader. Cathedral Chapter Minden. S. 109, Staatskalender Mainzer 1740, Staatskalender Mainz 1779, Orts- und Personenverzeichnis Westfällische Zeitschrift. S. 404"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "FIELD1":265,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
+    "comment":"#",
+    "source":"Schrader. Cathedral Chapter Minden. S. 109, Staatskalender 1779. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9626376,50.3462735 ]
+    },
+    "properties": {
+    "FIELD1":278,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Wahl",
+    "pers_function":"Stiftsprobst",
+    "inst_name":"Stift St. Martini. Donati und Nazarii",
+    "place_name":"Mockstadt",
+    "place_count":1,
+    "country":"",
+    "# Full Address":"Stift St. Martini Mockstadt Germany",
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1740"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.26985,50.004825 ]
+    },
+    "properties": {
+    "FIELD1":280,
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Peter",
+    "place_name":"Mainz",
+    "place_count":2,
+    "country":"",
+    "# Full Address":"Stift St. Peter Mainz Germany",
+    "comment":"#",
+    "source":"Kurzmainzer Hof- und Staatskalender 1740. S. 3."
+    }
+  }
+]
+}

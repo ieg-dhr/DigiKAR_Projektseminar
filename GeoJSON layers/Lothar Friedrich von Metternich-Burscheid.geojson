@@ -1,0 +1,680 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5844108,49.1249712 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.06.1656",
+    "event_end":"#",
+    "display_date":"1656",
+    "event_type":"Weihe",
+    "pers_function":"Bischof",
+    "inst_name":"#",
+    "place_name":"Bruchsal",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Bruchsal Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1105932,51.085636 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.09.1617",
+    "event_end":"#",
+    "display_date":"1617",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Burscheid",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Burscheid Germany",
+    "comment":"Luxemburg",
+    "source":"Rauch. Mainzer Inschriften. S. 174. Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1639",
+    "event_end":"#",
+    "display_date":"1639",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 129, Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"21.03.1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 129. Rauch. Domkapitel Mainz. S. 174. Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.02.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"wg. Amtsantritt als Erzbischof",
+    "source":"Hersche. Einleitung. S. 129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"03.06.1675",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Arens. Inschriften. S. 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4412172,49.3172765 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1627",
+    "event_end":"#",
+    "display_date":"1627",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4412172,49.3172765 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
+    "comment":"wg. Wahl zum Bischof",
+    "source":"Hersche. Einleitung. S. 166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4412172,49.3172765 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"03.06.1675",
+    "event_before-date":"",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Beisetzung des Herzens",
+    "pers_function":"",
+    "inst_name":"Speyrer Dom",
+    "place_name":"Speyer",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4412172,49.3172765 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"11.04.1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Wahl",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1625",
+    "event_end":"#",
+    "display_date":"1625",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 182, Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":126,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1645",
+    "event_end":"#",
+    "display_date":"1645",
+    "event_type":"Wahl",
+    "pers_function":"Domkustos",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1654",
+    "event_end":"#",
+    "display_date":"1654",
+    "event_type":"Resignation",
+    "pers_function":"Domkustos",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":128,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Wahl",
+    "pers_function":"Capellanus",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":129,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1660",
+    "event_end":"#",
+    "display_date":"1660",
+    "event_type":"Wahl",
+    "pers_function":"Oberchorbischof",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3507182,49.6341372 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Wahl",
+    "pers_function":"Koadjutor",
+    "inst_name":"Bistum Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
+    "comment":"Die Wormser Postulation wurde nie rechtskräftig. da nicht vom Papst bestätigt",
+    "source":"Christ. Metternich-Burscheidt. S. 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3507182,49.6341372 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"",
+    "event_before-date":"20.02.1673",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Wahl",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
+    "comment":"genaues Datum der Wahl nicht überliefert",
+    "source":"Christ. Metternich-Burscheidt. S. 20f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.09.1640",
+    "event_end":"#",
+    "display_date":"1640",
+    "event_type":"Weihe",
+    "pers_function":"Subdiakon",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Kein Ort gefunden",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":186,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.09.1640",
+    "event_end":"#",
+    "display_date":"1640",
+    "event_type":"Weihe",
+    "pers_function":"Diakon",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Kein Ort gefunden",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":187,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.12.1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Kein Ort gefunden",
+    "source":"Christ. Metternich-Burscheidt. S. 9, Jürtensmeier. Metternich-Burscheid. in Gatz. Bischöfe. S. 309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":217,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"",
+    "event_before-date":"",
+    "event_start":"15.12.1670",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Wahl",
+    "pers_function":"Koadjutor",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.02.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Amtsantritt",
+    "pers_function":"Erzbischof",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 20f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "FIELD1":233,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.06.1675",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 174. Christ. Metternich-Burscheidt. S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.054868,48.90329 ]
+    },
+    "properties": {
+    "FIELD1":242,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"1635",
+    "display_date":"1635",
+    "event_type":"Schulbesuch",
+    "pers_function":"Schüler",
+    "inst_name":"Universität Pont-à-Mousson",
+    "place_name":"Pont-à-Mousson",
+    "place_count":2,
+    "country":"France",
+    "# Full Address":"Pont-à-Mousson France",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.054868,48.90329 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1641",
+    "event_end":"#",
+    "display_date":"1641",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Pont-à-Mousson",
+    "place_name":"Pont-à-Mousson",
+    "place_count":2,
+    "country":"France",
+    "# Full Address":"Pont-à-Mousson France",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.7002953,50.8779545 ]
+    },
+    "properties": {
+    "FIELD1":293,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Löwen",
+    "place_name":"Löwen",
+    "place_count":1,
+    "country":"Belgium",
+    "# Full Address":"Universität Löwen Belgium",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6371433,49.749992 ]
+    },
+    "properties": {
+    "FIELD1":297,
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1635",
+    "event_end":"1636",
+    "display_date":"1635",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Trier",
+    "place_name":"Trier",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Trier Germany",
+    "comment":"#",
+    "source":"Christ. Metternich-Burscheidt. S. 9"
+    }
+  }
+]
+}

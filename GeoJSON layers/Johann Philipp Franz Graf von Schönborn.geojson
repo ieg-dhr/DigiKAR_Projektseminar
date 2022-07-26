@@ -1,0 +1,830 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9533548,49.7913044 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":1687,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Academia Julia",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Academia Julia Würzburg Germany",
+    "comment":"#",
+    "source":"Romberg. Bistümer der Kirchenprovinz Mainz. S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1355554,49.9806625 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1681",
+    "event_end":"#",
+    "display_date":1681,
+    "event_type":"Schulbesuch",
+    "pers_function":"Schüler",
+    "inst_name":"Jesuitenschule",
+    "place_name":"Aschaffenburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Aschaffenburg Germany",
+    "comment":"#",
+    "source":"WürzburgWiki. von Schönborn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1355554,49.9806625 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1690",
+    "event_end":"#",
+    "display_date":1690,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Jesuitenkolleg",
+    "place_name":"Aschaffenburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Aschaffenburg Germany",
+    "comment":"#",
+    "source":"Wendehorst. \"Johann Philipp Franz\". S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4917397,41.9050908 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1690",
+    "event_end":"03.01.1693",
+    "display_date":1690,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
+    "comment":"Studium von Theologie und Kirchenrecht",
+    "source":"Bärmann. Universität Mainz. S.726, Romberg. Bistümer der Kirchenprovinz Mainz. S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.882515,49.8907746 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1694",
+    "event_end":"#",
+    "display_date":1694,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Bamberg",
+    "place_name":"Bamberg",
+    "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Bamberg Germany",
+    "comment":"#",
+    "source":"Germania Sacra online. \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.882515,49.8907746 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1698",
+    "event_end":"#",
+    "display_date":1698,
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Bamberg",
+    "place_name":"Bamberg",
+    "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Bamberg Germany",
+    "comment":"#",
+    "source":"Germania Sacra online. \"Johann Philipp Franz Graf von Schönborn\",Hersche. Domkapitel. S. 75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":1687,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Germania Sacra online. \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.04.1714",
+    "event_end":"#",
+    "display_date":1714,
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Germania Sacra online. \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1682",
+    "event_end":"#",
+    "display_date":1682,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":145,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":1697,
+    "event_type":"Residenz",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"Widerspruch zur Kavalierstour",
+    "source":"Romberg. Bistümer der Kirchenprovinz Mainz. S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1699",
+    "event_end":"#",
+    "display_date":1699,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Wendehorst. \"Johann Philipp Franz\". S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.6.1704",
+    "event_end":"#",
+    "display_date":1704,
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Romberg. Bistümer der Kirchenprovinz Mainz. S. 292"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1719",
+    "event_end":"#",
+    "display_date":1719,
+    "event_type":"Resignation",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Hersche. Domkapitel. S. 195"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.11.1720",
+    "event_end":"#",
+    "display_date":1720,
+    "event_type":"Weihe",
+    "pers_function":"Bischof",
+    "inst_name":"Dom",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":150,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.9.1719",
+    "event_end":"#",
+    "display_date":1719,
+    "event_type":"Wahl",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
+    "comment":"#",
+    "source":"Bärmann. Universität Mainz. S. 726"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.1743197,52.3555177 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":1697,
+    "event_type":"Kavalierstour",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"England",
+    "place_count":2,
+    "country":"United Kingdom",
+    "# Full Address":"England United Kingdom",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.0298799,50.9847679 ]
+    },
+    "properties": {
+    "FIELD1":160,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1717",
+    "event_end":"#",
+    "display_date":1717,
+    "event_type":"Ernennung",
+    "pers_function":"Statthalter",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7704158,49.488537 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"??.08.1724",
+    "event_end":"#",
+    "display_date":1724,
+    "event_type":"Reise",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mergentheim",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Hochmeister-Residenz Mergentheim Germany",
+    "comment":"Ziel: Bewegung zur Resignation in der kurmainzischen Koadjutorie-Angelegenheit",
+    "source":"Romberger. Bistümer der Kirchenprovinz Mainz. S. 306"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.93526,49.7881814 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1719",
+    "event_end":"#",
+    "display_date":1719,
+    "event_type":"Ernennung",
+    "pers_function":"Rektor",
+    "inst_name":"Julius-Maximilians Universität",
+    "place_name":"Würzburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Julius-Maximilians Universität Würzburg Germany",
+    "comment":"#",
+    "source":"Würzburg Wiki. Schönborn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.93526,49.7881814 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1721",
+    "event_end":"#",
+    "display_date":1721,
+    "event_type":"Amtsniederlegung",
+    "pers_function":"Rektor",
+    "inst_name":"Julius-Maximilians Universität",
+    "place_name":"Würzburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Julius-Maximilians Universität Würzburg Germany",
+    "comment":"#",
+    "source":"Würzburg Wiki. Schönborn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7895318,49.5068236 ]
+    },
+    "properties": {
+    "FIELD1":221,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.08.1724",
+    "event_end":"#",
+    "display_date":1724,
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Löffelstelzen bei Bad Mergentheim",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Löffelstelzen bei Bad Mergentheim Germany",
+    "comment":"#",
+    "source":"Wendehorst. \"Johann Philipp Franz\". S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.291266,52.132633 ]
+    },
+    "properties": {
+    "FIELD1":239,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":1697,
+    "event_type":"Kavalierstour",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Niederlande",
+    "place_count":1,
+    "country":"Netherlands",
+    "# Full Address":"Niederlande Netherlands",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3522219,48.856614 ]
+    },
+    "properties": {
+    "FIELD1":241,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":1697,
+    "event_type":"Kavalierstour",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Paris",
+    "place_count":1,
+    "country":"France",
+    "# Full Address":"Paris France",
+    "comment":"Widerspruch zur Residenz",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9201319,49.7897393 ]
+    },
+    "properties": {
+    "FIELD1":253,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.08.1724",
+    "event_end":"#",
+    "display_date":1724,
+    "event_type":"Beisetzung des Herzens",
+    "pers_function":"#",
+    "inst_name":"Schlosskirche Marienberg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Schlosskirche Marienberg Würzburg Germany",
+    "comment":"#",
+    "source":"Romberg. Bistümer der Kirchenprovinz Mainz. S. 346"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9201319,49.7897393 ]
+    },
+    "properties": {
+    "FIELD1":254,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.7.1720",
+    "event_end":"#",
+    "display_date":1720,
+    "event_type":"Weihe",
+    "pers_function":"Diakon",
+    "inst_name":"Schlosskirche Marienberg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Schlosskirche Marienberg Würzburg Germany",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9201319,49.7897393 ]
+    },
+    "properties": {
+    "FIELD1":255,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.7.1720",
+    "event_end":"#",
+    "display_date":1720,
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"Schlosskirche Marienberg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Schlosskirche Marienberg Würzburg Germany",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "FIELD1":267,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1682",
+    "event_end":"#",
+    "display_date":1682,
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
+    "comment":"#",
+    "source":"Germania Sacra online. \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "FIELD1":268,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1703",
+    "event_end":"#",
+    "display_date":1703,
+    "event_type":"Resignation",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
+    "comment":"#",
+    "source":"Germania Sacra online. \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6854204,50.1106631 ]
+    },
+    "properties": {
+    "FIELD1":269,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1699",
+    "event_end":"#",
+    "display_date":1699,
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Bartholomäus",
+    "place_name":"Frankfurt",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. Bartholomäus Frankfurt Germany",
+    "comment":"#",
+    "source":"Wendehorst. \"Johann Philipp Franz\". S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2599667,49.9925214 ]
+    },
+    "properties": {
+    "FIELD1":294,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1688",
+    "event_end":"#",
+    "display_date":1688,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Mainz",
+    "place_name":"Mainz",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Mainz Germany",
+    "comment":"#",
+    "source":"Romberg Bistümer der Kirchenprovinz Mainz. S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "FIELD1":298,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1694",
+    "event_end":"#",
+    "display_date":1694,
+    "event_type":"Studium",
+    "pers_function":"#",
+    "inst_name":"Universität Wien",
+    "place_name":"Wien",
+    "place_count":1,
+    "country":"Austria",
+    "# Full Address":"Universität Wien Austria",
+    "comment":"#",
+    "source":"Romberg. Bistümer der Kirchenprovinz Mainz. S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9533548,49.7913044 ]
+    },
+    "properties": {
+    "FIELD1":301,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"05.02.1673",
+    "event_end":"#",
+    "display_date":1673,
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Würzburg Germany",
+    "comment":"Taufe: Pfarrkirche St. Peter. Würzburg",
+    "source":"Romberg. Bistümer der Kirchenprovinz Mainz. S. 287"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9325575,49.7933488 ]
+    },
+    "properties": {
+    "FIELD1":302,
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"4.09.1724",
+    "event_end":"#",
+    "display_date":1724,
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Würzburger Dom",
+    "comment":"#",
+    "source":"Greipl. Schönborn. S. 444, Romberg. Bistümer der Kirchenprovinz Mainz. S. 346"
+    }
+  }
+]
+}

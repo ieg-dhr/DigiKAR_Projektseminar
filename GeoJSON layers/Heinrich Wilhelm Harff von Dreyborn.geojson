@@ -1,0 +1,405 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.904596,49.9667396 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"1770",
+    "event_start":"#",
+    "event_end":"1780",
+    "display_date":1770,
+    "event_type":"Amtsausübung",
+    "pers_function":"Vicedominus",
+    "inst_name":"#",
+    "place_name":"Bingen",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Bingen Germany",
+    "comment":"ab 1780 im Staatskalender n. mehr aufgeführt.",
+    "source":"Kurmainzer Hof- und Staatskalender 1780. S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9471512,52.1490222 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.04.1741",
+    "event_end":"#",
+    "display_date":1741,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Hildesheim",
+    "place_name":"Hildesheim",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Hildesheim Germany",
+    "comment":"#",
+    "source":"Dylong. Domkapitel Hildesheim. S. 372."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9471512,52.1490222 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"Dez. 1749",
+    "event_before-date":"Jan. 1750",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1749,
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Hildesheim",
+    "place_name":"Hildesheim",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Hildesheim Germany",
+    "comment":"#",
+    "source":"Dylong. Domkapitel Hildesheim. S. 372."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.05.1735",
+    "event_end":"#",
+    "display_date":1735,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.07.1779",
+    "event_end":"#",
+    "display_date":1779,
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.08.1779",
+    "event_end":"#",
+    "display_date":1779,
+    "event_type":"Konfirmation",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1745",
+    "event_end":"#",
+    "display_date":1745,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"#",
+    "source":"Hersche. Einleitung. S. 185.. Dylong. Domkapitel Hildesheim. S. 372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.6434155,49.7562639 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1775",
+    "event_end":"#",
+    "display_date":1758,
+    "event_type":"Resignation",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"! Rauch gibt 1758 an. scheint aber nicht zu stimmen. s. Staatskalender",
+    "source":"Dylong. Hildesheimer DK. S. 372, Kurmainzer Hof- und Staatskalender 1775. S. 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.09.1715",
+    "event_end":"#",
+    "display_date":1715,
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Kein Ort gefunden",
+    "source":"Rauch. Domkapitel Mainz. S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":175,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.09.1715",
+    "event_end":"#",
+    "display_date":1715,
+    "event_type":"Taufe",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Kein Ort gefunden",
+    "source":"Dylong. Domkapitel Hildesheim. S. 372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.08.1781",
+    "event_end":"#",
+    "display_date":1781,
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":24,
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Kein Ort gefunden",
+    "source":"Rauch. Domkapitel Mainz S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.9626376,50.3462735 ]
+    },
+    "properties": {
+    "FIELD1":236,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"1770",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1770,
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Martin. Donat und Nazarius",
+    "place_name":"Mockstadt",
+    "place_count":1,
+    "country":"#",
+    "# Full Address":"Mockstadt",
+    "comment":"Propstei Maxstatt? s. Archiv vs. Staatskalender – \"Maxstatt\" wird zw. 1744 u. 1745 übernommen. als Propst von Mockstadt im Staatskalender ab 1770 belegt",
+    "source":"LA NRW. Harff Dreiborn. Akten AA 0580. Nr. 88,Kurmainzer Hof-und Staatskalender 1746"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "FIELD1":250,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"1777",
+    "event_before-date":"1781",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1777,
+    "event_type":"Ernennung",
+    "pers_function":"Archidiakon",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Rheingau",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Rheingau Germany",
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1777. S. 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2472526,49.9928617 ]
+    },
+    "properties": {
+    "FIELD1":260,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"",
+    "event_before-date":"1775",
+    "event_start":"",
+    "event_end":"",
+    "display_date":null,
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift Mariengreden",
+    "place_name":"Mainz",
+    "place_count":3,
+    "country":"",
+    "# Full Address":"Stift Mariengreden Mainz Germany",
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6546359,51.9661366 ]
+    },
+    "properties": {
+    "FIELD1":279,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"1778",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1778,
+    "event_type":"Wahl",
+    "pers_function":"Stiftsprobst",
+    "inst_name":"Stift St. Mauriz",
+    "place_name":"Mainz",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. Mauriz Mainz Germany",
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1777. S. 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.031696,49.258329 ]
+    },
+    "properties": {
+    "FIELD1":296,
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"25.05.1735",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1735,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Reims",
+    "place_name":"Reims",
+    "place_count":1,
+    "country":"France",
+    "# Full Address":"Universität Reims France",
+    "comment":"Dauer: 1 J u. 6 Wochen, noch genaue Quelle. außer:",
+    "source":"Dylong. Domkapitel Hildesheim. S. 372"
+    }
+  }
+]
+}

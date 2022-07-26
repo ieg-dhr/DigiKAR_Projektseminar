@@ -1,0 +1,705 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.89779,48.3705449 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"09.08.1605",
+    "event_end":"#",
+    "display_date":1605,
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg Germany",
+    "comment":"zwei Geburtsdaten angegeben. das spätere als Taufdatum?",
+    "source":"Reiter. Ernst. \"Marquard II.\" in: Neue Deutsche Biographie 16 (1990). S. 239-240 (https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.89779,48.3705449 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.08.1605",
+    "event_end":"#",
+    "display_date":1605,
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg Germany",
+    "comment":"zwei Geburtsdaten angegeben. das spätere als Taufdatum?",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.185239,48.8910779 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"23.12.1628",
+    "event_end":"#",
+    "display_date":1628,
+    "event_type":"Weihe",
+    "pers_function":"Diakon",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Bistum Eichstätt Eichstätt Germany",
+    "comment":"#",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.185239,48.8910779 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.06.1635",
+    "event_end":"#",
+    "display_date":1635,
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Bistum Eichstätt Eichstätt Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.185239,48.8910779 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"28.07.1637",
+    "event_end":"#",
+    "display_date":1637,
+    "event_type":"Amtsantritt",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Bistum Eichstätt Eichstätt Germany",
+    "comment":"#",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4917397,41.9050908 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1625",
+    "event_end":"1627",
+    "display_date":1625,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
+    "comment":"Allerdings keine Erwähnung bei Schmidt. Das Collegium Germanicum in Rom und die Germaniker. Möglicherweise. da von Schenk von Castell nicht seinen Abschluss im Collegium Germanicum machte und Schmidt eine Auflistung der Alumni und Konviktoristen anfertigte",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1856246,48.8904616 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1628",
+    "event_end":"#",
+    "display_date":1628,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Willibaldinum",
+    "place_name":"Eichstätt",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Collegium Willibaldinum Eichstätt Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"28.05.1621",
+    "event_end":"#",
+    "display_date":1621,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240, Braun. Domkapitel Eichstätt. S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.01.1636",
+    "event_end":"#",
+    "display_date":1636,
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"21.10.1636",
+    "event_end":"#",
+    "display_date":1636,
+    "event_type":"Wahl",
+    "pers_function":"Koadjutor",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 175, Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.08.1637",
+    "event_end":"#",
+    "display_date":1637,
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"#",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1638",
+    "event_end":"#",
+    "display_date":1638,
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"Datum geht aus Weihe zum Bischof hervor, anders als für Resignation des Domdekanats ist für dieses Ereignis kein genaues Datum überliefert, Datum als terminus oder terminus ante quem",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1638",
+    "event_end":"#",
+    "display_date":1638,
+    "event_type":"Weihe",
+    "pers_function":"Bischof",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1835667,48.8919581 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.02.1685",
+    "event_end":"#",
+    "display_date":1685,
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"Dom Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"#",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"09.12.1628",
+    "event_end":"#",
+    "display_date":1628,
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240, Braun. Das Domkapitel Eichstätt. S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1675",
+    "event_end":"#",
+    "display_date":1675,
+    "event_type":"Vergebliche Bewerbung um das Erzbistum",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"erwähnenswert?",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.11.1675",
+    "event_end":"#",
+    "display_date":1675,
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"#",
+    "source":"Rauch. Domkapitel Mainz. S. 175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.274439126,49.9989965 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1678",
+    "event_end":"#",
+    "display_date":1678,
+    "event_type":"Vergebliche Bewerbung um das Erzbistum",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":65,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"erwähnenswert?",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1016236,49.0134297 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.8.1669",
+    "event_end":"#",
+    "display_date":1669,
+    "event_type":"Bestellung durch Kaiser Leopold I.",
+    "pers_function":"Prinzipialkommissar",
+    "inst_name":"Immerwährender Reichstag",
+    "place_name":"Regensburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Immerwährender Reichstag Regensburg Germany",
+    "comment":"Angabe durch Kaiser Leopold I. lassen oder weg?",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4940239,48.5790918 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1617",
+    "event_end":"#",
+    "display_date":1617,
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"Jesuitengymnasium Dillingen",
+    "place_name":"Dillingen",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Jesuitengymnasium Dillingen Dillingen Germany",
+    "comment":"Vollständige Angabe bei Specht: Marquardus Schenk a Castell fil[ius] Joannis Eberhardi adm[issus] ad con[victum] et 3. class[em] gramm[aticam]. allerdings keine Erwähnung in den Matrikeln 1616 oder 1618",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 440, Specht. Die Matrikel der Universität Dillingen. S. 474"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1016236,49.0134297 ]
+    },
+    "properties": {
+    "FIELD1":198,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"18.01.1685",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1685,
+    "event_type":"Aufenthalt wegen Krankheit",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Kartause Prül vor den Toren von Regensburg",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Kartause Prül vor den Toren von Regensburg Germany",
+    "comment":"genaues Datum nicht bekannt. Fomulierung in der Literatur als \"in seinen letzten Lebensjahren\"",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2698184,50.0069542 ]
+    },
+    "properties": {
+    "FIELD1":219,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.03.1682",
+    "event_end":"#",
+    "display_date":1682,
+    "event_type":"Belehnung",
+    "pers_function":"Kanzler",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"Brauns Quelle ist StaN EU = Staatsarchiv Nürnberg Eichstätter Urkunden, allerdings keine Erwähnung bei May. Die Organisation von Gerichtsbarkeit und Verwaltung in der Erzdiözese Mainz vom hohen Mittelalter bis zum Ende der Reichskirche",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.185239,48.8910779 ]
+    },
+    "properties": {
+    "FIELD1":237,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.01.1636",
+    "event_end":"#",
+    "display_date":1636,
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Neues Stift Unsere Liebe Frau",
+    "place_name":"Eichstätt",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Neues Stift Unsere Liebe Frau Eichstätt Germany",
+    "comment":"Neuer Stift ULF = Unsere Liebe Frau?, kann er Stiftsprobst bleiben. als er Bischof wird?",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4844886,41.8989366 ]
+    },
+    "properties": {
+    "FIELD1":244,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"1624",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":1624,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Pontificia Universitas Gregoriana",
+    "place_name":"Rom",
+    "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Pontificia Universitas Gregoriana Rom Italy",
+    "comment":"kein genaues Datum bekannt. sondern nur. dass er bald nach Studienbeginn in Ingolstadt an die römische Gregoriana wechselte",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1016236,49.0134297 ]
+    },
+    "properties": {
+    "FIELD1":249,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.01.1685",
+    "event_end":"#",
+    "display_date":1685,
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Regensburg",
+    "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Regensburg Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3307574,43.318809 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1627",
+    "event_end":"#",
+    "display_date":1627,
+    "event_type":"Aufenthalt wegen schwankender Gesundheit",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Siena",
+    "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Siena Italy",
+    "comment":"erwähnenswert?",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.3328421,43.3191155 ]
+    },
+    "properties": {
+    "FIELD1":286,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"27.07.1627",
+    "event_end":"#",
+    "display_date":1627,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Siena",
+    "place_name":"Siena",
+    "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Universitas Siena Italy",
+    "comment":"#",
+    "source":"Braun. Das Domkapitel Eichstätt. S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.4162551,48.7655243 ]
+    },
+    "properties": {
+    "FIELD1":291,
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"01.10.1624",
+    "event_end":"#",
+    "display_date":1624,
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Ingolstadt",
+    "place_name":"Ingolstadt",
+    "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Ingolstadt Ingolstadt Germany",
+    "comment":"#",
+    "source":"Reiter. Marquard II.. S. 239-240"
+    }
+  }
+]
+}
