@@ -5,9 +5,9 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 <h4>1) Using colours to differentiate people, event types or time periods</h4>
 <p><em>One approach was to visualise event times using the categorised or rule-based colouring of point geometries.</em></p>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="300px" align="left"/></a>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
 
-<p padding="10px">The map shown here displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studies far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the archibishopric of Mainz or even the city of Mainz.</p>
+<p padding="10px">The map shown here displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studies far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
 
 <hr>
 
@@ -27,7 +27,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
  
 <p><em>Users with coding skills can write <a href="https://docs.qgis.org/2.18/en/docs/user_manual/plugins/python_console.html">Python scripts</a> to connect point geometries based on rules.</em></p>
 
-<a href="./maps/Mainz_placenames.png"><img src="./maps/Mainz_placenames.png" width="300px" align="left"/></a>
+<a href="./maps/Mainz_placenames.png"><img src="./maps/Mainz_placenames.png" width="400px" align="left"/></a>
 <p>ADD STUDENT MAPS AND MAP DESCRIPTIONS! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus at urna sed gravida. Pellentesque fermentum ligula leo, elementum tincidunt mi sollicitudin quis. Proin vel est id eros efficitur volutpat sit amet at lorem. Aenean eget condimentum arcu, in finibus tellus. Donec efficitur erat nec dolor tincidunt, vitae blandit justo luctus. Phasellus in sagittis mauris. Nam tincidunt, nisi in laoreet tincidunt, elit augue blandit lacus, luctus tempor ex lorem eget est. Donec vel ipsum vitae libero placerat dictum. Vestibulum id risus at dui varius viverra id id est. Mauris vestibulum blandit dolor maximus finibus.</p>
 
 <hr>
@@ -53,23 +53,27 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 </tr>
 <tr>
 <td>Dom Mainz Germany    </td>
-<td>53           </td>
+<td>66           </td>
+</tr>
+<tr>
+<td>Kurfürstliches Schloss Mainz Germany        </td>
+<td>12           </td>
 </tr>
 <tr>
 <td>Mainz Germany        </td>
-<td>34           </td>
+<td>12           </td>
 </tr>
 <tr>
 <td>Germany              </td>
-<td>26           </td>
-</tr>
-<tr>
-<td>Dom Trier Germany    </td>
-<td>13           </td>
+<td>22           </td>
 </tr>
 <tr>
 <td>Dom Würzburg Germany </td>
-<td>13           </td>
+<td>15           </td>
+</tr>
+<tr>
+<td>Dom Trier Germany    </td>
+<td>12           </td>
 </tr>
 <tr>
 <td>Dom Eichstätt Germany</td>
