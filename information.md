@@ -15,7 +15,7 @@
     <td>1652–1668</td>
   </tr>
   <tr>
-    <td><a href="./Johann Heppenheim genannt von Saal.geojson">Johann Heppenheim genannt von Saal</a></td>
+    <td><a href="./GeoJSON layers/Johann Heppenheim genannt von Saal.geojson">Johann Heppenheim genannt von Saal</a></td>
     <td>*1609–†1672</td>
     <td>1668–1672</td>
   </tr>
