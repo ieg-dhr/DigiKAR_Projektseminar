@@ -45,7 +45,7 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <a href="./maps/Domherren_places-frequency_2.png"><img src="./maps/Domherren_places-frequency_2.png" width="650px" align="center"/></a>
 
-<p>All places with 5 and more occurrences are listed in the following table:</p>
+<p>All geocoded places with 5 and more occurrences are listed in the table below. Spatial information in the original sources were mapped to these modern places to permit an automated geo-coding. Unclear places (especially places of birth) were mapped to "Germany" in order to include the events linked with them in some of the map representations. Therefore, the maps created in the project require contextualisation and a critical user engagement.</p>
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #2"># Full Address</th>
 <th title="Field #3"># place_count</th>
