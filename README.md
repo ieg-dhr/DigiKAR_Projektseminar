@@ -22,6 +22,10 @@
 
 <hr>
 
+<img src="https://de.wikipedia.org/wiki/Mainzer_Dom#/media/Datei:Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" padding="10px" align="center"/> 
+<em>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg</a></em>
+<hr>
+
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" style="padding: 10px" align="left"/> 
 <p align="justify" padding="10px">The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
