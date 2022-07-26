@@ -8,11 +8,11 @@ var style_DietrichKasparvonFrstenberg_11 = function(feature, resolution){
     };
     var value = ""
     var labelText = "";
-    size = 0;
-    var labelFont = "10px, sans-serif";
+    var clusteredFeatures = feature.get("features");
+    var labelFont = "9.1px \'MS Shell Dlg 2\', sans-serif";
     var labelFill = "#000000";
-    var bufferColor = "";
-    var bufferWidth = 0;
+    var bufferColor = "#ffffff";
+    var bufferWidth = 1.0;
     size = clusteredFeatures.length;
     var textAlign = "center";
     var offsetX = 0;
@@ -32,7 +32,7 @@ var style_DietrichKasparvonFrstenberg_11 = function(feature, resolution){
     }
     var style = [ new ol.style.Style({
         image: new ol.style.Circle({radius: 4.0 + size,
-            stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}), fill: new ol.style.Fill({color: 'rgba(141,90,153,1.0)'})}),
+            stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}), fill: new ol.style.Fill({color: 'rgba(218,244,22,1.0)'})}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
