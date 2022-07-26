@@ -13,16 +13,26 @@ var style_LotharFriedrichvonMetternichBurscheid_2 = function(feature, resolution
     var labelFill = "#000000";
     var bufferColor = "";
     var bufferWidth = 0;
-    var textAlign = "left";
-    var offsetX = 8;
-    var offsetY = 3;
-    var placement = 'point';
-    if ("" !== null) {
-        labelText = String("");
+    size = clusteredFeatures.length;
+    var textAlign = "center";
+    var offsetX = 0;
+    var offsetY = 0;
+    if (size == 1) {
+        textAlign = "left"
+        offsetX = 8
+        offsetY = 3
+        var feature = clusteredFeatures[0];
+        if ("" !== null) {
+            labelText = String("");
+        }
+        key = value + "_" + labelText
+    } else {
+        labelText = size.toString()
+        size = 2*(Math.log(size)/ Math.log(2))
     }
     var style = [ new ol.style.Style({
         image: new ol.style.Circle({radius: 4.0 + size,
-            stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}), fill: new ol.style.Fill({color: 'rgba(125,139,143,1.0)'})}),
+            stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}), fill: new ol.style.Fill({color: 'rgba(141,90,153,1.0)'})}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
