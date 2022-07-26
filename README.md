@@ -32,9 +32,10 @@
 </table> 
 
 <hr>
-
+<figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" padding="10px" align="center"/> 
-<em>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg</a></em>
+<figcaption>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg</a></figcaption>
+</figure> 
 <hr>
 
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" style="padding: 10px" align="left"/> 
