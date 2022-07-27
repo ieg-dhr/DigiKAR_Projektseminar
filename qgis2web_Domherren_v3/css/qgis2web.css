@@ -24,6 +24,7 @@
         }
         .leaflet-popup-content {
             width: 25px;
+            font: 10px/11px Arial, Helvetica, sans-serif;
             padding-right:10px;
         }
         .leaflet-tooltip {
