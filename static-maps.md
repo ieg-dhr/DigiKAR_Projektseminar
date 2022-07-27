@@ -41,11 +41,11 @@ As part of the seminar at JGU Mainz, the participating students were asked to cr
 
 <a href="./maps/Domherren_clustered_close-up.png"><img src="./maps/Domherren_clustered_close-up.png" width="650px" align="center"/></a>
 <p>The map above shows places in the collected dataset as coloured clusters. The largest dots indicate place names that are disproportionately frequent in the data.</p>
-<p>The map below shows numerical frequencies per cluster. In exact numbers, the cathedral of Mainz (Dom Mainz) is the most frequent place with 53 occurrences.</p>
+<p>The map below shows numerical frequencies per cluster. In exact numbers, the cathedral of Mainz (Dom Mainz) is the most frequent place with 65 occurrences. 22 places mapped as "Germany" in the centre of the present-day German Federal Republic denote biographic events for which the sources did not provide specific spatial information.</p>
 
 <a href="./maps/Domherren_places-frequency_2.png"><img src="./maps/Domherren_places-frequency_2.png" width="650px" align="center"/></a>
 
-<p>All geocoded places with 5 and more occurrences are listed in the table below. Spatial information in the original sources were mapped to these modern places to permit an automated geo-coding. Unclear places (especially places of birth) were mapped to "Germany" in order to include the events linked with them in some of the map representations. Therefore, the maps created in the project require contextualisation and a critical user engagement.</p>
+<p>All geocoded places with 5 and more occurrences are listed in the table below. Spatial information in the original sources were mapped to these modern places to permit an automated geo-coding. As demonstrated in the point-cluster map above, unclear places (especially places of birth) were summarily mapped to "Germany" to include the events linked with them in visual representations at all. Therefore, the maps created in the project require contextualisation and a critical user engagement.</p>
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #2"># Full Address</th>
 <th title="Field #3"># place_count</th>
