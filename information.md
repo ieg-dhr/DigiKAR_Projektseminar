@@ -2,7 +2,7 @@
 <h2>Persons studied in the project</h2>
 
 <p>The early modern clerics whose biographies the students have researched for this project held offices in the cathedral chapter of the Prince-Bishopric of Mainz (in present-day Germany). Initially, the students' research also included laymen who held cathedral prebends, but the final focus of the project was placed on <strong>fourteen provosts of the cathedral</strong> ("Dompröbste") active between 1650 and 1800.</p>
-<p>The names in the table below are linked to the data collected for each person in CSV format, which can be opened with any text editor, EXCEL or Google Sheets. To re-use our data in maps of your own, you can download the same data in <a href="https://geojson.org/">GeoJSON format</a> from the <a href="https://geojson.org/">XXXXX directory</a>. GeoJSON is a widely used format for encoding a variety of geographic data structures, e.g. point geometries, lines and polygons. The GeoJSON files shared here can be loaded in a mapping tool like <strong>QGIS</strong> for further spatial exploration and the creation of new maps.</p>
+<p>The names in the table below are linked to the data collected for each person in CSV format, which can be opened with any text editor, EXCEL or Google Sheets. To re-use our data in maps of your own, you can download the same data in <a href="https://geojson.org/">GeoJSON format</a> from the <a href="./GeoJSON layers">GeoJSON layers directory</a>. GeoJSON is a widely used format for encoding a variety of geographic data structures, e.g. point geometries, lines and polygons. The GeoJSON files shared here can be loaded in a mapping tool like <strong>QGIS</strong> for further spatial exploration and the creation of new maps.</p>
 
  <table width="90%">
   <tr>
