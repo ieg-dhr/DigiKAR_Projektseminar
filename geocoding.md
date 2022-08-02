@@ -15,7 +15,7 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 <p align="justify">Finally, a column to count the overall occurence of each place name in the data set was added. These integers can be used as a <code>weight</code> to define in which size point geometries ought to be displayed in maps.</p>
 
-<h2>Locating abolished institutions / destroyed buildings</h2>
+<h2>Locating abolished institutions and destroyed buildings</h2>
 
 One issue that even enriching the data could not solve, however, is that many early modern (religious) institutions no longer exist today, and that the buildings associated with these institutions have been destroyed. As modern geocoding APIs do not include geodata of past structures, the locations of such places need to be reconstructed from primary sources and secondary works. In the case of our Mainz dataset, neither the Google nor Geonames APIs could find the locations of former <strong>Stift St. Viktor</strong> and <strong>Stift Mariengreden</strong>. Assigning approximate geodata was possible thanks to information provided by <strong>Institut für Geschichtliche Landeskunde</strong> at Mainz University:
 
