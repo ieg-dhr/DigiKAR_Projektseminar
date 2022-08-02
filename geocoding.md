@@ -19,7 +19,7 @@ View raw file of 1st geocoding attempt: <a href="./GeoJSON%20layers/Domherren_v1
 
 One issue that even enriching the data could not solve, however, is that many early modern (religious) institutions no longer exist today, and that the buildings associated with these institutions have been destroyed. As modern geocoding APIs do not include geodata of past structures, the locations of such places need to be reconstructed from primary sources and secondary works. In the case of our Mainz dataset, neither the Google nor Geonames APIs could find the locations of former <strong>Stift St. Viktor</strong> and <strong>Stift Mariengreden</strong>. Assigning approximate geodata was possible thanks to information provided by <strong>Institut für Geschichtliche Landeskunde</strong> at Mainz University:
 
-<a href="https://www.klosterlexikon-rlp.de/rheinhessen/mainz-st-victor.html">Stift St. Victor</a><br>
+<a href="https://www.klosterlexikon-rlp.de/rheinhessen/mainz-st-victor.html">Stift St. Victor</a><br><br>
 <a href="https://www.klosterlexikon-rlp.de/rheinhessen/mainz-liebfrauen-maria-ad-gradus-mariengreden.html">Liebfrauen - Maria ad gradus - Mariengreden</a>
 
 <p align="justify">Please view or download our <a href="./CSV%20tables/DigiKAR_geocoding_Clerics_1August2022.csv">updated data table in CSV format</a> or check the data with coordinates in <a href="./GeoJSON%20layers/Domherren_v4.geojson">GeoJSON format (v4)</a>.</p>
