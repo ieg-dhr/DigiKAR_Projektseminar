@@ -1,0 +1,6671 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":"1687",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Academia Julia",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "comment":"#",
+    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1630",
+    "event_end":"#",
+    "display_date":"1630",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Albertina",
+    "place_name":"Freiburg",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321 (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "comment":"Allgemeiner Friedhof",
+    "source":"Jürgensmeier, Bischofslexikon, S. 272."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1681",
+    "event_end":"#",
+    "display_date":"1681",
+    "event_type":"Schulbesuch",
+    "pers_function":"Schüler",
+    "inst_name":"Jesuitenschule",
+    "place_name":"Aschaffenburg",
+    "place_count":2,
+    "comment":"#",
+    "source":"WürzburgWiki, von Schönborn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1690",
+    "event_end":"#",
+    "display_date":"1690",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Jesuitenkolleg",
+    "place_name":"Aschaffenburg",
+    "place_count":2,
+    "comment":"#",
+    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.12.1689",
+    "event_end":"24.01.1690",
+    "display_date":"1689",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"Augsburg",
+    "place_count":1,
+    "comment":"zum Wahltag",
+    "source":"Braun, Domkapitel, S. 350; Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"09.08.1605",
+    "event_end":"#",
+    "display_date":"1605",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg",
+    "place_count":2,
+    "comment":"zwei Geburtsdaten angegeben, das spätere als Taufdatum?",
+    "source":"Reiter, Ernst, \"Marquard II.\" in: Neue Deutsche Biographie 16 (1990), S. 239-240 (https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.08.1605",
+    "event_end":"#",
+    "display_date":"1605",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg",
+    "place_count":2,
+    "comment":"zwei Geburtsdaten angegeben, das spätere als Taufdatum?",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"1770",
+    "event_start":"#",
+    "event_end":"1780",
+    "display_date":"1770",
+    "event_type":"Amtsausübung",
+    "pers_function":"Vicedominus",
+    "inst_name":"#",
+    "place_name":"Bingen",
+    "place_count":1,
+    "comment":"ab 1780 im Staatskalender n. mehr aufgeführt.",
+    "source":"Kurmainzer Hof- und Staatskalender 1780, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"23.12.1628",
+    "event_end":"#",
+    "display_date":"1628",
+    "event_type":"Weihe",
+    "pers_function":"Diakon",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "comment":"#",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.06.1635",
+    "event_end":"#",
+    "display_date":"1635",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"28.07.1637",
+    "event_end":"#",
+    "display_date":"1637",
+    "event_type":"Amtsantritt",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":3,
+    "comment":"#",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1643",
+    "event_end":"1644",
+    "display_date":"1643",
+    "event_type":"Kommando über eine Kompanie Kürassiere",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Böhmen",
+    "place_count":1,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 97"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.06.1656",
+    "event_end":"#",
+    "display_date":"1656",
+    "event_type":"Weihe",
+    "pers_function":"Bischof",
+    "inst_name":"#",
+    "place_name":"Bruchsal",
+    "place_count":1,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1647",
+    "event_end":"#",
+    "display_date":"1647",
+    "event_type":"Flucht nach Brüssel",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Brüssel",
+    "place_count":2,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"1650",
+    "display_date":"#",
+    "event_type":"Aufenthalt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Brüssel",
+    "place_count":2,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 99"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.09.1617",
+    "event_end":"#",
+    "display_date":"1617",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Burscheid",
+    "place_count":1,
+    "comment":"Luxemburg",
+    "source":"Rauch, Mainzer Inschriften, S. 174, Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1690",
+    "event_end":"03.01.1693",
+    "display_date":"1690",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "comment":"Studium von Theologie und Kirchenrecht",
+    "source":"Bärmann, Universität Mainz, S.726; Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"1650",
+    "event_start":"1644",
+    "event_end":"#",
+    "display_date":"1650",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "comment":"Allerdings keine genauere Angabe bei Becker-Huberti, Die Tridentische Reform S. 47 mit Anm. 27 und auch kein Verweis, woher diese Angabe stammt",
+    "source":"Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 47 mit Anm. 27; Schmidt, Collegium Germanicum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1694",
+    "event_end":"1696",
+    "display_date":"1694",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "comment":"#",
+    "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1625",
+    "event_end":"1627",
+    "display_date":"1625",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Germanicum",
+    "place_name":"Rom",
+    "place_count":4,
+    "comment":"Allerdings keine Erwähnung bei Schmidt, Das Collegium Germanicum in Rom und die Germaniker. Möglicherweise, da von Schenk von Castell nicht seinen Abschluss im Collegium Germanicum machte und Schmidt eine Auflistung der Alumni und Konviktoristen anfertigte",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1628",
+    "event_end":"#",
+    "display_date":"1628",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Collegium Willibaldinum",
+    "place_name":"Eichstätt",
+    "place_count":1,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1754",
+    "event_end":"#",
+    "display_date":"1754",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Bamberg",
+    "place_name":"Bamberg",
+    "place_count":4,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.02.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Bamberg",
+    "place_name":"Bamberg",
+    "place_count":4,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 272"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1694",
+    "event_end":"#",
+    "display_date":"1694",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Bamberg",
+    "place_name":"Bamberg",
+    "place_count":4,
+    "comment":"#",
+    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1698",
+    "event_end":"#",
+    "display_date":"1698",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Bamberg",
+    "place_name":"Bamberg",
+    "place_count":4,
+    "comment":"#",
+    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\";Hersche, Domkapitel, S. 75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.06.1656",
+    "event_end":"#",
+    "display_date":"1656",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1705",
+    "event_end":"#",
+    "display_date":"1705",
+    "event_type":"Resignation und Ablehnung der Wahl zum Fürstbischof",
+    "pers_function":"Bischof",
+    "inst_name":"",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Pauly, Bistümer, S. 313; Hersche, Einleitung, S. 90; Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"28.05.1621",
+    "event_end":"#",
+    "display_date":"1621",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240; Braun, Domkapitel Eichstätt, S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.01.1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"21.10.1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Wahl",
+    "pers_function":"Koadjutor",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 175; Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.08.1637",
+    "event_end":"#",
+    "display_date":"1637",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1638",
+    "event_end":"#",
+    "display_date":"1638",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"Datum geht aus Weihe zum Bischof hervor; anders als für Resignation des Domdekanats ist für dieses Ereignis kein genaues Datum überliefert; Datum als terminus oder terminus ante quem",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1638",
+    "event_end":"#",
+    "display_date":"1638",
+    "event_type":"Weihe",
+    "pers_function":"Bischof",
+    "inst_name":"Domkapitel Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.02.1685",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"Dom Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":9,
+    "comment":"#",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1690",
+    "event_end":"#",
+    "display_date":"1690",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Halberstadt",
+    "place_name":"Halberstadt",
+    "place_count":1,
+    "comment":"#",
+    "source":"De Theux de Montjardin, Chapitré Saint-Lambért, Bd. 3., S. 345."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.04.1741",
+    "event_end":"#",
+    "display_date":"1741",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Hildesheim",
+    "place_name":"Hildesheim",
+    "place_count":2,
+    "comment":"#",
+    "source":"Dylong, Domkapitel Hildesheim, S. 372."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"Dez. 1749",
+    "event_before-date":"Jan. 1750",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1749",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Hildesheim",
+    "place_name":"Hildesheim",
+    "place_count":2,
+    "comment":"#",
+    "source":"Dylong, Domkapitel Hildesheim, S. 372."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1681",
+    "event_end":"#",
+    "display_date":"1681",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Lüttich",
+    "place_name":"Lüttich",
+    "place_count":2,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 121; Theux, Bd. 3, S. 345"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":"1687",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Lüttich",
+    "place_name":"Lüttich",
+    "place_count":2,
+    "comment":"#",
+    "source":"De Theux de Montjardin, Chapitré Saint-Lambért, Bd. 3., S. 345."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1610",
+    "event_end":"#",
+    "display_date":"1610",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.06.1638",
+    "event_end":"#",
+    "display_date":"1638",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S.225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.12.1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.12.1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S.225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.06.1638",
+    "event_end":"#",
+    "display_date":"1638",
+    "event_type":"Resignation",
+    "pers_function":"Domscholaster",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.09.1657",
+    "event_end":"#",
+    "display_date":"1657",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 168; Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1685",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1695",
+    "event_end":"#",
+    "display_date":"1695",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 175; Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1695",
+    "event_end":"#",
+    "display_date":"1695",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Bei Rauch: Pröpste, Propstei und Stift von Sankt Bartholomäus in Frankfurt, S. 186 steht 1696; sonst überall 1695",
+    "source":"Rauch, Domkapitel Mainz, S. 175; Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.01.1700",
+    "event_end":"#",
+    "display_date":"1700",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 175; Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"17.01.1700",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1700",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Arens, Mainzer Inschriften, S. 45f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"13.11.1669",
+    "event_end":"#",
+    "display_date":"1669",
+    "event_type":"Ernennung",
+    "pers_function":"Generalvikar",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wurzbach, Stadion, S. 26; Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1678",
+    "event_end":"#",
+    "display_date":"1678",
+    "event_type":"Amtsniederlegung",
+    "pers_function":"Generalvikar",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.01.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S.177; Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.09.1781",
+    "event_end":"#",
+    "display_date":"1781",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1781",
+    "event_end":"#",
+    "display_date":"1781",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 131; Jürgensmeier, Bischofslexikon, S. 271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1771",
+    "event_end":"1774/ 75",
+    "display_date":"1771",
+    "event_type":"Ernennung",
+    "pers_function":"Generalvikar",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Kurmainzischer Hof- und Staatskalender 1774, S. 16; 1775, S. 17; May, Organisation, S. 336; Jürgensmeier, Bischofslexikon, S. 271."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.09.1624",
+    "event_end":"#",
+    "display_date":"1624",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"05.04.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 128; Rauch, Domkapitel Mainz, S. 174; Lahrkamp et al., Geschichte, S. 103"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.12.1664",
+    "event_end":"#",
+    "display_date":"1664",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Mainzer, S. 175; Braun, Domkapitel, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"16.02.1700",
+    "event_end":"#",
+    "display_date":"1700",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Mainzer, S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1714",
+    "event_end":"#",
+    "display_date":"1714",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Mainzer, S. 176; Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"08.03.1714",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1714",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Südquerhaus Dom, größtes Denkmal",
+    "source":"Arens, Mainzer Inschriften, S. 55–57."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.05.1735",
+    "event_end":"#",
+    "display_date":"1735",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.07.1779",
+    "event_end":"#",
+    "display_date":"1779",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.08.1779",
+    "event_end":"#",
+    "display_date":"1779",
+    "event_type":"Konfirmation",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.10.1712",
+    "event_end":"#",
+    "display_date":"1712",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 140; Hersche, Einleitung, S. 130"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"13.03.1738",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Wahl",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.03.1743",
+    "event_end":"#",
+    "display_date":"1743",
+    "event_type":"Resignation",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch,Domkapitel Mainz, S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.03.1743",
+    "event_end":"",
+    "display_date":"1743",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1765",
+    "event_end":"#",
+    "display_date":"1765",
+    "event_type":"Niederlage bei der Wahl zum Mainzer Erzbischof",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Nottarp, MIndener Domprobst, S. 145"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":"1687",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 130;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.04.1699",
+    "event_end":"#",
+    "display_date":"1699",
+    "event_type":"Wahl",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S.176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.12.1709",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Resignation",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.12.1709",
+    "event_end":"#",
+    "display_date":"1709",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 176, https://www.archivportal-d.de/item/YD4OU42NHIDVH4FCNTLSYHTP5B4TOXBB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.09.1724",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.09.1724",
+    "event_end":"#",
+    "display_date":"1724",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 176"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"02.01.1738",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Inschrift",
+    "source":"Arens, Mainzer Inschriften, S. 66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 174, Hersche, Deutsche Domkapitel, S. 128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.02.1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.07.1668",
+    "event_end":"#",
+    "display_date":"1668",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 174"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.07.1668",
+    "event_end":"#",
+    "display_date":"1668",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 174"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"03.02.1672",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":"1687",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.04.1714",
+    "event_end":"#",
+    "display_date":"1714",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.09.1630",
+    "event_end":"#",
+    "display_date":"1630",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Hersche, Deutsche Domkapitel, S. 128 hat 1631 als Datum für die Aufschwörung. Siehe Spalte \"source\" für die Begründung, warum diese Datum ausgewählt wurde",
+    "source":"Rauch, Domkapitel Mainz, S. 154; aus der Antwortmail auf eine Frage zu diesem Datum: \"im Findbuch zum Aktenbestand des Archivs Schloss Gracht findet sich bei Akte 505 der enthält-Vermerk: „zum Kanonikat Johann Wilhelm Wolff Metternichs am Dom zu Mainz 1630-1643“. Dies spricht also dafür, dass er bereits 1630 zum Domkapitel aufgeschwört wurde.\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.11.1674",
+    "event_end":"#",
+    "display_date":"1674",
+    "event_type":"Wahl",
+    "pers_function":"Domscholaster",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Laut Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht, wird er 1675 Domscholaster, so auch laut Becker-Huberti, Die Tridentische Reform, S. 341. Allerdings genaues Datum bei Rauch (siehe Spalte source), sodass dieses Datum ausgewählt wurde",
+    "source":"Rauch, Domkapitel Mainz, S. 154; Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"4.11.1679",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Resignation",
+    "pers_function":"Domscholaster",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"4.11.1679",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"20.2.1685",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"20.2.1685",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Becker-Huberti, Die Tridentische Reform, S. 341, hat für dieses Amt das Jahr 1687",
+    "source":"Rauch, Domkapitel Mainz, S. 175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.12.1694",
+    "event_end":"#",
+    "display_date":"1694",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Arens, Mainzer Inschriften, S. 40ff."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"27.01.1710",
+    "event_end":"#",
+    "display_date":"1710",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 130"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"9.10.1724",
+    "event_end":"#",
+    "display_date":"1724",
+    "event_type":"Wahl",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.02.1738",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"Datum der Wahl in Universitätsmatrikeln 17.02.1739",
+    "source":"Rauch, S. 176; Verzeichnis der Mainzer Universitätsmatrikeln, S. 108 (Datum der Wahl = 17.02.1738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"",
+    "event_before-date":"",
+    "event_start":"12.02.1738",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Resignation",
+    "pers_function":"Domdekan",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 176."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"20.02.1743",
+    "event_before-date":"",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Arens, Mainzer Inschriften, S. 71"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1639",
+    "event_end":"#",
+    "display_date":"1639",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 129; Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"21.03.1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 129, Rauch, Domkapitel Mainz, S. 174, Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.02.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"wg. Amtsantritt als Erzbischof",
+    "source":"Hersche, Einleitung, S. 129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"03.06.1675",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"Dom Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Arens, Inschriften, S. 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"09.12.1628",
+    "event_end":"#",
+    "display_date":"1628",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240; Braun, Das Domkapitel Eichstätt, S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1675",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Vergebliche Bewerbung um das Erzbistum",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"erwähnenswert?",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.11.1675",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 175"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1678",
+    "event_end":"#",
+    "display_date":"1678",
+    "event_type":"Vergebliche Bewerbung um das Erzbistum",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Mainz",
+    "place_count":66,
+    "comment":"erwähnenswert?",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"1736",
+    "event_start":"",
+    "event_end":"#",
+    "display_date":"",
+    "event_type":"Resignation",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "comment":"#",
+    "source":"Nottarp Mindener Domprobst,, S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Wahl",
+    "pers_function":"Domkantor",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "comment":"Angabe bei Klassert kann nicht stimmen, da Eltz erst 1736 wegen der Ernennung zum Domprobst Mitglied des Domkapitels wurde. Domkantor als niedere Dignität müsste er ja vorher gewesen sein",
+    "source":"Klassert, Kollegialstift St. Peter, S. 54."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.03.1736",
+    "event_end":"#",
+    "display_date":"1736",
+    "event_type":"Ernennung",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "comment":"Ernennung durch König FriedrichWilhelmI. in Preußen",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1736",
+    "event_end":"#",
+    "display_date":"1736",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Minden",
+    "place_name":"Minden",
+    "place_count":4,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 205; Schrader, S. 109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1693",
+    "event_end":"#",
+    "display_date":"1693",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Münster",
+    "place_name":"Münster",
+    "place_count":2,
+    "comment":"#",
+    "source":"Becker-Huberti, Die Tridentische Reform, S. 341"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1649",
+    "event_end":"#",
+    "display_date":"1649",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Münster",
+    "place_name":"Münster",
+    "place_count":2,
+    "comment":"Laut Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 341 zurückdatiert auf 1642",
+    "source":"Hersche, Deutsche Domkapitel, S. 135"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1644",
+    "event_end":"#",
+    "display_date":"1644",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Paderborn",
+    "place_name":"Paderborn",
+    "place_count":1,
+    "comment":"#",
+    "source":"Hersche, Deutsche Domkapitel, S. 147"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "comment":"Einfache Resignation",
+    "source":"Hersche, Einleitung, S. 128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1627",
+    "event_end":"#",
+    "display_date":"1627",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "comment":"wg. Wahl zum Bischof",
+    "source":"Hersche, Einleitung, S. 166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"03.06.1675",
+    "event_before-date":"",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Beisetzung des Herzens",
+    "pers_function":"",
+    "inst_name":"Speyrer Dom",
+    "place_name":"Speyer",
+    "place_count":6,
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"11.04.1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Wahl",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Speyer",
+    "place_name":"Speyer",
+    "place_count":6,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1749",
+    "event_end":"#",
+    "display_date":"1749",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 271"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"09.07.1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Wikipedia, Heinrich Ferdinand; Braun, Domkapitel, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1745",
+    "event_end":"#",
+    "display_date":"1745",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 185., Dylong, Domkapitel Hildesheim, S. 372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1775",
+    "event_end":"#",
+    "display_date":"1758",
+    "event_type":"Resignation",
+    "pers_function":"#",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"! Rauch gibt 1758 an, scheint aber nicht zu stimmen, s. Staatskalender",
+    "source":"Dylong, Hildesheimer DK, S. 372; Kurmainzer Hof- und Staatskalender 1775, S. 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1725",
+    "event_end":"#",
+    "display_date":"1725",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 184; Kurmainzer Hof- und Staatskalender 1779, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1687",
+    "event_end":"#",
+    "display_date":"1687",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1714",
+    "event_end":"#",
+    "display_date":"1714",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1625",
+    "event_end":"#",
+    "display_date":"1625",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 182; Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1645",
+    "event_end":"#",
+    "display_date":"1645",
+    "event_type":"Wahl",
+    "pers_function":"Domkustos",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1654",
+    "event_end":"#",
+    "display_date":"1654",
+    "event_type":"Resignation",
+    "pers_function":"Domkustos",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Wahl",
+    "pers_function":"Capellanus",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1660",
+    "event_end":"#",
+    "display_date":"1660",
+    "event_type":"Wahl",
+    "pers_function":"Oberchorbischof",
+    "inst_name":"Domkapitel Trier",
+    "place_name":"Trier",
+    "place_count":12,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1793",
+    "event_end":"#",
+    "display_date":"1793",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 272"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1793",
+    "event_end":"#",
+    "display_date":"1793",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1617",
+    "event_end":"#",
+    "display_date":"1617",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "comment":"Wikipedia schreibt, ab 1617 tauche von Saal in den Domkapitelprotokollen auf, Herrsche nimmt 1617 als Eintrittsdatum in das Domkapitel Worms, was in Verbindung mit dem Alter die Vermutung naheliegt, es handelt sich bei diesem Ereignis um die Ernennung zum Domizellar",
+    "source":"Hersche, Domkapitel, S. 128; Wikipedia, Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1654",
+    "event_end":"#",
+    "display_date":"1654",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "comment":"#",
+    "source":"Wikipedia, Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Wahl",
+    "pers_function":"Koadjutor",
+    "inst_name":"Bistum Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "comment":"Die Wormser Postulation wurde nie rechtskräftig, da nicht vom Papst bestätigt",
+    "source":"Christ, Metternich-Burscheidt, S. 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"",
+    "event_before-date":"20.02.1673",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Wahl",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Worms",
+    "place_name":"Worms",
+    "place_count":6,
+    "comment":"genaues Datum der Wahl nicht überliefert",
+    "source":"Christ, Metternich-Burscheidt, S. 20f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1613",
+    "event_end":"#",
+    "display_date":"1613",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225; Hersche, S. 193"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1615",
+    "event_end":"#",
+    "display_date":"1615",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1623",
+    "event_end":"#",
+    "display_date":"1623",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S.225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"01.02.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 271; Salver, Proben, S. 738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.02.1755",
+    "event_end":"#",
+    "display_date":"1755",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"Verzicht zugunsten seines Bruders Franz Erwein",
+    "source":"Jürgensmeier, Bischofslexikon, S. 271; Salver, Proben, S. 738."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1781",
+    "event_end":"#",
+    "display_date":"1781",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Jürgensmeier, Bischofslexikon, S. 271."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1784",
+    "event_end":"#",
+    "display_date":"1784",
+    "event_type":"Resignation",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.10.1622",
+    "event_end":"#",
+    "display_date":"1622",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1682",
+    "event_end":"#",
+    "display_date":"1682",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":"1697",
+    "event_type":"Residenz",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"Widerspruch zur Kavalierstour",
+    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1699",
+    "event_end":"#",
+    "display_date":"1699",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.6.1704",
+    "event_end":"#",
+    "display_date":"1704",
+    "event_type":"Wahl",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 292"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1719",
+    "event_end":"#",
+    "display_date":"1719",
+    "event_type":"Resignation",
+    "pers_function":"Domprobst",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Hersche, Domkapitel, S. 195"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"10.11.1720",
+    "event_end":"#",
+    "display_date":"1720",
+    "event_type":"Weihe",
+    "pers_function":"Bischof",
+    "inst_name":"Dom",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.9.1719",
+    "event_end":"#",
+    "display_date":"1719",
+    "event_type":"Wahl",
+    "pers_function":"Bischof",
+    "inst_name":"Bistum Würzburg",
+    "place_name":"Würzburg",
+    "place_count":15,
+    "comment":"#",
+    "source":"Bärmann, Universität Mainz, S. 726"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1648",
+    "event_end":"#",
+    "display_date":"1648",
+    "event_type":"Flucht nach Douai",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Douai",
+    "place_count":1,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Spiritual",
+    "inst_name":"",
+    "place_name":"Eichsfeld",
+    "place_count":1,
+    "comment":"#",
+    "source":"Klassert, Kollegialstift St. Peter, S. 54."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"14.01.1705",
+    "event_end":"#",
+    "display_date":"1705",
+    "event_type":"Wahl",
+    "pers_function":"Fürstbischof",
+    "inst_name":"Bistum Eichstätt",
+    "place_name":"Eichstätt",
+    "place_count":1,
+    "comment":"#",
+    "source":"Braun, Domkapitel, S. 351"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"16.02.1691",
+    "event_end":"08.06.1691",
+    "display_date":"1691",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"England",
+    "place_count":2,
+    "comment":"#",
+    "source":"Braun, Domkapitel, S. 350 f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":"1697",
+    "event_type":"Kavalierstour",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"England",
+    "place_count":2,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Statthalter zu Erfurt",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "comment":"#",
+    "source":"Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1699",
+    "event_end":"#",
+    "display_date":"1699",
+    "event_type":"Ernennung",
+    "pers_function":"Rector magnificus",
+    "inst_name":"#",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "comment":"#",
+    "source":"Wurzbach, Stadion, S. 26; Universität Erfurt, Rektoren"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Probst",
+    "inst_name":"Kollegiatstift ULF",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "comment":"#",
+    "source":"Orts- und Personenregister, S. 404; Kurmainzer Hof- und Staatskalender 1779, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Probst",
+    "inst_name":"Kollegiatstift ULF",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "comment":"#",
+    "source":"Schrader, Cathedral Chapter Minden, S. 109; Kurmainzer Hof- und Staatskalender 1779, S. 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1717",
+    "event_end":"#",
+    "display_date":"1717",
+    "event_type":"Ernennung",
+    "pers_function":"Statthalter",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Erfurt",
+    "place_count":5,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"00.12.1641",
+    "event_end":"00.10.1643",
+    "display_date":"1641",
+    "event_type":"Aufenthalt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Florenz",
+    "place_count":1,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 97"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.03.1682",
+    "event_end":"08.01.1683",
+    "display_date":"1682",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"Frankfurt",
+    "place_count":2,
+    "comment":"zum Deputationstag",
+    "source":"Braun, Domkapitel, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1741",
+    "event_end":"#",
+    "display_date":"1741",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Erster Mainzer Gesandter bei der Kaiserwahl",
+    "inst_name":"",
+    "place_name":"Frankfurt",
+    "place_count":2,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.04.1609",
+    "event_end":"#",
+    "display_date":"1609",
+    "event_type":"Tonsur",
+    "pers_function":"Tonsur",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.04.1609",
+    "event_end":"#",
+    "display_date":"1609",
+    "event_type":"Weihe",
+    "pers_function":"niedere Weihen",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.04.1609",
+    "event_end":"#",
+    "display_date":"1609",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Burkhard",
+    "place_name":"Würzburg",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.12.1638",
+    "event_end":"#",
+    "display_date":"1638",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"1664",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1664",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"1664",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1664",
+    "event_type":"Weihe",
+    "pers_function":"Niedere Weihen",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"1669",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1669",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.01.1738",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Rauch, Domkapitel Mainz, S. 177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.09.1715",
+    "event_end":"#",
+    "display_date":"1715",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Rauch, Domkapitel Mainz, S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.09.1715",
+    "event_end":"#",
+    "display_date":"1715",
+    "event_type":"Taufe",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Dylong, Domkapitel Hildesheim, S. 372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"24.08.1781",
+    "event_end":"#",
+    "display_date":"1781",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Rauch, Domkapitel Mainz S. 177."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.11.1701",
+    "event_end":"#",
+    "display_date":"1701",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 120; Schrader, S.109; Staatskalender 1779, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1659",
+    "event_end":"#",
+    "display_date":"1659",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Wikipedia, Hugo Wolfgang von Kesselstatt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1609",
+    "event_end":"#",
+    "display_date":"1609",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Hersche, Deutsche Domkapitel, S. 128"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1619",
+    "event_end":"1626",
+    "display_date":"1619",
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Wird von Wikipedia als \"Studium\" bezeichnet. Aufgrund des Alters eher \"Schule\"?",
+    "source":"Wikipedia, Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.11.1624",
+    "event_end":"#",
+    "display_date":"1624",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht, nennt 13.11.1624 als Geburtsdatum",
+    "source":"Rauch, Domkapitel Mainz, S. 154; Schleicher, Ernst von Oidtman, Bd. 16, S. 720"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.12.1694",
+    "event_end":"#",
+    "display_date":"1694",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 154, Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"20.02.1743",
+    "event_end":"#",
+    "display_date":"1743",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Weidenbach, Breidbach- Bürresheim, S. 103,"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.09.1640",
+    "event_end":"#",
+    "display_date":"1640",
+    "event_type":"Weihe",
+    "pers_function":"Subdiakon",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.09.1640",
+    "event_end":"#",
+    "display_date":"1640",
+    "event_type":"Weihe",
+    "pers_function":"Diakon",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"17.12.1652",
+    "event_end":"#",
+    "display_date":"1652",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"#",
+    "place_name":"#",
+    "place_count":22,
+    "comment":"Kein Ort gefunden",
+    "source":"Christ, Metternich-Burscheidt, S. 9; Jürtensmeier, Metternich-Burscheid, in Gatz, Bischöfe, S. 309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1732",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Statthalter des Eichsfelds",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Heiligenstadt",
+    "place_count":1,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 121, 132; Kurmainzer Hof- und Staatskalender 1740; Kurmainzer Hof- und Staatskalender 1779, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"??.08.1724",
+    "event_end":"#",
+    "display_date":"1724",
+    "event_type":"Reise",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mergentheim",
+    "place_count":1,
+    "comment":"Ziel: Bewegung zur Resignation in der kurmainzischen Koadjutorie-Angelegenheit",
+    "source":"Romberger, Bistümer der Kirchenprovinz Mainz, S. 306"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.8.1669",
+    "event_end":"#",
+    "display_date":"1669",
+    "event_type":"Bestellung durch Kaiser Leopold I.",
+    "pers_function":"Prinzipialkommissar",
+    "inst_name":"Immerwährender Reichstag",
+    "place_name":"Regensburg",
+    "place_count":1,
+    "comment":"Angabe durch Kaiser Leopold I. lassen oder weg?",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1617",
+    "event_end":"#",
+    "display_date":"1617",
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"Jesuitengymnasium Dillingen",
+    "place_name":"Dillingen",
+    "place_count":1,
+    "comment":"Vollständige Angabe bei Specht: Marquardus Schenk a Castell fil[ius] Joannis Eberhardi adm[issus] ad con[victum] et 3. class[em] gramm[aticam], allerdings keine Erwähnung in den Matrikeln 1616 oder 1618",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 440; Specht, Die Matrikel der Universität Dillingen, S. 474"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1719",
+    "event_end":"#",
+    "display_date":"1719",
+    "event_type":"Ernennung",
+    "pers_function":"Rektor",
+    "inst_name":"Julius-Maximilians Universität",
+    "place_name":"Würzburg",
+    "place_count":2,
+    "comment":"#",
+    "source":"Würzburg Wiki, Schönborn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1721",
+    "event_end":"#",
+    "display_date":"1721",
+    "event_type":"Amtsniederlegung",
+    "pers_function":"Rektor",
+    "inst_name":"Julius-Maximilians Universität",
+    "place_name":"Würzburg",
+    "place_count":2,
+    "comment":"#",
+    "source":"Würzburg Wiki, Schönborn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.10.1615",
+    "event_end":"#",
+    "display_date":"1615",
+    "event_type":"Immatrikulation",
+    "pers_function":"Student",
+    "inst_name":"Universität Ingolstadt, Juristische Fakultät",
+    "place_name":"Ingolstadt",
+    "place_count":1,
+    "comment":"Studium der Rechte",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"1679",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Wien",
+    "place_count":2,
+    "comment":"#",
+    "source":"Wikipedia, Christoph"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.03.1676",
+    "event_end":"25.02.1677",
+    "display_date":"1676",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"Wien",
+    "place_count":2,
+    "comment":"zum Kaiser",
+    "source":"Pauly, Bistümer, S. 313; Braun, Domkapitel, S. 350; Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.01.1679",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Ernennung",
+    "pers_function":"Archidiakon",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"Karden an der Mosel",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"18.01.1685",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Aufenthalt wegen Krankheit",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Kartause Prül vor den Toren von Regensburg",
+    "place_count":1,
+    "comment":"genaues Datum nicht bekannt, Fomulierung in der Literatur als \"in seinen letzten Lebensjahren\"",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"29.04.1613",
+    "event_end":"#",
+    "display_date":"1613",
+    "event_type":"Immatrikulation",
+    "pers_function":"Student",
+    "inst_name":"Universität Köln",
+    "place_name":"Köln",
+    "place_count":5,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1631",
+    "event_end":"#",
+    "display_date":"1631",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Köln",
+    "place_name":"Köln",
+    "place_count":5,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"15.10.1640",
+    "event_end":"#",
+    "display_date":"1640",
+    "event_type":"Aufbruch nach Rom",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Köln",
+    "place_count":5,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 97"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"31.03.1642",
+    "event_end":"#",
+    "display_date":"1642",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Köln",
+    "place_count":5,
+    "comment":"Geburtsdatum auf Wikipedia kann nicht stimmen",
+    "source":"Rauch, Domkapitel Mainz, S. 175; Wikipedia, Heinrich Ferdinand; Arens, Mainzer, S. 56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"1653",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Schulbesuch",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Köln",
+    "place_count":5,
+    "comment":"#",
+    "source":"Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1754",
+    "event_end":"#",
+    "display_date":"1754",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Köln",
+    "place_name":"Köln",
+    "place_count":1,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 249; Robins, Adel, S. 277; Jürgensmeier, Bischofslexikon, S. 272"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.03.1615",
+    "event_end":"#",
+    "display_date":"1615",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Königstein",
+    "place_count":1,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 174; Lahrkamp et al., Geschichte, S. 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Geheimrat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"1679",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Ernennung",
+    "pers_function":"Hofratspräsident",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Geheimrat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Robins, Adel, S. 277"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1675",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Niederlage bei der Wahl zum Kurfürsten",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Geheimer Rat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1740; Kurzmainzer Hof- und Staatskalender 1779, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Leitender Minister",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1735",
+    "event_end":"#",
+    "display_date":"1735",
+    "event_type":"Ernennung",
+    "pers_function":"Generalvikar",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Nottarp, S. 121; Datum: https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1743",
+    "event_end":"",
+    "display_date":"#",
+    "event_type":"Resignation",
+    "pers_function":"Generalvikar",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"27.06.1779",
+    "event_end":"#",
+    "display_date":"1779",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"Alternativ wird der 26.03.1778 als Todesdatum angegeben, aufgrund der Nachwahl seines Nachfolgers Heinrich Wilhelm Harff von Dreyborn als Domprobst in Mainz am 26.07.1779, wird jedoch das Todesjahr 1779 (vgl. Rauch, Domkapitel Mainz, S. 177) als wahrscheinlicher angenommen (Veit, Dom Mainzherren, S. 14; sowie von Hersche, Domkapitel Mainz, S. 130).",
+    "source":"Rauch, Dom Mainzkaoitel, S. 176; https://www.dilibri.de/dilibri/name/view/2597111 ; Nottarp, Mindener Domprobst, S.; Schrader, S. 109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1666",
+    "event_end":"#",
+    "display_date":"1666",
+    "event_type":"Vertretung des Kurfürsten während eines Pestausbruches",
+    "pers_function":"#",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Luschberger, Das Domkapitel Mainz (http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
+    "event_after-date":"#",
+    "event_before-date":"15.12.1694",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1694",
+    "event_type":"Ernennung",
+    "pers_function":"Geheimer Rat",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"Übte dieses Amt laut seinem Grabstein aus",
+    "source":"Arens, Mainzer Inschriften, S. 40ff."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"",
+    "event_before-date":"",
+    "event_start":"15.12.1670",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Wahl",
+    "pers_function":"Koadjutor",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.02.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Amtsantritt",
+    "pers_function":"Erzbischof",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 20f."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"06.03.1682",
+    "event_end":"#",
+    "display_date":"1682",
+    "event_type":"Belehnung",
+    "pers_function":"Kanzler",
+    "inst_name":"Erzstift Mainz",
+    "place_name":"Mainz",
+    "place_count":14,
+    "comment":"Brauns Quelle ist StaN EU = Staatsarchiv Nürnberg Eichstätter Urkunden; allerdings keine Erwähnung bei May, Die Organisation von Gerichtsbarkeit und Verwaltung in der Erzdiözese Mainz vom hohen Mittelalter bis zum Ende der Reichskirche",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.08.1648",
+    "event_end":"#",
+    "display_date":"1648",
+    "event_type":"Niederlage in der Schlacht bei Lens",
+    "pers_function":"Obrist eines spanischen Reiterregiments",
+    "inst_name":"#",
+    "place_name":"Lens",
+    "place_count":1,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.08.1724",
+    "event_end":"#",
+    "display_date":"1724",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Löffelstelzen bei Bad Mergentheim",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.11.1618",
+    "event_end":"#",
+    "display_date":"1618",
+    "event_type":"Beurlaubung zum studium voluntarium",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"30.12.1634",
+    "event_end":"#",
+    "display_date":"1634",
+    "event_type":"Wahl",
+    "pers_function":"Domscholaster",
+    "inst_name":"Domkapitel Mainz",
+    "place_name":"Köln",
+    "place_count":12,
+    "comment":"Wahl in Köln, weil Domkapitel wegen schwedischer Besetzung von Mainz im Exil",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"",
+    "event_before-date":"",
+    "event_start":"29.04.1668",
+    "event_end":"",
+    "display_date":"1668",
+    "event_type":"Tod",
+    "pers_function":"",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Ernennung",
+    "pers_function":"Ehrenritter des Malteserorden",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Robins, Adel, S. 277; Kurmainzischer Hof - und Staatskalender 1773, S. 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"21.09.1675",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Hersche, Einleitung, S. 128; Rauch, Domkapitel Mainz, S. 174; Lahrkamp et al., Geschichte, S. 106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1644",
+    "event_end":"#",
+    "display_date":"1644",
+    "event_type":"Rückkehr nach Mainz",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 97"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1647",
+    "event_end":"#",
+    "display_date":"1647",
+    "event_type":"Versuch spanische Truppen nach Mainz zu schmuggeln",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1654",
+    "event_end":"#",
+    "display_date":"1654",
+    "event_type":"Arbeit",
+    "pers_function":"Künstler, Alchemist",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 99 - 102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.01.1738",
+    "event_end":"#",
+    "display_date":"1738",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Rauch, Dom Mainzkapteil, S. 176;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.02.1672",
+    "event_end":"#",
+    "display_date":"1672",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Präsident",
+    "pers_function":"Präsident",
+    "inst_name":"???",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"ORT UNSICHER: muss nachrecherchiert werden",
+    "source":"Weidenbach, Breidbach-Bürresheim, S. 103;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"03.06.1675",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Mainz",
+    "place_count":12,
+    "comment":"#",
+    "source":"Rauch, Domkapitel Mainz, S. 174, Christ, Metternich-Burscheidt, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"",
+    "event_end":"#",
+    "display_date":"1668",
+    "event_type":"Beisetzung",
+    "pers_function":"#",
+    "inst_name":"",
+    "place_name":"Mainz",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1650",
+    "event_end":"1654",
+    "display_date":"1650",
+    "event_type":"Asyl im Deutschordenhaus",
+    "pers_function":"#",
+    "inst_name":"Deutschordenshaus Mechelen",
+    "place_name":"Mechelen",
+    "place_count":1,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 99"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"1770",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1770",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Martin, Donat und Nazarius",
+    "place_name":"Mockstadt",
+    "place_count":1,
+    "comment":"Propstei Maxstatt? s. Archiv vs. Staatskalender – \"Maxstatt\" wird zw. 1744 u. 1745 übernommen, als Propst von Mockstadt im Staatskalender ab 1770 belegt",
+    "source":"LA NRW, Harff Dreiborn, Akten AA 0580, Nr. 88;Kurmainzer Hof-und Staatskalender 1746"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.01.1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Neues Stift Unsere Liebe Frau",
+    "place_name":"Eichstätt",
+    "place_count":1,
+    "comment":"Neuer Stift ULF = Unsere Liebe Frau?; kann er Stiftsprobst bleiben, als er Bischof wird?",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"13.05.1653",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Wahl",
+    "pers_function":"Stiftsprobst",
+    "inst_name":"Stift Neumünster",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":"1697",
+    "event_type":"Kavalierstour",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Niederlande",
+    "place_count":1,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1644",
+    "event_end":"#",
+    "display_date":"1644",
+    "event_type":"Flucht",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Oberlahnstein",
+    "place_count":1,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1697",
+    "event_end":"1698",
+    "display_date":"1697",
+    "event_type":"Kavalierstour",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Paris",
+    "place_count":1,
+    "comment":"Widerspruch zur Residenz",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"1635",
+    "display_date":"1635",
+    "event_type":"Schulbesuch",
+    "pers_function":"Schüler",
+    "inst_name":"Universität Pont-à-Mousson",
+    "place_name":"Pont-à-Mousson",
+    "place_count":2,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1641",
+    "event_end":"#",
+    "display_date":"1641",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Pont-à-Mousson",
+    "place_name":"Pont-à-Mousson",
+    "place_count":2,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"1624",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1624",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Pontificia Universitas Gregoriana",
+    "place_name":"Rom",
+    "place_count":1,
+    "comment":"kein genaues Datum bekannt, sondern nur, dass er bald nach Studienbeginn in Ingolstadt an die römische Gregoriana wechselte",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1720",
+    "event_end":"18.12.1720",
+    "display_date":"1720",
+    "event_type":"Amtsausübung",
+    "pers_function":"Kämmerer des weltlichen Gerichts",
+    "inst_name":"Stadt Mainz",
+    "place_name":"Mainz",
+    "place_count":3,
+    "comment":"#",
+    "source":"Schrohe, Stadt Mainz, S. 65"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"1740",
+    "event_before-date":"",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1740",
+    "event_type":"Amtsausübung",
+    "pers_function":"Geheimer Rat",
+    "inst_name":"Stadt Mainz",
+    "place_name":"Mainz",
+    "place_count":3,
+    "comment":"Amtsausübung mindestens seit 1740 (Staatskalender)",
+    "source":"Kurzmainzer Hof- und Staatskalender 1740, S. 2."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1720",
+    "event_end":"1743",
+    "display_date":"1720",
+    "event_type":"Amtsausübung",
+    "pers_function":"Kämmerer des weltlichen Gerichts der Stadt",
+    "inst_name":"Stadt Mainz",
+    "place_name":"Malnz",
+    "place_count":3,
+    "comment":"#",
+    "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108; Schrohe, Stadt Mainz, S. 65; Kurzmainzer Hof- und Staatskalender Mainz 1743."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"04.08.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"Regensburg",
+    "place_count":2,
+    "comment":"zum Reichstag",
+    "source":"Braun, Domkapitel, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.01.1685",
+    "event_end":"#",
+    "display_date":"1685",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Regensburg",
+    "place_count":2,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"1777",
+    "event_before-date":"1781",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1777",
+    "event_type":"Ernennung",
+    "pers_function":"Archidiakon",
+    "inst_name":"Erzbistum Mainz",
+    "place_name":"Rheingau",
+    "place_count":1,
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1777, S. 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Dietrich Kaspar von Fürstenberg",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"00.01.1641",
+    "event_end":"00.12.1641",
+    "display_date":"1641",
+    "event_type":"Aufenthalt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Rom",
+    "place_count":2,
+    "comment":"#",
+    "source":"Lahrkamp et al., Geschichte, S. 97"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"12.11.1667",
+    "event_end":"#",
+    "display_date":"1667",
+    "event_type":"Gesandtschaft",
+    "pers_function":"Gesandter",
+    "inst_name":"Erzbistum Trier",
+    "place_name":"Rom",
+    "place_count":2,
+    "comment":"visitatio liminum",
+    "source":"Braun, Domkapitel, S. 350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.08.1724",
+    "event_end":"#",
+    "display_date":"1724",
+    "event_type":"Beisetzung des Herzens",
+    "pers_function":"#",
+    "inst_name":"Schlosskirche Marienberg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 346"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"22.7.1720",
+    "event_end":"#",
+    "display_date":"1720",
+    "event_type":"Weihe",
+    "pers_function":"Diakon",
+    "inst_name":"Schlosskirche Marienberg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"25.7.1720",
+    "event_end":"#",
+    "display_date":"1720",
+    "event_type":"Weihe",
+    "pers_function":"Priester",
+    "inst_name":"Schlosskirche Marienberg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1627",
+    "event_end":"#",
+    "display_date":"1627",
+    "event_type":"Aufenthalt wegen schwankender Gesundheit",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Siena",
+    "place_count":1,
+    "comment":"erwähnenswert?",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"um 1595",
+    "event_end":"#",
+    "display_date":"1595",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Speyer",
+    "place_count":1,
+    "comment":"#",
+    "source":"Thesaurus Personarum, Pfälzische Personengeschichte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift Mariengreden",
+    "place_name":"Mainz",
+    "place_count":3,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"1665",
+    "event_before-date":"1674",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift Mariengreden",
+    "place_name":"Mainz",
+    "place_count":3,
+    "comment":"#",
+    "source":"Rauch, Sankt Bartholomäus, S. 177, FN 958, Dörr, Mariengreden, S. 85"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"",
+    "event_before-date":"1775",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift Mariengreden",
+    "place_name":"Mainz",
+    "place_count":3,
+    "comment":"#",
+    "source":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Kommendatarabt",
+    "inst_name":"Stift Pecswarad",
+    "place_name":"Fünfkirchen in Niederungarn",
+    "place_count":1,
+    "comment":"#",
+    "source":"Nottarp, Mindener Domprobst, S. 121; Schrader, Cathedral Chapter Minden, S. 109; Staatskalender Mainzer 1740; Staatskalender Mainz 1779; Orts- und Personenverzeichnis Westfällische Zeitschrift, S. 404"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"#",
+    "source":"Rauch, Sankt Bartholomäus, S. 177, FN 958"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"",
+    "event_end":"#",
+    "display_date":"1675",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"Angabe bei Wurzbach falsch, richitg Joannis, S.791",
+    "source":"Wurzbach, Stadion, S. 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"#",
+    "source":"Schrader, Cathedral Chapter Minden, S. 109; Staatskalender 1779, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"#",
+    "source":"Wikipedia, Hugo Wolfgang von Kesselstatt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1682",
+    "event_end":"#",
+    "display_date":"1682",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"#",
+    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1703",
+    "event_end":"#",
+    "display_date":"1703",
+    "event_type":"Resignation",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Alban",
+    "place_name":"Mainz",
+    "place_count":7,
+    "comment":"#",
+    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1699",
+    "event_end":"#",
+    "display_date":"1699",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Bartholomäus",
+    "place_name":"Frankfurt",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"02.08.1674",
+    "event_end":"#",
+    "display_date":"1674",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Bartholomäus",
+    "place_name":"Frankfurt",
+    "place_count":1,
+    "comment":"Angabe bei Wurzbach falsch, richitg Joannis, S.791",
+    "source":"Rauch, Domkapitel Mainz, S. 175; Wurzbach, Stadion, S. 26, Rauch, Sankt Bartholomäus, S. 329"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.02.1639",
+    "event_end":"#",
+    "display_date":"1619",
+    "event_type":"Resignation",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Burkhard",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"16.01.1624",
+    "event_end":"#",
+    "display_date":"1624",
+    "event_type":"Wahl",
+    "pers_function":"Dekan",
+    "inst_name":"Stift St. Burkhard",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"19.08.1639",
+    "event_end":"#",
+    "display_date":"1639",
+    "event_type":"Resignation",
+    "pers_function":"Dekan",
+    "inst_name":"Stift St. Burkhard",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Christoph Rudolf von Stadion",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Ferrutius",
+    "place_name":"Bleidenstadt",
+    "place_count":2,
+    "comment":"#",
+    "source":"Joannis, S. 791"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Ferrutius Bleidenstadt",
+    "place_name":"Bleidenstadt",
+    "place_count":2,
+    "comment":"Stiftsherren von Bleidenstadt verrichteten seit 1682 wegen Zerstörung ihrer Kirche ihren Chordienst in der St. Sebastianskapelle in Mainz am Höfchen aus, Noll/Burkhardt, S. 78",
+    "source":"Wikipedia, Hugo Wolfgang von Kesselstatt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Wahl",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. German",
+    "place_name":"Speyer",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"",
+    "event_before-date":"",
+    "event_start":"",
+    "event_end":"",
+    "display_date":"",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"St. Ignaz",
+    "place_name":"Mainz",
+    "place_count":1,
+    "comment":"#",
+    "source":"Klassert, Kollegialstift St. Peter, S. 90"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"26.01.1679",
+    "event_end":"#",
+    "display_date":"1679",
+    "event_type":"Ernennung",
+    "pers_function":"Probst",
+    "inst_name":"Stift St. Kastor",
+    "place_name":"Karden an der Mosel",
+    "place_count":1,
+    "comment":"#",
+    "source":"Pauly, Bistümer, S. 313"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Wahl",
+    "pers_function":"Stiftsprobst",
+    "inst_name":"Stift St. Martini, Donati und Nazarii",
+    "place_name":"Mockstadt",
+    "place_count":1,
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1740"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"1778",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1778",
+    "event_type":"Wahl",
+    "pers_function":"Stiftsprobst",
+    "inst_name":"Stift St. Mauriz",
+    "place_name":"Mainz",
+    "place_count":1,
+    "comment":"#",
+    "source":"Kurmainzer Hof- und Staatskalender 1777, S. 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Peter",
+    "place_name":"Mainz",
+    "place_count":2,
+    "comment":"#",
+    "source":"Kurzmainzer Hof- und Staatskalender 1740, S. 3."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.06.1712",
+    "event_end":"#",
+    "display_date":"1712",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Peter",
+    "place_name":"Mainz",
+    "place_count":2,
+    "comment":"#",
+    "source":"Weidenbach, Breidbach-Bürresheim, S. 103; Verzeichnis der Mainzer Universitätsmatrikeln, S. 108"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Aufschwörung",
+    "pers_function":"Stiftsherr",
+    "inst_name":"Stift St. Viktor",
+    "place_name":"Mainz",
+    "place_count":2,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.06.1712",
+    "event_end":"#",
+    "display_date":"1712",
+    "event_type":"Wahl",
+    "pers_function":"Dekan",
+    "inst_name":"Stift St.Viktor",
+    "place_name":"Mainz",
+    "place_count":2,
+    "comment":"#",
+    "source":"Weidenbach, Breidbach-Bürresheim, S. 103; Klassert, Kollegialstift St. Peter, S. 90."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Ferdinand von der Leyen",
+    "event_after-date":"#",
+    "event_before-date":"1653",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1653",
+    "event_type":"Schulbesuch",
+    "pers_function":"Schüler",
+    "inst_name":"#",
+    "place_name":"Trier",
+    "place_count":2,
+    "comment":"#",
+    "source":"Wikipedia, Heinrich Ferdinand"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"18.01.1674",
+    "event_end":"#",
+    "display_date":"1674",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Trier",
+    "place_count":2,
+    "comment":"Angabe Trier unsicher (siehe Universitätsmatrikeln, S. 108",
+    "source":"Rauch, Domkapitel Mainz, S. 168; verzeichnis der Mainzer Universitätsmatrikeln, S. 108; Hersche, Einleitung, S. 130"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"27.07.1627",
+    "event_end":"#",
+    "display_date":"1627",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Siena",
+    "place_name":"Siena",
+    "place_count":1,
+    "comment":"#",
+    "source":"Braun, Das Domkapitel Eichstätt, S. 440"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Bamberg",
+    "place_name":"Bamberg",
+    "place_count":1,
+    "comment":"#",
+    "source":"Landeshauptarchiv Koblenz, Bestand 48, Nr. 117, 120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Freiburg",
+    "place_name":"Freiburg",
+    "place_count":1,
+    "comment":"#",
+    "source":"Landeshauptarchiv Koblenz, Bestand 48, Nr. 117, 118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Heidelberg",
+    "place_name":"Heidelberg",
+    "place_count":2,
+    "comment":"#",
+    "source":"Landeshauptarchiv Koblenz, Bestand 48, Nr. 117, 119"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"1654",
+    "event_before-date":"#",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"#",
+    "event_type":"Amtsausübung",
+    "pers_function":"Kanzler",
+    "inst_name":"Universität Heidelberg",
+    "place_name":"Heidelberg",
+    "place_count":2,
+    "comment":"Genaues Datum nicht überliefert, dieses Amt fiel ihm als Wormser Domprobst zu",
+    "source":"Wikipedia, Johann von Heppenheim genannt vom Saal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Marquard Schenk von Castell",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"01.10.1624",
+    "event_end":"#",
+    "display_date":"1624",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Ingolstadt",
+    "place_name":"Ingolstadt",
+    "place_count":1,
+    "comment":"#",
+    "source":"Reiter, Marquard II., S. 239-240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Hugo Wolfgang von Kesselstatt",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1676",
+    "event_end":"#",
+    "display_date":"1676",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Köln",
+    "place_name":"Köln",
+    "place_count":1,
+    "comment":"#",
+    "source":"Keussen, Matrikel Köln, Bd. 5, S. 4. sowie Bd. 6, S. 212."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1636",
+    "event_end":"#",
+    "display_date":"1636",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Löwen",
+    "place_name":"Löwen",
+    "place_count":1,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1688",
+    "event_end":"#",
+    "display_date":"1688",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Mainz",
+    "place_name":"Mainz",
+    "place_count":1,
+    "comment":"#",
+    "source":"Romberg Bistümer der Kirchenprovinz Mainz, S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Heppenheim genannt von Saal",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1634",
+    "event_end":"#",
+    "display_date":"1634",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Perugia",
+    "place_name":"Perugia",
+    "place_count":1,
+    "comment":"#",
+    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
+    "event_after-date":"#",
+    "event_before-date":"25.05.1735",
+    "event_start":"#",
+    "event_end":"#",
+    "display_date":"1735",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Reims",
+    "place_name":"Reims",
+    "place_count":1,
+    "comment":"Dauer: 1 J u. 6 Wochen; noch genaue Quelle, außer:",
+    "source":"Dylong, Domkapitel Hildesheim, S. 372"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Lothar Friedrich von Metternich-Burscheid",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1635",
+    "event_end":"1636",
+    "display_date":"1635",
+    "event_type":"Studium",
+    "pers_function":"Student",
+    "inst_name":"Universität Trier",
+    "place_name":"Trier",
+    "place_count":1,
+    "comment":"#",
+    "source":"Christ, Metternich-Burscheidt, S. 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1694",
+    "event_end":"#",
+    "display_date":"1694",
+    "event_type":"Studium",
+    "pers_function":"#",
+    "inst_name":"Universität Wien",
+    "place_name":"Wien",
+    "place_count":1,
+    "comment":"#",
+    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Adolph Hund von Saulheim",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"1621",
+    "event_end":"#",
+    "display_date":"1621",
+    "event_type":"Aufschwörung",
+    "pers_function":"Domherr",
+    "inst_name":"Domkapitel Würzburg",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"08.09.1817",
+    "event_end":"#",
+    "display_date":"1817",
+    "event_type":"Tod",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"#",
+    "source":"Rauch, Dom Mainzkaitel, S. 177"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"05.02.1673",
+    "event_end":"#",
+    "display_date":"1673",
+    "event_type":"Geburt",
+    "pers_function":"#",
+    "inst_name":"#",
+    "place_name":"Würzburg",
+    "place_count":3,
+    "comment":"Taufe: Pfarrkirche St. Peter, Würzburg",
+    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 287"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "pers_name":"Johann Philipp Franz Graf von Schönborn",
+    "event_after-date":"#",
+    "event_before-date":"#",
+    "event_start":"4.09.1724",
+    "event_end":"#",
+    "display_date":"1724",
+    "event_type":"Beisetzung",
+    "pers_function":"",
+    "inst_name":"",
+    "place_name":"Würzburg",
+    "place_count":1,
+    "comment":"#",
+    "source":"Greipl, Schönborn, S. 444; Romberg, Bistümer der Kirchenprovinz Mainz, S. 346"
+    }
+  }
+]
+}
