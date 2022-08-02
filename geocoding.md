@@ -22,5 +22,5 @@ One issue that even enriching the data could not solve, however, is that many ea
 <a href="https://www.klosterlexikon-rlp.de/rheinhessen/mainz-st-victor.html">Stift St. Victor</a><br><br>
 <a href="https://www.klosterlexikon-rlp.de/rheinhessen/mainz-liebfrauen-maria-ad-gradus-mariengreden.html">Liebfrauen - Maria ad gradus - Mariengreden</a>
 
-<p align="justify">Please view or download our <a href="./CSV%20tables/DigiKAR_geocoding_Clerics_1August2022.csv">updated data table in CSV format</a> or check the data with coordinates in <a href="./GeoJSON%20layers/Domherren_v4.geojson">GeoJSON format (v4)</a>.</p>
+<p align="justify">Please view or download our <a href="./CSV%20tables/DigiKAR_geocoding_Clerics_1August2022.csv">updated data table in CSV format</a> or check the data with coordinates in <a href="./GeoJSON%20layers/Domherren_v6.geojson">GeoJSON format (v6)</a>.</p>
 
