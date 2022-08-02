@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9533548,49.7913044 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -19,15 +19,17 @@
     "inst_name":"Academia Julia",
     "place_name":"Würzburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Academia Julia Würzburg Germany",
     "comment":"#",
-    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    "source":"Romberg: Bistümer der Kirchenprovinz Mainz: S. 290"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.8421043,47.9990077 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -41,15 +43,17 @@
     "inst_name":"Albertina",
     "place_name":"Freiburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Albertina Freiburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321 (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321 (https://books.google.de/books?id=CnkB23QthD8C&pg=PA321#v=onepage&q&f=false)"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9469374,49.7966264 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -63,15 +67,17 @@
     "inst_name":"",
     "place_name":"Würzburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Allgemeiner Friedhof Würzburg Germany",
     "comment":"Allgemeiner Friedhof",
-    "source":"Jürgensmeier, Bischofslexikon, S. 272."
+    "source":"Jürgensmeier: Bischofslexikon: S. 272."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.1355554,49.9806625 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -85,15 +91,17 @@
     "inst_name":"Jesuitenschule",
     "place_name":"Aschaffenburg",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Aschaffenburg Germany",
     "comment":"#",
-    "source":"WürzburgWiki, von Schönborn"
+    "source":"WürzburgWiki: von Schönborn"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.1355554,49.9806625 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -107,15 +115,17 @@
     "inst_name":"Jesuitenkolleg",
     "place_name":"Aschaffenburg",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Aschaffenburg Germany",
     "comment":"#",
-    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    "source":"Wendehorst: \"Johann Philipp Franz\": S. 546"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.89779,48.3705449 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -129,15 +139,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"Augsburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Augsburg Germany",
     "comment":"zum Wahltag",
-    "source":"Braun, Domkapitel, S. 350; Wikipedia, Heinrich Ferdinand"
+    "source":"Braun: Domkapitel: S. 350 / Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.89779,48.3705449 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -151,15 +163,17 @@
     "inst_name":"#",
     "place_name":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg",
     "place_count":2,
-    "comment":"zwei Geburtsdaten angegeben, das spätere als Taufdatum?",
-    "source":"Reiter, Ernst, \"Marquard II.\" in: Neue Deutsche Biographie 16 (1990), S. 239-240 (https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben)"
+    "country":"Germany",
+    "# Full Address":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg Germany",
+    "comment":"zwei Geburtsdaten angegeben: das spätere als Taufdatum?",
+    "source":"Reiter: Ernst: \"Marquard II.\" in: Neue Deutsche Biographie 16 (1990): S. 239-240 (https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben)"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.89779,48.3705449 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -173,15 +187,17 @@
     "inst_name":"#",
     "place_name":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg",
     "place_count":2,
-    "comment":"zwei Geburtsdaten angegeben, das spätere als Taufdatum?",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "country":"Germany",
+    "# Full Address":"Berg bei Liebenau (oder Liebenthann?) bei Augsburg Germany",
+    "comment":"zwei Geburtsdaten angegeben: das spätere als Taufdatum?",
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.904596,49.9667396 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -195,15 +211,17 @@
     "inst_name":"#",
     "place_name":"Bingen",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Bingen Germany",
     "comment":"ab 1780 im Staatskalender n. mehr aufgeführt.",
-    "source":"Kurmainzer Hof- und Staatskalender 1780, S. 3."
+    "source":"Kurmainzer Hof- und Staatskalender 1780: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.185239,48.8910779 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -217,15 +235,17 @@
     "inst_name":"Bistum Eichstätt",
     "place_name":"Eichstätt",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Bistum Eichstätt Eichstätt Germany",
     "comment":"#",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 440"
+    "source":"Braun: Das Domkapitel Eichstätt: S. 440"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.185239,48.8910779 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -239,15 +259,17 @@
     "inst_name":"Bistum Eichstätt",
     "place_name":"Eichstätt",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Bistum Eichstätt Eichstätt Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.185239,48.8910779 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -261,15 +283,17 @@
     "inst_name":"Bistum Eichstätt",
     "place_name":"Eichstätt",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Bistum Eichstätt Eichstätt Germany",
     "comment":"#",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    "source":"Braun: Das Domkapitel Eichstätt: S. 441"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 15.472962,49.817492 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -283,15 +307,17 @@
     "inst_name":"#",
     "place_name":"Böhmen",
     "place_count":1,
+    "country":"Europe",
+    "# Full Address":"Bohemia Europe",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 97"
+    "source":"Lahrkamp et al.: Geschichte: S. 97"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.5844108,49.1249712 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -305,15 +331,17 @@
     "inst_name":"#",
     "place_name":"Bruchsal",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Bruchsal Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 4.3571696,50.8476424 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -327,15 +355,17 @@
     "inst_name":"#",
     "place_name":"Brüssel",
     "place_count":2,
+    "country":"Belgium",
+    "# Full Address":"Brüssel Belgium",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 98"
+    "source":"Lahrkamp et al.: Geschichte: S. 98"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 4.3571696,50.8476424 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -349,15 +379,17 @@
     "inst_name":"#",
     "place_name":"Brüssel",
     "place_count":2,
+    "country":"Belgium",
+    "# Full Address":"Brüssel Belgium",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 99"
+    "source":"Lahrkamp et al.: Geschichte: S. 99"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.1105932,51.085636 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -371,15 +403,17 @@
     "inst_name":"#",
     "place_name":"Burscheid",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Burscheid Germany",
     "comment":"Luxemburg",
-    "source":"Rauch, Mainzer Inschriften, S. 174, Christ, Metternich-Burscheidt, S. 9"
+    "source":"Rauch: Mainzer Inschriften: S. 174: Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4917397,41.9050908 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -393,15 +427,17 @@
     "inst_name":"Collegium Germanicum",
     "place_name":"Rom",
     "place_count":4,
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
     "comment":"Studium von Theologie und Kirchenrecht",
-    "source":"Bärmann, Universität Mainz, S.726; Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    "source":"Bärmann: Universität Mainz: S.726 / Romberg: Bistümer der Kirchenprovinz Mainz: S. 290"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4917397,41.9050908 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -415,15 +451,17 @@
     "inst_name":"Collegium Germanicum",
     "place_name":"Rom",
     "place_count":4,
-    "comment":"Allerdings keine genauere Angabe bei Becker-Huberti, Die Tridentische Reform S. 47 mit Anm. 27 und auch kein Verweis, woher diese Angabe stammt",
-    "source":"Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 47 mit Anm. 27; Schmidt, Collegium Germanicum"
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
+    "comment":"Allerdings keine genauere Angabe bei Becker-Huberti: Die Tridentische Reform S. 47 mit Anm. 27 und auch kein Verweis: woher diese Angabe stammt",
+    "source":"Becker-Huberti: Die Tridentische Reform im Bistum Münster: S. 47 mit Anm. 27 / Schmidt: Collegium Germanicum"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4917397,41.9050908 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -437,15 +475,29 @@
     "inst_name":"Collegium Germanicum",
     "place_name":"Rom",
     "place_count":4,
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
     "comment":"#",
-    "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108."
+    "source":"Verzeichnis der Mainzer Universitätsmatrikeln: S. 108.",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":"",
+    "FIELD21":"",
+    "FIELD22":"",
+    "FIELD23":"",
+    "FIELD24":"Rauch. 153",
+    "FIELD25":"",
+    "FIELD26":"",
+    "FIELD27":"",
+    "FIELD28":"",
+    "FIELD29":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4917397,41.9050908 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -459,15 +511,17 @@
     "inst_name":"Collegium Germanicum",
     "place_name":"Rom",
     "place_count":4,
-    "comment":"Allerdings keine Erwähnung bei Schmidt, Das Collegium Germanicum in Rom und die Germaniker. Möglicherweise, da von Schenk von Castell nicht seinen Abschluss im Collegium Germanicum machte und Schmidt eine Auflistung der Alumni und Konviktoristen anfertigte",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "country":"Italy",
+    "# Full Address":"Collegium Germanicum Rom Italy",
+    "comment":"Allerdings keine Erwähnung bei Schmidt: Das Collegium Germanicum in Rom und die Germaniker. Möglicherweise: da von Schenk von Castell nicht seinen Abschluss im Collegium Germanicum machte und Schmidt eine Auflistung der Alumni und Konviktoristen anfertigte",
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1856246,48.8904616 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -481,15 +535,17 @@
     "inst_name":"Collegium Willibaldinum",
     "place_name":"Eichstätt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Collegium Willibaldinum Eichstätt Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.882515,49.8907746 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -503,15 +559,17 @@
     "inst_name":"Domkapitel Bamberg",
     "place_name":"Bamberg",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249"
+    "source":"Hersche: Einleitung: S. 249"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.882515,49.8907746 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -525,15 +583,17 @@
     "inst_name":"Domkapitel Bamberg",
     "place_name":"Bamberg",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 272"
+    "source":"Hersche: Einleitung: S. 249 / Jürgensmeier: Bischofslexikon: S. 272"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.882515,49.8907746 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -547,15 +607,17 @@
     "inst_name":"Domkapitel Bamberg",
     "place_name":"Bamberg",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
-    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    "source":"Germania Sacra online: \"Johann Philipp Franz Graf von Schönborn\""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.882515,49.8907746 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -569,15 +631,17 @@
     "inst_name":"Domkapitel Bamberg",
     "place_name":"Bamberg",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Bamberg Germany",
     "comment":"#",
-    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\";Hersche, Domkapitel, S. 75"
+    "source":"Germania Sacra online: \"Johann Philipp Franz Graf von Schönborn\" /Hersche: Domkapitel: S. 75"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -591,15 +655,17 @@
     "inst_name":"Domkapitel Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 90"
+    "source":"Hersche: Einleitung: S. 90"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -613,15 +679,17 @@
     "inst_name":"",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Pauly, Bistümer, S. 313; Hersche, Einleitung, S. 90; Wikipedia, Heinrich Ferdinand"
+    "source":"Pauly: Bistümer: S. 313 / Hersche: Einleitung: S. 90 / Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -635,15 +703,17 @@
     "inst_name":"Domkapitel Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240; Braun, Domkapitel Eichstätt, S. 440"
+    "source":"Reiter: Marquard II.: S. 239-240 / Braun: Domkapitel Eichstätt: S. 440"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -657,15 +727,17 @@
     "inst_name":"Domkapitel Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -679,15 +751,17 @@
     "inst_name":"Bistum Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 175; Reiter, Marquard II., S. 239-240"
+    "source":"Rauch: Domkapitel Mainz: S. 175 / Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -701,15 +775,17 @@
     "inst_name":"Domkapitel Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    "source":"Braun: Das Domkapitel Eichstätt: S. 441"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -723,15 +799,17 @@
     "inst_name":"Domkapitel Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
-    "comment":"Datum geht aus Weihe zum Bischof hervor; anders als für Resignation des Domdekanats ist für dieses Ereignis kein genaues Datum überliefert; Datum als terminus oder terminus ante quem",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
+    "comment":"Datum geht aus Weihe zum Bischof hervor / anders als für Resignation des Domdekanats ist für dieses Ereignis kein genaues Datum überliefert / Datum als terminus oder terminus ante quem",
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -745,15 +823,17 @@
     "inst_name":"Domkapitel Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.1835667,48.8919581 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -767,15 +847,17 @@
     "inst_name":"Dom Eichstätt",
     "place_name":"Eichstätt",
     "place_count":9,
+    "country":"Germany",
+    "# Full Address":"Dom Eichstätt Germany",
     "comment":"#",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    "source":"Braun: Das Domkapitel Eichstätt: S. 441"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.0488695,51.8916475 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -789,15 +871,17 @@
     "inst_name":"Domkapitel Halberstadt",
     "place_name":"Halberstadt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Dom Halberstadt Germany",
     "comment":"#",
-    "source":"De Theux de Montjardin, Chapitré Saint-Lambért, Bd. 3., S. 345."
+    "source":"De Theux de Montjardin: Chapitré Saint-Lambért: Bd. 3.: S. 345."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9471512,52.1490222 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -811,15 +895,17 @@
     "inst_name":"Domkapitel Hildesheim",
     "place_name":"Hildesheim",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Hildesheim Germany",
     "comment":"#",
-    "source":"Dylong, Domkapitel Hildesheim, S. 372."
+    "source":"Dylong: Domkapitel Hildesheim: S. 372."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9471512,52.1490222 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -833,15 +919,17 @@
     "inst_name":"Domkapitel Hildesheim",
     "place_name":"Hildesheim",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Hildesheim Germany",
     "comment":"#",
-    "source":"Dylong, Domkapitel Hildesheim, S. 372."
+    "source":"Dylong: Domkapitel Hildesheim: S. 372."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 5.5697498,50.6329586 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -855,15 +943,17 @@
     "inst_name":"Domkapitel Lüttich",
     "place_name":"Lüttich",
     "place_count":2,
+    "country":"Belgium",
+    "# Full Address":"Dom Lüttich Belgium",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 121; Theux, Bd. 3, S. 345"
+    "source":"Hersche: Einleitung: S. 121 / Theux: Bd. 3: S. 345"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 5.5697498,50.6329586 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -877,15 +967,17 @@
     "inst_name":"Domkapitel Lüttich",
     "place_name":"Lüttich",
     "place_count":2,
+    "country":"Belgium",
+    "# Full Address":"Dom Lüttich Belgium",
     "comment":"#",
-    "source":"De Theux de Montjardin, Chapitré Saint-Lambért, Bd. 3., S. 345."
+    "source":"De Theux de Montjardin: Chapitré Saint-Lambért: Bd. 3.: S. 345."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -899,15 +991,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -921,15 +1015,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S.225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S.225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -943,6 +1039,8 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"#"
     }
@@ -951,7 +1049,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -965,15 +1063,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S.225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S.225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -987,6 +1087,8 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":"#"
     }
@@ -995,7 +1097,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1009,15 +1111,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 168; Wikipedia, Christoph"
+    "source":"Rauch: Domkapitel Mainz: S. 168 / Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1031,15 +1135,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 168"
+    "source":"Rauch: Domkapitel Mainz: S. 168"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1053,15 +1159,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 175; Wurzbach, Stadion, S. 26"
+    "source":"Rauch: Domkapitel Mainz: S. 175 / Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1075,15 +1183,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
-    "comment":"Bei Rauch: Pröpste, Propstei und Stift von Sankt Bartholomäus in Frankfurt, S. 186 steht 1696; sonst überall 1695",
-    "source":"Rauch, Domkapitel Mainz, S. 175; Wurzbach, Stadion, S. 26"
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Bei Rauch: Pröpste: Propstei und Stift von Sankt Bartholomäus in Frankfurt: S. 186 steht 1696 / sonst überall 1695",
+    "source":"Rauch: Domkapitel Mainz: S. 175 / Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1097,15 +1207,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 175; Wikipedia, Christoph"
+    "source":"Rauch: Domkapitel Mainz: S. 175 / Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1119,15 +1231,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Arens, Mainzer Inschriften, S. 45f."
+    "source":"Arens: Mainzer Inschriften: S. 45f."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1141,15 +1255,17 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wurzbach, Stadion, S. 26; Wikipedia, Christoph"
+    "source":"Wurzbach: Stadion: S. 26 / Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -1163,15 +1279,17 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wurzbach, Stadion, S. 26"
+    "source":"Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -1185,15 +1303,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S.177; Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 271"
+    "source":"Rauch: Domkapitel Mainz: S.177 / Hersche: Einleitung: S. 249 / Jürgensmeier: Bischofslexikon: S. 271"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -1207,15 +1327,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 177"
+    "source":"Rauch: Domkapitel Mainz: S. 177"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -1229,15 +1351,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 131; Jürgensmeier, Bischofslexikon, S. 271"
+    "source":"Hersche: Einleitung: S. 131 / Jürgensmeier: Bischofslexikon: S. 271"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -1251,15 +1375,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Kurmainzischer Hof- und Staatskalender 1774, S. 16; 1775, S. 17; May, Organisation, S. 336; Jürgensmeier, Bischofslexikon, S. 271."
+    "source":"Kurmainzischer Hof- und Staatskalender 1774: S. 16 / 1775: S. 17 / May: Organisation: S. 336 / Jürgensmeier: Bischofslexikon: S. 271."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -1273,15 +1399,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 96"
+    "source":"Lahrkamp et al.: Geschichte: S. 96"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -1295,15 +1423,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 128; Rauch, Domkapitel Mainz, S. 174; Lahrkamp et al., Geschichte, S. 103"
+    "source":"Hersche: Einleitung: S. 128 / Rauch: Domkapitel Mainz: S. 174 / Lahrkamp et al.: Geschichte: S. 103"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -1317,15 +1447,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Mainzer, S. 175; Braun, Domkapitel, S. 350"
+    "source":"Rauch: Mainzer: S. 175 / Braun: Domkapitel: S. 350"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -1339,15 +1471,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Mainzer, S. 176"
+    "source":"Rauch: Mainzer: S. 176"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -1361,15 +1495,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Mainzer, S. 176; Wikipedia, Heinrich Ferdinand"
+    "source":"Rauch: Mainzer: S. 176 / Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -1383,15 +1519,17 @@
     "inst_name":"Dom Mainz",
     "place_name":"Mainz",
     "place_count":66,
-    "comment":"Südquerhaus Dom, größtes Denkmal",
-    "source":"Arens, Mainzer Inschriften, S. 55–57."
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Südquerhaus Dom: größtes Denkmal",
+    "source":"Arens: Mainzer Inschriften: S. 55–57."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -1405,15 +1543,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 177."
+    "source":"Rauch: Domkapitel Mainz: S. 177."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -1427,15 +1567,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 177."
+    "source":"Rauch: Domkapitel Mainz: S. 177."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -1449,15 +1591,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 177."
+    "source":"Rauch: Domkapitel Mainz: S. 177."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -1471,15 +1615,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 140; Hersche, Einleitung, S. 130"
+    "source":"Rauch: Domkapitel Mainz: S. 140 / Hersche: Einleitung: S. 130"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -1493,15 +1639,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 120"
+    "source":"Nottarp: Mindener Domprobst: S. 120"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -1515,15 +1663,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch,Domkapitel Mainz, S. 176"
+    "source":"Rauch:Domkapitel Mainz: S. 176"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -1537,15 +1687,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz S. 176"
+    "source":"Rauch: Domkapitel Mainz S. 176"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -1559,15 +1711,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 121"
+    "source":"Nottarp: Mindener Domprobst: S. 121"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -1581,15 +1735,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Nottarp, MIndener Domprobst, S. 145"
+    "source":"Nottarp: MIndener Domprobst: S. 145"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1603,15 +1759,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 130;"
+    "source":"Hersche: Einleitung: S. 130 /"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1625,15 +1783,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S.176"
+    "source":"Rauch: Domkapitel Mainz: S.176"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1647,6 +1807,8 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":""
     }
@@ -1655,7 +1817,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1669,15 +1831,29 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 176, https://www.archivportal-d.de/item/YD4OU42NHIDVH4FCNTLSYHTP5B4TOXBB"
+    "source":"Rauch: Domkapitel Mainz: S. 176: https://www.archivportal-d.de/item/YD4OU42NHIDVH4FCNTLSYHTP5B4TOXBB",
+    "FIELD18":", Schrohe. Stadt Mainz. S. 65",
+    "FIELD19":"",
+    "FIELD20":"",
+    "FIELD21":"",
+    "FIELD22":"",
+    "FIELD23":"",
+    "FIELD24":"",
+    "FIELD25":"",
+    "FIELD26":"",
+    "FIELD27":"",
+    "FIELD28":"",
+    "FIELD29":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1691,6 +1867,8 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
     "source":""
     }
@@ -1699,7 +1877,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1713,15 +1891,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 176"
+    "source":"Rauch: Domkapitel Mainz: S. 176"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -1735,15 +1915,17 @@
     "inst_name":"Dom Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Inschrift",
-    "source":"Arens, Mainzer Inschriften, S. 66"
+    "source":"Arens: Mainzer Inschriften: S. 66"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -1757,15 +1939,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 174, Hersche, Deutsche Domkapitel, S. 128"
+    "source":"Rauch: Domkapitel Mainz: S. 174: Hersche: Deutsche Domkapitel: S. 128"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -1779,15 +1963,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -1801,15 +1987,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 174"
+    "source":"Rauch: Domkapitel Mainz: S. 174"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -1823,15 +2011,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 174"
+    "source":"Rauch: Domkapitel Mainz: S. 174"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -1845,15 +2035,17 @@
     "inst_name":"Dom Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -1867,15 +2059,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    "source":"Germania Sacra online: \"Johann Philipp Franz Graf von Schönborn\""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -1889,15 +2083,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    "source":"Germania Sacra online: \"Johann Philipp Franz Graf von Schönborn\""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -1911,15 +2107,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
-    "comment":"Hersche, Deutsche Domkapitel, S. 128 hat 1631 als Datum für die Aufschwörung. Siehe Spalte \"source\" für die Begründung, warum diese Datum ausgewählt wurde",
-    "source":"Rauch, Domkapitel Mainz, S. 154; aus der Antwortmail auf eine Frage zu diesem Datum: \"im Findbuch zum Aktenbestand des Archivs Schloss Gracht findet sich bei Akte 505 der enthält-Vermerk: „zum Kanonikat Johann Wilhelm Wolff Metternichs am Dom zu Mainz 1630-1643“. Dies spricht also dafür, dass er bereits 1630 zum Domkapitel aufgeschwört wurde.\""
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Hersche: Deutsche Domkapitel: S. 128 hat 1631 als Datum für die Aufschwörung. Siehe Spalte \"source\" für die Begründung: warum diese Datum ausgewählt wurde",
+    "source":"Rauch: Domkapitel Mainz: S. 154 / aus der Antwortmail auf eine Frage zu diesem Datum: \"im Findbuch zum Aktenbestand des Archivs Schloss Gracht findet sich bei Akte 505 der enthält-Vermerk: „zum Kanonikat Johann Wilhelm Wolff Metternichs am Dom zu Mainz 1630-1643“. Dies spricht also dafür: dass er bereits 1630 zum Domkapitel aufgeschwört wurde.\""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -1933,15 +2131,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
-    "comment":"Laut Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht, wird er 1675 Domscholaster, so auch laut Becker-Huberti, Die Tridentische Reform, S. 341. Allerdings genaues Datum bei Rauch (siehe Spalte source), sodass dieses Datum ausgewählt wurde",
-    "source":"Rauch, Domkapitel Mainz, S. 154; Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht"
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Laut Wikipedia: Johann Wilhelm Wolff von Metternich zur Gracht: wird er 1675 Domscholaster: so auch laut Becker-Huberti: Die Tridentische Reform: S. 341. Allerdings genaues Datum bei Rauch (siehe Spalte source): sodass dieses Datum ausgewählt wurde",
+    "source":"Rauch: Domkapitel Mainz: S. 154 / Wikipedia: Johann Wilhelm Wolff von Metternich zur Gracht"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -1955,15 +2155,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 167"
+    "source":"Rauch: Domkapitel Mainz: S. 167"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -1977,15 +2179,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 167"
+    "source":"Rauch: Domkapitel Mainz: S. 167"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -1999,15 +2203,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 175"
+    "source":"Rauch: Domkapitel Mainz: S. 175"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -2021,15 +2227,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
-    "comment":"Becker-Huberti, Die Tridentische Reform, S. 341, hat für dieses Amt das Jahr 1687",
-    "source":"Rauch, Domkapitel Mainz, S. 175"
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
+    "comment":"Becker-Huberti: Die Tridentische Reform: S. 341: hat für dieses Amt das Jahr 1687",
+    "source":"Rauch: Domkapitel Mainz: S. 175"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -2043,15 +2251,17 @@
     "inst_name":"Dom Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Arens, Mainzer Inschriften, S. 40ff."
+    "source":"Arens: Mainzer Inschriften: S. 40ff."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2065,15 +2275,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 130"
+    "source":"Hersche: Einleitung: S. 130"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2087,15 +2299,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108"
+    "source":"Verzeichnis der Mainzer Universitätsmatrikeln: S. 108"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2109,15 +2323,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"Datum der Wahl in Universitätsmatrikeln 17.02.1739",
-    "source":"Rauch, S. 176; Verzeichnis der Mainzer Universitätsmatrikeln, S. 108 (Datum der Wahl = 17.02.1738"
+    "source":"Rauch: S. 176 / Verzeichnis der Mainzer Universitätsmatrikeln: S. 108 (Datum der Wahl = 17.02.1738"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2131,15 +2347,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 176."
+    "source":"Rauch: Domkapitel Mainz: S. 176."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2153,15 +2371,17 @@
     "inst_name":"Dom Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Arens, Mainzer Inschriften, S. 71"
+    "source":"Arens: Mainzer Inschriften: S. 71"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2175,15 +2395,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 129; Christ, Metternich-Burscheidt, S. 9"
+    "source":"Hersche: Einleitung: S. 129 / Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2197,15 +2419,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 129, Rauch, Domkapitel Mainz, S. 174, Christ, Metternich-Burscheidt, S. 9"
+    "source":"Hersche: Einleitung: S. 129: Rauch: Domkapitel Mainz: S. 174: Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2219,15 +2443,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"wg. Amtsantritt als Erzbischof",
-    "source":"Hersche, Einleitung, S. 129"
+    "source":"Hersche: Einleitung: S. 129"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2241,15 +2467,17 @@
     "inst_name":"Dom Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Arens, Inschriften, S. 16"
+    "source":"Arens: Inschriften: S. 16"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -2263,15 +2491,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240; Braun, Das Domkapitel Eichstätt, S. 440"
+    "source":"Reiter: Marquard II.: S. 239-240 / Braun: Das Domkapitel Eichstätt: S. 440"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -2285,15 +2515,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"erwähnenswert?",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -2307,15 +2539,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 175"
+    "source":"Rauch: Domkapitel Mainz: S. 175"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.273938609815461,49.9990056297492 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -2329,15 +2563,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Mainz",
     "place_count":66,
+    "country":"Germany",
+    "# Full Address":"Dom Mainz Germany",
     "comment":"erwähnenswert?",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.9191982,52.288856 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -2351,15 +2587,17 @@
     "inst_name":"Domkapitel Minden",
     "place_name":"Minden",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
     "comment":"#",
-    "source":"Nottarp Mindener Domprobst,, S. 121"
+    "source":"Nottarp Mindener Domprobst:: S. 121"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.9191982,52.288856 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -2373,15 +2611,17 @@
     "inst_name":"Domkapitel Minden",
     "place_name":"Minden",
     "place_count":4,
-    "comment":"Angabe bei Klassert kann nicht stimmen, da Eltz erst 1736 wegen der Ernennung zum Domprobst Mitglied des Domkapitels wurde. Domkantor als niedere Dignität müsste er ja vorher gewesen sein",
-    "source":"Klassert, Kollegialstift St. Peter, S. 54."
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
+    "comment":"Angabe bei Klassert kann nicht stimmen: da Eltz erst 1736 wegen der Ernennung zum Domprobst Mitglied des Domkapitels wurde. Domkantor als niedere Dignität müsste er ja vorher gewesen sein",
+    "source":"Klassert: Kollegialstift St. Peter: S. 54."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.9191982,52.288856 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -2395,6 +2635,8 @@
     "inst_name":"Domkapitel Minden",
     "place_name":"Minden",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
     "comment":"Ernennung durch König FriedrichWilhelmI. in Preußen",
     "source":""
     }
@@ -2403,7 +2645,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.9191982,52.288856 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -2417,15 +2659,17 @@
     "inst_name":"Domkapitel Minden",
     "place_name":"Minden",
     "place_count":4,
+    "country":"Germany",
+    "# Full Address":"Dom Minden Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 205; Schrader, S. 109"
+    "source":"Hersche: Einleitung: S. 205 / Schrader: S. 109"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.6257716,51.9629806 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -2439,15 +2683,17 @@
     "inst_name":"Domkapitel Münster",
     "place_name":"Münster",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Dom Münster Germany",
     "comment":"#",
-    "source":"Becker-Huberti, Die Tridentische Reform, S. 341"
+    "source":"Becker-Huberti: Die Tridentische Reform: S. 341"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.6257716,51.9629806 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -2461,15 +2707,17 @@
     "inst_name":"Domkapitel Münster",
     "place_name":"Münster",
     "place_count":2,
-    "comment":"Laut Becker-Huberti, Die Tridentische Reform im Bistum Münster, S. 341 zurückdatiert auf 1642",
-    "source":"Hersche, Deutsche Domkapitel, S. 135"
+    "country":"Germany",
+    "# Full Address":"Dom Münster Germany",
+    "comment":"Laut Becker-Huberti: Die Tridentische Reform im Bistum Münster: S. 341 zurückdatiert auf 1642",
+    "source":"Hersche: Deutsche Domkapitel: S. 135"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.75583,51.7189529 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -2483,15 +2731,17 @@
     "inst_name":"Domkapitel Paderborn",
     "place_name":"Paderborn",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Dom Paderborn Germany",
     "comment":"#",
-    "source":"Hersche, Deutsche Domkapitel, S. 147"
+    "source":"Hersche: Deutsche Domkapitel: S. 147"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -2505,15 +2755,17 @@
     "inst_name":"Domkapitel Speyer",
     "place_name":"Speyer",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"Einfache Resignation",
-    "source":"Hersche, Einleitung, S. 128"
+    "source":"Hersche: Einleitung: S. 128"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -2527,15 +2779,17 @@
     "inst_name":"Domkapitel Speyer",
     "place_name":"Speyer",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 96"
+    "source":"Lahrkamp et al.: Geschichte: S. 96"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2549,15 +2803,17 @@
     "inst_name":"Domkapitel Speyer",
     "place_name":"Speyer",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 166"
+    "source":"Hersche: Einleitung: S. 166"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2571,15 +2827,17 @@
     "inst_name":"Domkapitel Speyer",
     "place_name":"Speyer",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"wg. Wahl zum Bischof",
-    "source":"Hersche, Einleitung, S. 166"
+    "source":"Hersche: Einleitung: S. 166"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2593,6 +2851,8 @@
     "inst_name":"Speyrer Dom",
     "place_name":"Speyer",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
     "source":""
     }
@@ -2601,7 +2861,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2615,15 +2875,17 @@
     "inst_name":"Bistum Speyer",
     "place_name":"Speyer",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Speyer Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -2637,15 +2899,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 271"
+    "source":"Hersche: Einleitung: S. 249 / Jürgensmeier: Bischofslexikon: S. 271"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -2659,15 +2923,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Wikipedia, Heinrich Ferdinand; Braun, Domkapitel, S. 350"
+    "source":"Wikipedia: Heinrich Ferdinand / Braun: Domkapitel: S. 350"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -2681,15 +2947,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 185., Dylong, Domkapitel Hildesheim, S. 372"
+    "source":"Hersche: Einleitung: S. 185.: Dylong: Domkapitel Hildesheim: S. 372"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -2703,15 +2971,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
-    "comment":"! Rauch gibt 1758 an, scheint aber nicht zu stimmen, s. Staatskalender",
-    "source":"Dylong, Hildesheimer DK, S. 372; Kurmainzer Hof- und Staatskalender 1775, S. 4"
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
+    "comment":"! Rauch gibt 1758 an: scheint aber nicht zu stimmen: s. Staatskalender",
+    "source":"Dylong: Hildesheimer DK: S. 372 / Kurmainzer Hof- und Staatskalender 1775: S. 4"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -2725,15 +2995,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 184; Kurmainzer Hof- und Staatskalender 1779, S. 3."
+    "source":"Hersche: Einleitung: S. 184 / Kurmainzer Hof- und Staatskalender 1779: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2747,15 +3019,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 184"
+    "source":"Hersche: Einleitung: S. 184"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -2769,15 +3043,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 184"
+    "source":"Hersche: Einleitung: S. 184"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2791,15 +3067,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 182; Christ, Metternich-Burscheidt, S. 9"
+    "source":"Hersche: Einleitung: S. 182 / Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2813,15 +3091,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2835,15 +3115,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2857,15 +3139,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6434155,49.7562639 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2879,15 +3163,17 @@
     "inst_name":"Domkapitel Trier",
     "place_name":"Trier",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -2901,15 +3187,17 @@
     "inst_name":"Domkapitel Worms",
     "place_name":"Worms",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 272"
+    "source":"Hersche: Einleitung: S. 249 / Jürgensmeier: Bischofslexikon: S. 272"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -2923,15 +3211,17 @@
     "inst_name":"Domkapitel Worms",
     "place_name":"Worms",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249"
+    "source":"Hersche: Einleitung: S. 249"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -2945,15 +3235,17 @@
     "inst_name":"Domkapitel Worms",
     "place_name":"Worms",
     "place_count":6,
-    "comment":"Wikipedia schreibt, ab 1617 tauche von Saal in den Domkapitelprotokollen auf, Herrsche nimmt 1617 als Eintrittsdatum in das Domkapitel Worms, was in Verbindung mit dem Alter die Vermutung naheliegt, es handelt sich bei diesem Ereignis um die Ernennung zum Domizellar",
-    "source":"Hersche, Domkapitel, S. 128; Wikipedia, Johann von Heppenheim genannt vom Saal"
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
+    "comment":"Wikipedia schreibt: ab 1617 tauche von Saal in den Domkapitelprotokollen auf: Herrsche nimmt 1617 als Eintrittsdatum in das Domkapitel Worms: was in Verbindung mit dem Alter die Vermutung naheliegt: es handelt sich bei diesem Ereignis um die Ernennung zum Domizellar",
+    "source":"Hersche: Domkapitel: S. 128 / Wikipedia: Johann von Heppenheim genannt vom Saal"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -2967,15 +3259,17 @@
     "inst_name":"Domkapitel Worms",
     "place_name":"Worms",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"#",
-    "source":"Wikipedia, Johann von Heppenheim genannt vom Saal"
+    "source":"Wikipedia: Johann von Heppenheim genannt vom Saal"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -2989,15 +3283,17 @@
     "inst_name":"Bistum Worms",
     "place_name":"Worms",
     "place_count":6,
-    "comment":"Die Wormser Postulation wurde nie rechtskräftig, da nicht vom Papst bestätigt",
-    "source":"Christ, Metternich-Burscheidt, S. 18"
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
+    "comment":"Die Wormser Postulation wurde nie rechtskräftig: da nicht vom Papst bestätigt",
+    "source":"Christ: Metternich-Burscheidt: S. 18"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.3507182,49.6341372 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -3011,15 +3307,17 @@
     "inst_name":"Bistum Worms",
     "place_name":"Worms",
     "place_count":6,
+    "country":"Germany",
+    "# Full Address":"Dom Worms Germany",
     "comment":"genaues Datum der Wahl nicht überliefert",
-    "source":"Christ, Metternich-Burscheidt, S. 20f."
+    "source":"Christ: Metternich-Burscheidt: S. 20f."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -3033,15 +3331,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225; Hersche, S. 193"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225 / Hersche: S. 193"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -3055,15 +3355,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -3077,15 +3379,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S.225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S.225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -3099,15 +3403,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249; Jürgensmeier, Bischofslexikon, S. 271; Salver, Proben, S. 738"
+    "source":"Hersche: Einleitung: S. 249 / Jürgensmeier: Bischofslexikon: S. 271 / Salver: Proben: S. 738"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -3121,15 +3427,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"Verzicht zugunsten seines Bruders Franz Erwein",
-    "source":"Jürgensmeier, Bischofslexikon, S. 271; Salver, Proben, S. 738."
+    "source":"Jürgensmeier: Bischofslexikon: S. 271 / Salver: Proben: S. 738."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -3143,15 +3451,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Jürgensmeier, Bischofslexikon, S. 271."
+    "source":"Jürgensmeier: Bischofslexikon: S. 271."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -3165,15 +3475,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249"
+    "source":"Hersche: Einleitung: S. 249"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -3187,15 +3499,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3209,15 +3523,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3231,15 +3547,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"Widerspruch zur Kavalierstour",
-    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    "source":"Romberg: Bistümer der Kirchenprovinz Mainz: S. 290"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3253,15 +3571,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    "source":"Wendehorst: \"Johann Philipp Franz\": S. 546"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3275,15 +3595,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 292"
+    "source":"Romberg: Bistümer der Kirchenprovinz Mainz: S. 292"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3297,15 +3619,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Hersche, Domkapitel, S. 195"
+    "source":"Hersche: Domkapitel: S. 195"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3319,15 +3643,17 @@
     "inst_name":"Dom",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3341,15 +3667,17 @@
     "inst_name":"Bistum Würzburg",
     "place_name":"Würzburg",
     "place_count":15,
+    "country":"Germany",
+    "# Full Address":"Dom Würzburg Germany",
     "comment":"#",
-    "source":"Bärmann, Universität Mainz, S. 726"
+    "source":"Bärmann: Universität Mainz: S. 726"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 3.080602,50.367874 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -3363,15 +3691,17 @@
     "inst_name":"#",
     "place_name":"Douai",
     "place_count":1,
+    "country":"France",
+    "# Full Address":"Douai France",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 98"
+    "source":"Lahrkamp et al.: Geschichte: S. 98"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.1439183,51.3770314 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -3385,15 +3715,17 @@
     "inst_name":"",
     "place_name":"Eichsfeld",
     "place_count":1,
+    "country":"",
+    "# Full Address":"Eichsfeld Germany",
     "comment":"#",
-    "source":"Klassert, Kollegialstift St. Peter, S. 54."
+    "source":"Klassert: Kollegialstift St. Peter: S. 54."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.185239,48.8910779 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -3407,15 +3739,17 @@
     "inst_name":"Bistum Eichstätt",
     "place_name":"Eichstätt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Eichstätter Hochstift Eichstätt Germany",
     "comment":"#",
-    "source":"Braun, Domkapitel, S. 351"
+    "source":"Braun: Domkapitel: S. 351"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -1.1743197,52.3555177 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -3429,15 +3763,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"England",
     "place_count":2,
+    "country":"United Kingdom",
+    "# Full Address":"England United Kingdom",
     "comment":"#",
-    "source":"Braun, Domkapitel, S. 350 f."
+    "source":"Braun: Domkapitel: S. 350 f."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ -1.1743197,52.3555177 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3451,15 +3787,17 @@
     "inst_name":"#",
     "place_name":"England",
     "place_count":2,
+    "country":"United Kingdom",
+    "# Full Address":"England United Kingdom",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.0298799,50.9847679 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -3473,15 +3811,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Erfurt",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
     "comment":"#",
-    "source":"Wurzbach, Stadion, S. 26"
+    "source":"Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.0298799,50.9847679 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -3495,15 +3835,17 @@
     "inst_name":"#",
     "place_name":"Erfurt",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
     "comment":"#",
-    "source":"Wurzbach, Stadion, S. 26; Universität Erfurt, Rektoren"
+    "source":"Wurzbach: Stadion: S. 26 / Universität Erfurt: Rektoren"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.0298799,50.9847679 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -3517,15 +3859,17 @@
     "inst_name":"Kollegiatstift ULF",
     "place_name":"Erfurt",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
     "comment":"#",
-    "source":"Orts- und Personenregister, S. 404; Kurmainzer Hof- und Staatskalender 1779, S. 3."
+    "source":"Orts- und Personenregister: S. 404 / Kurmainzer Hof- und Staatskalender 1779: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.0298799,50.9847679 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -3539,15 +3883,17 @@
     "inst_name":"Kollegiatstift ULF",
     "place_name":"Erfurt",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
     "comment":"#",
-    "source":"Schrader, Cathedral Chapter Minden, S. 109; Kurmainzer Hof- und Staatskalender 1779, S. 3"
+    "source":"Schrader: Cathedral Chapter Minden: S. 109 / Kurmainzer Hof- und Staatskalender 1779: S. 3"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.0298799,50.9847679 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -3561,15 +3907,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Erfurt",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Erfurt Germany",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.2558136,43.7695604 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -3583,15 +3931,17 @@
     "inst_name":"#",
     "place_name":"Florenz",
     "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Florenz Italy",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 97"
+    "source":"Lahrkamp et al.: Geschichte: S. 97"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.6821267,50.1109221 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -3605,15 +3955,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"Frankfurt",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Frankfurt Germany",
     "comment":"zum Deputationstag",
-    "source":"Braun, Domkapitel, S. 350"
+    "source":"Braun: Domkapitel: S. 350"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.6821267,50.1109221 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -3627,15 +3979,17 @@
     "inst_name":"",
     "place_name":"Frankfurt",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Frankfurt Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 121"
+    "source":"Nottarp: Mindener Domprobst: S. 121"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -3649,15 +4003,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -3671,15 +4027,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -3693,15 +4051,17 @@
     "inst_name":"Stift St. Burkhard",
     "place_name":"Würzburg",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -3715,15 +4075,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 168"
+    "source":"Rauch: Domkapitel Mainz: S. 168"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -3737,15 +4099,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wikipedia, Christoph"
+    "source":"Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -3759,15 +4123,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wikipedia, Christoph"
+    "source":"Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -3781,15 +4147,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wikipedia, Christoph"
+    "source":"Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -3803,15 +4171,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Rauch, Domkapitel Mainz, S. 177"
+    "source":"Rauch: Domkapitel Mainz: S. 177"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -3825,15 +4195,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Rauch, Domkapitel Mainz, S. 177."
+    "source":"Rauch: Domkapitel Mainz: S. 177."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -3847,15 +4219,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Dylong, Domkapitel Hildesheim, S. 372"
+    "source":"Dylong: Domkapitel Hildesheim: S. 372"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -3869,15 +4243,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Rauch, Domkapitel Mainz S. 177."
+    "source":"Rauch: Domkapitel Mainz S. 177."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -3891,15 +4267,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 121"
+    "source":"Nottarp: Mindener Domprobst: S. 121"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -3913,15 +4291,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 120; Schrader, S.109; Staatskalender 1779, S. 3."
+    "source":"Nottarp: Mindener Domprobst: S. 120 / Schrader: S.109 / Staatskalender 1779: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -3935,15 +4315,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Wikipedia, Hugo Wolfgang von Kesselstatt"
+    "source":"Wikipedia: Hugo Wolfgang von Kesselstatt"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -3957,15 +4339,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Hersche, Deutsche Domkapitel, S. 128"
+    "source":"Hersche: Deutsche Domkapitel: S. 128"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -3979,15 +4363,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Wird von Wikipedia als \"Studium\" bezeichnet. Aufgrund des Alters eher \"Schule\"?",
-    "source":"Wikipedia, Johann von Heppenheim genannt vom Saal"
+    "source":"Wikipedia: Johann von Heppenheim genannt vom Saal"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -4001,15 +4387,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
-    "comment":"Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht, nennt 13.11.1624 als Geburtsdatum",
-    "source":"Rauch, Domkapitel Mainz, S. 154; Schleicher, Ernst von Oidtman, Bd. 16, S. 720"
+    "country":"Germany",
+    "# Full Address":"Germany",
+    "comment":"Wikipedia: Johann Wilhelm Wolff von Metternich zur Gracht: nennt 13.11.1624 als Geburtsdatum",
+    "source":"Rauch: Domkapitel Mainz: S. 154 / Schleicher: Ernst von Oidtman: Bd. 16: S. 720"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -4023,15 +4411,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 154, Wikipedia, Johann Wilhelm Wolff von Metternich zur Gracht"
+    "source":"Rauch: Domkapitel Mainz: S. 154: Wikipedia: Johann Wilhelm Wolff von Metternich zur Gracht"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -4045,15 +4435,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Weidenbach, Breidbach- Bürresheim, S. 103,"
+    "source":"Weidenbach: Breidbach- Bürresheim: S. 103:"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -4067,15 +4459,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -4089,15 +4483,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -4111,15 +4507,17 @@
     "inst_name":"#",
     "place_name":"#",
     "place_count":22,
+    "country":"Germany",
+    "# Full Address":"Germany",
     "comment":"Kein Ort gefunden",
-    "source":"Christ, Metternich-Burscheidt, S. 9; Jürtensmeier, Metternich-Burscheid, in Gatz, Bischöfe, S. 309"
+    "source":"Christ: Metternich-Burscheidt: S. 9 / Jürtensmeier: Metternich-Burscheid: in Gatz: Bischöfe: S. 309"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.1439107,51.3770297 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -4133,15 +4531,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Heiligenstadt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Heiligenstadt Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 121, 132; Kurmainzer Hof- und Staatskalender 1740; Kurmainzer Hof- und Staatskalender 1779, S. 3."
+    "source":"Nottarp: Mindener Domprobst: S. 121: 132 / Kurmainzer Hof- und Staatskalender 1740 / Kurmainzer Hof- und Staatskalender 1779: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.7704158,49.488537 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -4155,15 +4555,17 @@
     "inst_name":"",
     "place_name":"Mergentheim",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Hochmeister-Residenz Mergentheim Germany",
     "comment":"Ziel: Bewegung zur Resignation in der kurmainzischen Koadjutorie-Angelegenheit",
-    "source":"Romberger, Bistümer der Kirchenprovinz Mainz, S. 306"
+    "source":"Romberger: Bistümer der Kirchenprovinz Mainz: S. 306"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.1016236,49.0134297 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -4177,15 +4579,17 @@
     "inst_name":"Immerwährender Reichstag",
     "place_name":"Regensburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Immerwährender Reichstag Regensburg Germany",
     "comment":"Angabe durch Kaiser Leopold I. lassen oder weg?",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.4940239,48.5790918 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -4199,15 +4603,17 @@
     "inst_name":"Jesuitengymnasium Dillingen",
     "place_name":"Dillingen",
     "place_count":1,
-    "comment":"Vollständige Angabe bei Specht: Marquardus Schenk a Castell fil[ius] Joannis Eberhardi adm[issus] ad con[victum] et 3. class[em] gramm[aticam], allerdings keine Erwähnung in den Matrikeln 1616 oder 1618",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 440; Specht, Die Matrikel der Universität Dillingen, S. 474"
+    "country":"Germany",
+    "# Full Address":"Jesuitengymnasium Dillingen Dillingen Germany",
+    "comment":"Vollständige Angabe bei Specht: Marquardus Schenk a Castell fil[ius] Joannis Eberhardi adm[issus] ad con[victum] et 3. class[em] gramm[aticam]: allerdings keine Erwähnung in den Matrikeln 1616 oder 1618",
+    "source":"Braun: Das Domkapitel Eichstätt: S. 440 / Specht: Die Matrikel der Universität Dillingen: S. 474"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.93526,49.7881814 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -4221,15 +4627,17 @@
     "inst_name":"Julius-Maximilians Universität",
     "place_name":"Würzburg",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Julius-Maximilians Universität Würzburg Germany",
     "comment":"#",
-    "source":"Würzburg Wiki, Schönborn"
+    "source":"Würzburg Wiki: Schönborn"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.93526,49.7881814 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -4243,15 +4651,17 @@
     "inst_name":"Julius-Maximilians Universität",
     "place_name":"Würzburg",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Julius-Maximilians Universität Würzburg Germany",
     "comment":"#",
-    "source":"Würzburg Wiki, Schönborn"
+    "source":"Würzburg Wiki: Schönborn"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.4226498,48.7667395 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -4262,18 +4672,20 @@
     "display_date":"1615",
     "event_type":"Immatrikulation",
     "pers_function":"Student",
-    "inst_name":"Universität Ingolstadt, Juristische Fakultät",
+    "inst_name":"Universität Ingolstadt. Juristische Fakultät",
     "place_name":"Ingolstadt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Juristische Fakultät Ingolstadt Germany",
     "comment":"Studium der Rechte",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 16.3686303,48.1975454 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -4287,15 +4699,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Wien",
     "place_count":2,
+    "country":"Austria",
+    "# Full Address":"Kaiserhof Wien Austria",
     "comment":"#",
-    "source":"Wikipedia, Christoph"
+    "source":"Wikipedia: Christoph"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 16.3686303,48.1975454 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -4309,15 +4723,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"Wien",
     "place_count":2,
+    "country":"Austria",
+    "# Full Address":"Kaiserhof Wien Austria",
     "comment":"zum Kaiser",
-    "source":"Pauly, Bistümer, S. 313; Braun, Domkapitel, S. 350; Wikipedia, Heinrich Ferdinand"
+    "source":"Pauly: Bistümer: S. 313 / Braun: Domkapitel: S. 350 / Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.3028282,50.1723814 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -4331,15 +4747,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"Karden an der Mosel",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Karden an der Mosel Germany",
     "comment":"#",
-    "source":"Wikipedia, Heinrich Ferdinand"
+    "source":"Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.1016236,49.0134297 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -4353,15 +4771,17 @@
     "inst_name":"#",
     "place_name":"Kartause Prül vor den Toren von Regensburg",
     "place_count":1,
-    "comment":"genaues Datum nicht bekannt, Fomulierung in der Literatur als \"in seinen letzten Lebensjahren\"",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "country":"Germany",
+    "# Full Address":"Kartause Prül vor den Toren von Regensburg Germany",
+    "comment":"genaues Datum nicht bekannt: Fomulierung in der Literatur als \"in seinen letzten Lebensjahren\"",
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -4375,15 +4795,17 @@
     "inst_name":"Universität Köln",
     "place_name":"Köln",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Köln Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4397,15 +4819,17 @@
     "inst_name":"Universität Köln",
     "place_name":"Köln",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Köln Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 96"
+    "source":"Lahrkamp et al.: Geschichte: S. 96"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4419,15 +4843,17 @@
     "inst_name":"#",
     "place_name":"Köln",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Köln Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 97"
+    "source":"Lahrkamp et al.: Geschichte: S. 97"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -4441,15 +4867,17 @@
     "inst_name":"#",
     "place_name":"Köln",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Köln Germany",
     "comment":"Geburtsdatum auf Wikipedia kann nicht stimmen",
-    "source":"Rauch, Domkapitel Mainz, S. 175; Wikipedia, Heinrich Ferdinand; Arens, Mainzer, S. 56"
+    "source":"Rauch: Domkapitel Mainz: S. 175 / Wikipedia: Heinrich Ferdinand / Arens: Mainzer: S. 56"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -4463,15 +4891,17 @@
     "inst_name":"#",
     "place_name":"Köln",
     "place_count":5,
+    "country":"Germany",
+    "# Full Address":"Köln Germany",
     "comment":"#",
-    "source":"Wikipedia, Heinrich Ferdinand"
+    "source":"Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9582814,50.9412784 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -4485,15 +4915,17 @@
     "inst_name":"Domkapitel Köln",
     "place_name":"Köln",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Kölner Dom Köln Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 249; Robins, Adel, S. 277; Jürgensmeier, Bischofslexikon, S. 272"
+    "source":"Hersche: Einleitung: S. 249 / Robins: Adel: S. 277 / Jürgensmeier: Bischofslexikon: S. 272"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.47191,50.17874 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4507,15 +4939,17 @@
     "inst_name":"#",
     "place_name":"Königstein",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Königstein Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 174; Lahrkamp et al., Geschichte, S. 96"
+    "source":"Rauch: Domkapitel Mainz: S. 174 / Lahrkamp et al.: Geschichte: S. 96"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -4529,15 +4963,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Wurzbach, Stadion, S. 26"
+    "source":"Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -4551,15 +4987,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Wurzbach, Stadion, S. 26"
+    "source":"Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -4573,15 +5011,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Robins, Adel, S. 277"
+    "source":"Robins: Adel: S. 277"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4595,15 +5035,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 105"
+    "source":"Lahrkamp et al.: Geschichte: S. 105"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -4617,15 +5059,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Kurmainzer Hof- und Staatskalender 1740; Kurzmainzer Hof- und Staatskalender 1779, S. 3."
+    "source":"Kurmainzer Hof- und Staatskalender 1740 / Kurzmainzer Hof- und Staatskalender 1779: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -4639,15 +5083,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 121"
+    "source":"Nottarp: Mindener Domprobst: S. 121"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -4661,15 +5107,17 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Nottarp, S. 121; Datum: https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
+    "source":"Nottarp: S. 121 / Datum: https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -4683,6 +5131,8 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
     "source":"https://kalliope-verbund.info/de/eac?eac.id=116461977 (zuletzt aufgerufen am 17.06.2022)."
     }
@@ -4691,7 +5141,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -4705,15 +5155,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":14,
-    "comment":"Alternativ wird der 26.03.1778 als Todesdatum angegeben, aufgrund der Nachwahl seines Nachfolgers Heinrich Wilhelm Harff von Dreyborn als Domprobst in Mainz am 26.07.1779, wird jedoch das Todesjahr 1779 (vgl. Rauch, Domkapitel Mainz, S. 177) als wahrscheinlicher angenommen (Veit, Dom Mainzherren, S. 14; sowie von Hersche, Domkapitel Mainz, S. 130).",
-    "source":"Rauch, Dom Mainzkaoitel, S. 176; https://www.dilibri.de/dilibri/name/view/2597111 ; Nottarp, Mindener Domprobst, S.; Schrader, S. 109"
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"Alternativ wird der 26.03.1778 als Todesdatum angegeben: aufgrund der Nachwahl seines Nachfolgers Heinrich Wilhelm Harff von Dreyborn als Domprobst in Mainz am 26.07.1779: wird jedoch das Todesjahr 1779 (vgl. Rauch: Domkapitel Mainz: S. 177) als wahrscheinlicher angenommen (Veit: Dom Mainzherren: S. 14 / sowie von Hersche: Domkapitel Mainz: S. 130).",
+    "source":"Rauch: Dom Mainzkaoitel: S. 176 / https://www.dilibri.de/dilibri/name/view/2597111  / Nottarp: Mindener Domprobst: S. / Schrader: S. 109"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -4727,15 +5179,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Luschberger, Das Domkapitel Mainz (http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html)"
+    "source":"Luschberger: Das Domkapitel Mainz (http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html)"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Johann Wilhelm Wolff-Metternich zur Gracht",
@@ -4749,15 +5203,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"Übte dieses Amt laut seinem Grabstein aus",
-    "source":"Arens, Mainzer Inschriften, S. 40ff."
+    "source":"Arens: Mainzer Inschriften: S. 40ff."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -4771,6 +5227,8 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
     "source":""
     }
@@ -4779,7 +5237,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -4793,15 +5251,17 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Mainz",
     "place_count":14,
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 20f."
+    "source":"Christ: Metternich-Burscheidt: S. 20f."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2698184,50.0069542 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -4815,15 +5275,17 @@
     "inst_name":"Erzstift Mainz",
     "place_name":"Mainz",
     "place_count":14,
-    "comment":"Brauns Quelle ist StaN EU = Staatsarchiv Nürnberg Eichstätter Urkunden; allerdings keine Erwähnung bei May, Die Organisation von Gerichtsbarkeit und Verwaltung in der Erzdiözese Mainz vom hohen Mittelalter bis zum Ende der Reichskirche",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    "country":"Germany",
+    "# Full Address":"Kurfürstliches Schloss Mainz Germany",
+    "comment":"Brauns Quelle ist StaN EU = Staatsarchiv Nürnberg Eichstätter Urkunden / allerdings keine Erwähnung bei May: Die Organisation von Gerichtsbarkeit und Verwaltung in der Erzdiözese Mainz vom hohen Mittelalter bis zum Ende der Reichskirche",
+    "source":"Braun: Das Domkapitel Eichstätt: S. 441"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 2.83183,50.42893 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4837,15 +5299,17 @@
     "inst_name":"#",
     "place_name":"Lens",
     "place_count":1,
+    "country":"France",
+    "# Full Address":"Lens France",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 98"
+    "source":"Lahrkamp et al.: Geschichte: S. 98"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.7895318,49.5068236 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -4859,15 +5323,17 @@
     "inst_name":"#",
     "place_name":"Löffelstelzen bei Bad Mergentheim",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Löffelstelzen bei Bad Mergentheim Germany",
     "comment":"#",
-    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    "source":"Wendehorst: \"Johann Philipp Franz\": S. 546"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -4881,15 +5347,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -4903,15 +5371,17 @@
     "inst_name":"Domkapitel Mainz",
     "place_name":"Köln",
     "place_count":12,
-    "comment":"Wahl in Köln, weil Domkapitel wegen schwedischer Besetzung von Mainz im Exil",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
+    "comment":"Wahl in Köln: weil Domkapitel wegen schwedischer Besetzung von Mainz im Exil",
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -4925,15 +5395,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -4947,15 +5419,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Robins, Adel, S. 277; Kurmainzischer Hof - und Staatskalender 1773, S. 7"
+    "source":"Robins: Adel: S. 277 / Kurmainzischer Hof - und Staatskalender 1773: S. 7"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4969,15 +5443,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Hersche, Einleitung, S. 128; Rauch, Domkapitel Mainz, S. 174; Lahrkamp et al., Geschichte, S. 106"
+    "source":"Hersche: Einleitung: S. 128 / Rauch: Domkapitel Mainz: S. 174 / Lahrkamp et al.: Geschichte: S. 106"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -4991,15 +5467,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 97"
+    "source":"Lahrkamp et al.: Geschichte: S. 97"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -5013,15 +5491,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 98"
+    "source":"Lahrkamp et al.: Geschichte: S. 98"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -5031,19 +5511,21 @@
     "event_end":"#",
     "display_date":"1654",
     "event_type":"Arbeit",
-    "pers_function":"Künstler, Alchemist",
+    "pers_function":"Künstler. Alchemist",
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 99 - 102"
+    "source":"Lahrkamp et al.: Geschichte: S. 99 - 102"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -5057,15 +5539,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Dom Mainzkapteil, S. 176;"
+    "source":"Rauch: Dom Mainzkapteil: S. 176 /"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -5079,15 +5563,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -5101,15 +5587,17 @@
     "inst_name":"???",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"ORT UNSICHER: muss nachrecherchiert werden",
-    "source":"Weidenbach, Breidbach-Bürresheim, S. 103;"
+    "source":"Weidenbach: Breidbach-Bürresheim: S. 103 /"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2472526,49.9928617 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -5123,15 +5611,17 @@
     "inst_name":"#",
     "place_name":"Mainz",
     "place_count":12,
+    "country":"Germany",
+    "# Full Address":"Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Domkapitel Mainz, S. 174, Christ, Metternich-Burscheidt, S. 26"
+    "source":"Rauch: Domkapitel Mainz: S. 174: Christ: Metternich-Burscheidt: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.275730325428226,49.99771596594513 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -5145,15 +5635,17 @@
     "inst_name":"",
     "place_name":"Mainz",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Marienkapelle des Domes Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 4.4775553,51.0259143 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -5167,15 +5659,17 @@
     "inst_name":"Deutschordenshaus Mechelen",
     "place_name":"Mechelen",
     "place_count":1,
+    "country":"Belgium",
+    "# Full Address":"Mechelen Belgium",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 99"
+    "source":"Lahrkamp et al.: Geschichte: S. 99"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.9626376,50.3462735 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -5186,18 +5680,20 @@
     "display_date":"1770",
     "event_type":"Wahl",
     "pers_function":"Probst",
-    "inst_name":"Stift St. Martin, Donat und Nazarius",
+    "inst_name":"Stift St. Martin. Donat und Nazarius",
     "place_name":"Mockstadt",
     "place_count":1,
-    "comment":"Propstei Maxstatt? s. Archiv vs. Staatskalender – \"Maxstatt\" wird zw. 1744 u. 1745 übernommen, als Propst von Mockstadt im Staatskalender ab 1770 belegt",
-    "source":"LA NRW, Harff Dreiborn, Akten AA 0580, Nr. 88;Kurmainzer Hof-und Staatskalender 1746"
+    "country":"#",
+    "# Full Address":"Mockstadt",
+    "comment":"Propstei Maxstatt? s. Archiv vs. Staatskalender – \"Maxstatt\" wird zw. 1744 u. 1745 übernommen: als Propst von Mockstadt im Staatskalender ab 1770 belegt",
+    "source":"LA NRW: Harff Dreiborn: Akten AA 0580: Nr. 88 /Kurmainzer Hof-und Staatskalender 1746"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.185239,48.8910779 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -5211,15 +5707,17 @@
     "inst_name":"Neues Stift Unsere Liebe Frau",
     "place_name":"Eichstätt",
     "place_count":1,
-    "comment":"Neuer Stift ULF = Unsere Liebe Frau?; kann er Stiftsprobst bleiben, als er Bischof wird?",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 441"
+    "country":"Germany",
+    "# Full Address":"Neues Stift Unsere Liebe Frau Eichstätt Germany",
+    "comment":"Neuer Stift ULF = Unsere Liebe Frau? / kann er Stiftsprobst bleiben: als er Bischof wird?",
+    "source":"Braun: Das Domkapitel Eichstätt: S. 441"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.931242,49.7939163 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -5233,15 +5731,17 @@
     "inst_name":"Stift Neumünster",
     "place_name":"Würzburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Neumünster Stiftskapitel Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 5.291266,52.132633 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5255,15 +5755,29 @@
     "inst_name":"#",
     "place_name":"Niederlande",
     "place_count":1,
+    "country":"Netherlands",
+    "# Full Address":"Niederlande Netherlands",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442",
+    "FIELD18":"",
+    "FIELD19":"",
+    "FIELD20":"Schmidt. Collegium Germanicum. 226",
+    "FIELD21":"",
+    "FIELD22":"",
+    "FIELD23":"",
+    "FIELD24":"",
+    "FIELD25":"",
+    "FIELD26":"",
+    "FIELD27":"",
+    "FIELD28":"",
+    "FIELD29":""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.6093633,50.3078274 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -5277,15 +5791,17 @@
     "inst_name":"#",
     "place_name":"Oberlahnstein",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Oberlahnstein Germany",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 98"
+    "source":"Lahrkamp et al.: Geschichte: S. 98"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 2.3522219,48.856614 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5299,15 +5815,17 @@
     "inst_name":"#",
     "place_name":"Paris",
     "place_count":1,
+    "country":"France",
+    "# Full Address":"Paris France",
     "comment":"Widerspruch zur Residenz",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.054868,48.90329 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -5321,15 +5839,17 @@
     "inst_name":"Universität Pont-à-Mousson",
     "place_name":"Pont-à-Mousson",
     "place_count":2,
+    "country":"France",
+    "# Full Address":"Pont-à-Mousson France",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.054868,48.90329 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -5343,15 +5863,17 @@
     "inst_name":"Universität Pont-à-Mousson",
     "place_name":"Pont-à-Mousson",
     "place_count":2,
+    "country":"France",
+    "# Full Address":"Pont-à-Mousson France",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4844886,41.8989366 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -5365,15 +5887,17 @@
     "inst_name":"Pontificia Universitas Gregoriana",
     "place_name":"Rom",
     "place_count":1,
-    "comment":"kein genaues Datum bekannt, sondern nur, dass er bald nach Studienbeginn in Ingolstadt an die römische Gregoriana wechselte",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "country":"Italy",
+    "# Full Address":"Pontificia Universitas Gregoriana Rom Italy",
+    "comment":"kein genaues Datum bekannt: sondern nur: dass er bald nach Studienbeginn in Ingolstadt an die römische Gregoriana wechselte",
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2769462,50.0003654 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -5387,15 +5911,17 @@
     "inst_name":"Stadt Mainz",
     "place_name":"Mainz",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Rathaus Mainz Germany",
     "comment":"#",
-    "source":"Schrohe, Stadt Mainz, S. 65"
+    "source":"Schrohe: Stadt Mainz: S. 65"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2769462,50.0003654 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -5409,15 +5935,17 @@
     "inst_name":"Stadt Mainz",
     "place_name":"Mainz",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Rathaus Mainz Germany",
     "comment":"Amtsausübung mindestens seit 1740 (Staatskalender)",
-    "source":"Kurzmainzer Hof- und Staatskalender 1740, S. 2."
+    "source":"Kurzmainzer Hof- und Staatskalender 1740: S. 2."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2769462,50.0003654 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -5431,15 +5959,17 @@
     "inst_name":"Stadt Mainz",
     "place_name":"Malnz",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Rathaus Mainz Germany",
     "comment":"#",
-    "source":"Verzeichnis der Mainzer Universitätsmatrikeln, S. 108; Schrohe, Stadt Mainz, S. 65; Kurzmainzer Hof- und Staatskalender Mainz 1743."
+    "source":"Verzeichnis der Mainzer Universitätsmatrikeln: S. 108 / Schrohe: Stadt Mainz: S. 65 / Kurzmainzer Hof- und Staatskalender Mainz 1743."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.1016236,49.0134297 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -5453,15 +5983,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"Regensburg",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Regensburg Germany",
     "comment":"zum Reichstag",
-    "source":"Braun, Domkapitel, S. 350"
+    "source":"Braun: Domkapitel: S. 350"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.1016236,49.0134297 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -5475,15 +6007,17 @@
     "inst_name":"#",
     "place_name":"Regensburg",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Regensburg Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.451526,51.165691 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -5497,15 +6031,17 @@
     "inst_name":"Erzbistum Mainz",
     "place_name":"Rheingau",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Rheingau Germany",
     "comment":"#",
-    "source":"Kurmainzer Hof- und Staatskalender 1777, S. 5"
+    "source":"Kurmainzer Hof- und Staatskalender 1777: S. 5"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4963655,41.9027835 ]
     },
     "properties": {
     "pers_name":"Dietrich Kaspar von Fürstenberg",
@@ -5519,15 +6055,17 @@
     "inst_name":"#",
     "place_name":"Rom",
     "place_count":2,
+    "country":"Italy",
+    "# Full Address":"Rom Italy",
     "comment":"#",
-    "source":"Lahrkamp et al., Geschichte, S. 97"
+    "source":"Lahrkamp et al.: Geschichte: S. 97"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.4963655,41.9027835 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -5541,15 +6079,17 @@
     "inst_name":"Erzbistum Trier",
     "place_name":"Rom",
     "place_count":2,
+    "country":"Italy",
+    "# Full Address":"Rom Italy",
     "comment":"visitatio liminum",
-    "source":"Braun, Domkapitel, S. 350"
+    "source":"Braun: Domkapitel: S. 350"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9201319,49.7897393 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5563,15 +6103,17 @@
     "inst_name":"Schlosskirche Marienberg",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Schlosskirche Marienberg Würzburg Germany",
     "comment":"#",
-    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 346"
+    "source":"Romberg: Bistümer der Kirchenprovinz Mainz: S. 346"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9201319,49.7897393 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5585,15 +6127,17 @@
     "inst_name":"Schlosskirche Marienberg",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Schlosskirche Marienberg Würzburg Germany",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9201319,49.7897393 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5607,15 +6151,17 @@
     "inst_name":"Schlosskirche Marienberg",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Schlosskirche Marienberg Würzburg Germany",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 442"
+    "source":"Greipl: Schönborn: S. 442"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.3307574,43.318809 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -5629,15 +6175,17 @@
     "inst_name":"#",
     "place_name":"Siena",
     "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Siena Italy",
     "comment":"erwähnenswert?",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -5651,15 +6199,17 @@
     "inst_name":"#",
     "place_name":"Speyer",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Speyer Germany",
     "comment":"#",
-    "source":"Thesaurus Personarum, Pfälzische Personengeschichte"
+    "source":"Thesaurus Personarum: Pfälzische Personengeschichte"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.275409983,49.99928007 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -5673,15 +6223,17 @@
     "inst_name":"Stift Mariengreden",
     "place_name":"Mainz",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Stift Mariengreden Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.275409983,49.99928007 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -5695,15 +6247,17 @@
     "inst_name":"Stift Mariengreden",
     "place_name":"Mainz",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Stift Mariengreden Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Sankt Bartholomäus, S. 177, FN 958, Dörr, Mariengreden, S. 85"
+    "source":"Rauch: Sankt Bartholomäus: S. 177: FN 958: Dörr: Mariengreden: S. 85"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.275409983,49.99928007 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -5717,6 +6271,8 @@
     "inst_name":"Stift Mariengreden",
     "place_name":"Mainz",
     "place_count":3,
+    "country":"",
+    "# Full Address":"Stift Mariengreden Mainz Germany",
     "comment":"#",
     "source":""
     }
@@ -5725,7 +6281,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 18.232266,46.0727345 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -5739,15 +6295,17 @@
     "inst_name":"Stift Pecswarad",
     "place_name":"Fünfkirchen in Niederungarn",
     "place_count":1,
+    "country":"Hungary",
+    "# Full Address":"Stift Pecswarad Fünfkirchen in Niederungarn Hungary",
     "comment":"#",
-    "source":"Nottarp, Mindener Domprobst, S. 121; Schrader, Cathedral Chapter Minden, S. 109; Staatskalender Mainzer 1740; Staatskalender Mainz 1779; Orts- und Personenverzeichnis Westfällische Zeitschrift, S. 404"
+    "source":"Nottarp: Mindener Domprobst: S. 121 / Schrader: Cathedral Chapter Minden: S. 109 / Staatskalender Mainzer 1740 / Staatskalender Mainz 1779 / Orts- und Personenverzeichnis Westfällische Zeitschrift: S. 404"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -5761,15 +6319,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -5783,15 +6343,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
     "comment":"#",
-    "source":"Rauch, Sankt Bartholomäus, S. 177, FN 958"
+    "source":"Rauch: Sankt Bartholomäus: S. 177: FN 958"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -5805,15 +6367,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
-    "comment":"Angabe bei Wurzbach falsch, richitg Joannis, S.791",
-    "source":"Wurzbach, Stadion, S. 26"
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
+    "comment":"Angabe bei Wurzbach falsch: richitg Joannis: S.791",
+    "source":"Wurzbach: Stadion: S. 26"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -5827,15 +6391,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
     "comment":"#",
-    "source":"Schrader, Cathedral Chapter Minden, S. 109; Staatskalender 1779, S. 3."
+    "source":"Schrader: Cathedral Chapter Minden: S. 109 / Staatskalender 1779: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -5849,15 +6415,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
     "comment":"#",
-    "source":"Wikipedia, Hugo Wolfgang von Kesselstatt"
+    "source":"Wikipedia: Hugo Wolfgang von Kesselstatt"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5871,15 +6439,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
     "comment":"#",
-    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    "source":"Germania Sacra online: \"Johann Philipp Franz Graf von Schönborn\""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.28,49.99 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5893,15 +6463,17 @@
     "inst_name":"Stift St. Alban",
     "place_name":"Mainz",
     "place_count":7,
+    "country":"Germany",
+    "# Full Address":"Stift St. Alban Mainz Germany",
     "comment":"#",
-    "source":"Germania Sacra online, \"Johann Philipp Franz Graf von Schönborn\""
+    "source":"Germania Sacra online: \"Johann Philipp Franz Graf von Schönborn\""
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.6854204,50.1106631 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -5915,15 +6487,17 @@
     "inst_name":"Stift St. Bartholomäus",
     "place_name":"Frankfurt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. Bartholomäus Frankfurt Germany",
     "comment":"#",
-    "source":"Wendehorst, \"Johann Philipp Franz\", S. 546"
+    "source":"Wendehorst: \"Johann Philipp Franz\": S. 546"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4934583,50.0945254 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -5937,15 +6511,17 @@
     "inst_name":"Stift St. Bartholomäus",
     "place_name":"Frankfurt",
     "place_count":1,
-    "comment":"Angabe bei Wurzbach falsch, richitg Joannis, S.791",
-    "source":"Rauch, Domkapitel Mainz, S. 175; Wurzbach, Stadion, S. 26, Rauch, Sankt Bartholomäus, S. 329"
+    "country":"Germany",
+    "# Full Address":"Stift St. Bartholomäus zu Frankfurt Frankfurt Germany",
+    "comment":"Angabe bei Wurzbach falsch: richitg Joannis: S.791",
+    "source":"Rauch: Domkapitel Mainz: S. 175 / Wurzbach: Stadion: S. 26: Rauch: Sankt Bartholomäus: S. 329"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.924947011480644,49.790067076707544 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -5959,15 +6535,17 @@
     "inst_name":"Stift St. Burkhard",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Stift St. Burkhard Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.924947011480644,49.790067076707544 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -5981,15 +6559,17 @@
     "inst_name":"Stift St. Burkhard",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Stift St. Burkhard Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.924947011480644,49.790067076707544 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -6003,15 +6583,17 @@
     "inst_name":"Stift St. Burkhard",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Stift St. Burkhard Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.13748,50.139647 ]
     },
     "properties": {
     "pers_name":"Christoph Rudolf von Stadion",
@@ -6025,15 +6607,17 @@
     "inst_name":"Stift St. Ferrutius",
     "place_name":"Bleidenstadt",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Stift St. Ferrutius Bleidenstadt Germany",
     "comment":"#",
-    "source":"Joannis, S. 791"
+    "source":"Joannis: S. 791"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.13748,50.139647 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -6047,15 +6631,17 @@
     "inst_name":"Stift St. Ferrutius Bleidenstadt",
     "place_name":"Bleidenstadt",
     "place_count":2,
-    "comment":"Stiftsherren von Bleidenstadt verrichteten seit 1682 wegen Zerstörung ihrer Kirche ihren Chordienst in der St. Sebastianskapelle in Mainz am Höfchen aus, Noll/Burkhardt, S. 78",
-    "source":"Wikipedia, Hugo Wolfgang von Kesselstatt"
+    "country":"Germany",
+    "# Full Address":"Stift St. Ferrutius Bleidenstadt Germany",
+    "comment":"Stiftsherren von Bleidenstadt verrichteten seit 1682 wegen Zerstörung ihrer Kirche ihren Chordienst in der St. Sebastianskapelle in Mainz am Höfchen aus: Noll/Burkhardt: S. 78",
+    "source":"Wikipedia: Hugo Wolfgang von Kesselstatt"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.4412172,49.3172765 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -6069,15 +6655,17 @@
     "inst_name":"Stift St. German",
     "place_name":"Speyer",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. German Speyer Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2782727,49.9956325 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -6091,15 +6679,17 @@
     "inst_name":"St. Ignaz",
     "place_name":"Mainz",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. Ignaz Mainz Germany",
     "comment":"#",
-    "source":"Klassert, Kollegialstift St. Peter, S. 90"
+    "source":"Klassert: Kollegialstift St. Peter: S. 90"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.3013025,50.183648 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -6113,15 +6703,17 @@
     "inst_name":"Stift St. Kastor",
     "place_name":"Karden an der Mosel",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. Kastor Karden an der Mosel Germany",
     "comment":"#",
-    "source":"Pauly, Bistümer, S. 313"
+    "source":"Pauly: Bistümer: S. 313"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.9626376,50.3462735 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -6132,9 +6724,11 @@
     "display_date":"#",
     "event_type":"Wahl",
     "pers_function":"Stiftsprobst",
-    "inst_name":"Stift St. Martini, Donati und Nazarii",
+    "inst_name":"Stift St. Martini. Donati und Nazarii",
     "place_name":"Mockstadt",
     "place_count":1,
+    "country":"",
+    "# Full Address":"Stift St. Martini Mockstadt Germany",
     "comment":"#",
     "source":"Kurmainzer Hof- und Staatskalender 1740"
     }
@@ -6143,7 +6737,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.6546359,51.9661366 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -6157,15 +6751,17 @@
     "inst_name":"Stift St. Mauriz",
     "place_name":"Mainz",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Stift St. Mauriz Mainz Germany",
     "comment":"#",
-    "source":"Kurmainzer Hof- und Staatskalender 1777, S. 5"
+    "source":"Kurmainzer Hof- und Staatskalender 1777: S. 5"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.26985,50.004825 ]
     },
     "properties": {
     "pers_name":"Hugo Franz Karl von Eltz (-Kempenich)",
@@ -6179,15 +6775,17 @@
     "inst_name":"Stift St. Peter",
     "place_name":"Mainz",
     "place_count":2,
+    "country":"",
+    "# Full Address":"Stift St. Peter Mainz Germany",
     "comment":"#",
-    "source":"Kurzmainzer Hof- und Staatskalender 1740, S. 3."
+    "source":"Kurzmainzer Hof- und Staatskalender 1740: S. 3."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.26985,50.004825 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -6201,15 +6799,17 @@
     "inst_name":"Stift St. Peter",
     "place_name":"Mainz",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Stift St. Peter Mainz Germany",
     "comment":"#",
-    "source":"Weidenbach, Breidbach-Bürresheim, S. 103; Verzeichnis der Mainzer Universitätsmatrikeln, S. 108"
+    "source":"Weidenbach: Breidbach-Bürresheim: S. 103 / Verzeichnis der Mainzer Universitätsmatrikeln: S. 108"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.29649529311655,49.981969943629636 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -6223,15 +6823,17 @@
     "inst_name":"Stift St. Viktor",
     "place_name":"Mainz",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Stift St. Viktor Mainz Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.29649529311655,49.981969943629636 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -6245,15 +6847,17 @@
     "inst_name":"Stift St.Viktor",
     "place_name":"Mainz",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Stift St. Viktor Mainz Germany",
     "comment":"#",
-    "source":"Weidenbach, Breidbach-Bürresheim, S. 103; Klassert, Kollegialstift St. Peter, S. 90."
+    "source":"Weidenbach: Breidbach-Bürresheim: S. 103 / Klassert: Kollegialstift St. Peter: S. 90."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6371433,49.749992 ]
     },
     "properties": {
     "pers_name":"Heinrich Ferdinand von der Leyen",
@@ -6267,15 +6871,17 @@
     "inst_name":"#",
     "place_name":"Trier",
     "place_count":2,
+    "country":"Germany",
+    "# Full Address":"Trier Germany",
     "comment":"#",
-    "source":"Wikipedia, Heinrich Ferdinand"
+    "source":"Wikipedia: Heinrich Ferdinand"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6371433,49.749992 ]
     },
     "properties": {
     "pers_name":"Karl Emmerich Franz von Breidbach-Bürresheim",
@@ -6289,15 +6895,17 @@
     "inst_name":"#",
     "place_name":"Trier",
     "place_count":2,
-    "comment":"Angabe Trier unsicher (siehe Universitätsmatrikeln, S. 108",
-    "source":"Rauch, Domkapitel Mainz, S. 168; verzeichnis der Mainzer Universitätsmatrikeln, S. 108; Hersche, Einleitung, S. 130"
+    "country":"Germany",
+    "# Full Address":"Trier Germany",
+    "comment":"Angabe Trier unsicher (siehe Universitätsmatrikeln: S. 108",
+    "source":"Rauch: Domkapitel Mainz: S. 168 / verzeichnis der Mainzer Universitätsmatrikeln: S. 108 / Hersche: Einleitung: S. 130"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.3328421,43.3191155 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -6311,15 +6919,17 @@
     "inst_name":"Universität Siena",
     "place_name":"Siena",
     "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Universitas Siena Italy",
     "comment":"#",
-    "source":"Braun, Das Domkapitel Eichstätt, S. 440"
+    "source":"Braun: Das Domkapitel Eichstätt: S. 440"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 10.886138,49.8938345 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -6333,15 +6943,17 @@
     "inst_name":"Universität Bamberg",
     "place_name":"Bamberg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Bambrg Germany",
     "comment":"#",
-    "source":"Landeshauptarchiv Koblenz, Bestand 48, Nr. 117, 120"
+    "source":"Landeshauptarchiv Koblenz: Bestand 48: Nr. 117: 120"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 7.8459496,47.9935441 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -6355,15 +6967,17 @@
     "inst_name":"Universität Freiburg",
     "place_name":"Freiburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Freiburg Germany",
     "comment":"#",
-    "source":"Landeshauptarchiv Koblenz, Bestand 48, Nr. 117, 118"
+    "source":"Landeshauptarchiv Koblenz: Bestand 48: Nr. 117: 118"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.6724335,49.3987524 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -6377,15 +6991,17 @@
     "inst_name":"Universität Heidelberg",
     "place_name":"Heidelberg",
     "place_count":2,
+    "country":"Gernany",
+    "# Full Address":"Universität Heidelberg Germany",
     "comment":"#",
-    "source":"Landeshauptarchiv Koblenz, Bestand 48, Nr. 117, 119"
+    "source":"Landeshauptarchiv Koblenz: Bestand 48: Nr. 117: 119"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.6724335,49.3987524 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -6399,15 +7015,17 @@
     "inst_name":"Universität Heidelberg",
     "place_name":"Heidelberg",
     "place_count":2,
-    "comment":"Genaues Datum nicht überliefert, dieses Amt fiel ihm als Wormser Domprobst zu",
-    "source":"Wikipedia, Johann von Heppenheim genannt vom Saal"
+    "country":"Germany",
+    "# Full Address":"Universität Heidelberg Germany",
+    "comment":"Genaues Datum nicht überliefert: dieses Amt fiel ihm als Wormser Domprobst zu",
+    "source":"Wikipedia: Johann von Heppenheim genannt vom Saal"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 11.4162551,48.7655243 ]
     },
     "properties": {
     "pers_name":"Marquard Schenk von Castell",
@@ -6421,15 +7039,17 @@
     "inst_name":"Universität Ingolstadt",
     "place_name":"Ingolstadt",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Ingolstadt Ingolstadt Germany",
     "comment":"#",
-    "source":"Reiter, Marquard II., S. 239-240"
+    "source":"Reiter: Marquard II.: S. 239-240"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.9602786,50.937531 ]
     },
     "properties": {
     "pers_name":"Hugo Wolfgang von Kesselstatt",
@@ -6443,15 +7063,17 @@
     "inst_name":"Universität Köln",
     "place_name":"Köln",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Köln Germany",
     "comment":"#",
-    "source":"Keussen, Matrikel Köln, Bd. 5, S. 4. sowie Bd. 6, S. 212."
+    "source":"Keussen: Matrikel Köln: Bd. 5: S. 4. sowie Bd. 6: S. 212."
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 4.7002953,50.8779545 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -6465,15 +7087,17 @@
     "inst_name":"Universität Löwen",
     "place_name":"Löwen",
     "place_count":1,
+    "country":"Belgium",
+    "# Full Address":"Universität Löwen Belgium",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 8.2599667,49.9925214 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -6487,15 +7111,17 @@
     "inst_name":"Universität Mainz",
     "place_name":"Mainz",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Mainz Germany",
     "comment":"#",
-    "source":"Romberg Bistümer der Kirchenprovinz Mainz, S. 290"
+    "source":"Romberg Bistümer der Kirchenprovinz Mainz: S. 290"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 12.3868984,43.1164268 ]
     },
     "properties": {
     "pers_name":"Johann Heppenheim genannt von Saal",
@@ -6509,15 +7135,17 @@
     "inst_name":"Universität Perugia",
     "place_name":"Perugia",
     "place_count":1,
+    "country":"Italy",
+    "# Full Address":"Universität Perugia Italy",
     "comment":"#",
-    "source":"Wendehorst, Das Stift Neumünster in Würzburg, S. 321"
+    "source":"Wendehorst: Das Stift Neumünster in Würzburg: S. 321"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 4.031696,49.258329 ]
     },
     "properties": {
     "pers_name":"Heinrich Wilhelm Harff von Dreyborn",
@@ -6531,15 +7159,17 @@
     "inst_name":"Universität Reims",
     "place_name":"Reims",
     "place_count":1,
-    "comment":"Dauer: 1 J u. 6 Wochen; noch genaue Quelle, außer:",
-    "source":"Dylong, Domkapitel Hildesheim, S. 372"
+    "country":"France",
+    "# Full Address":"Universität Reims France",
+    "comment":"Dauer: 1 J u. 6 Wochen / noch genaue Quelle: außer:",
+    "source":"Dylong: Domkapitel Hildesheim: S. 372"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 6.6371433,49.749992 ]
     },
     "properties": {
     "pers_name":"Lothar Friedrich von Metternich-Burscheid",
@@ -6553,15 +7183,17 @@
     "inst_name":"Universität Trier",
     "place_name":"Trier",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Universität Trier Germany",
     "comment":"#",
-    "source":"Christ, Metternich-Burscheidt, S. 9"
+    "source":"Christ: Metternich-Burscheidt: S. 9"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 16.3738189,48.2081743 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -6575,15 +7207,17 @@
     "inst_name":"Universität Wien",
     "place_name":"Wien",
     "place_count":1,
+    "country":"Austria",
+    "# Full Address":"Universität Wien Austria",
     "comment":"#",
-    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 290"
+    "source":"Romberg: Bistümer der Kirchenprovinz Mainz: S. 290"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9533548,49.7913044 ]
     },
     "properties": {
     "pers_name":"Adolph Hund von Saulheim",
@@ -6597,15 +7231,17 @@
     "inst_name":"Domkapitel Würzburg",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Würzburg Germany",
     "comment":"#",
-    "source":"Wendehorst, Bistümer der Kirchenprovinz Mainz, S. 225"
+    "source":"Wendehorst: Bistümer der Kirchenprovinz Mainz: S. 225"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9533548,49.7913044 ]
     },
     "properties": {
     "pers_name":"Damian Friedrich von der Leyen-Hohengeroldseck",
@@ -6619,15 +7255,17 @@
     "inst_name":"#",
     "place_name":"Würzburg",
     "place_count":3,
+    "country":"Germany",
+    "# Full Address":"Würzburg Germany",
     "comment":"#",
-    "source":"Rauch, Dom Mainzkaitel, S. 177"
+    "source":"Rauch: Dom Mainzkaitel: S. 177"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9533548,49.7913044 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -6641,15 +7279,17 @@
     "inst_name":"#",
     "place_name":"Würzburg",
     "place_count":3,
-    "comment":"Taufe: Pfarrkirche St. Peter, Würzburg",
-    "source":"Romberg, Bistümer der Kirchenprovinz Mainz, S. 287"
+    "country":"Germany",
+    "# Full Address":"Würzburg Germany",
+    "comment":"Taufe: Pfarrkirche St. Peter: Würzburg",
+    "source":"Romberg: Bistümer der Kirchenprovinz Mainz: S. 287"
     }
   },
   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  { }
+       "coordinates":  [ 9.9325575,49.7933488 ]
     },
     "properties": {
     "pers_name":"Johann Philipp Franz Graf von Schönborn",
@@ -6663,8 +7303,10 @@
     "inst_name":"",
     "place_name":"Würzburg",
     "place_count":1,
+    "country":"Germany",
+    "# Full Address":"Würzburger Dom",
     "comment":"#",
-    "source":"Greipl, Schönborn, S. 444; Romberg, Bistümer der Kirchenprovinz Mainz, S. 346"
+    "source":"Greipl: Schönborn: S. 444 / Romberg: Bistümer der Kirchenprovinz Mainz: S. 346"
     }
   }
 ]
