@@ -7,38 +7,36 @@
 
 <table width="100%">
   <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/home.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Einfuehrung.html">Einführung</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction.html">Introduction</a></td>
   </tr>
   <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/information.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Im Projekt untersuche Personen</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied in the project</a><br><br></td>
   </tr>
    <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/geocoding.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a><br><br></td>
   </tr>
   <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/map1.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">Interaktive Karte</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a><br><br></td>
   </tr>
   <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/map2.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">Statische Karten</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_EN.html">Static maps</a></td>
   </tr>
    <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/network.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_DE.html">Netzwerkdiagramm</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_EN.html">Network graph</a></td>
   </tr>
 </table> 
-
-<hr>
 
 <hr>
 
