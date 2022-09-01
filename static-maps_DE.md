@@ -1,4 +1,4 @@
-<h2>Statische Karten, die alternative Datenaspekte hervorheben</h2>
+<h2>Statische Karten zur Hervorhebung alternativer Datenaspekte</h2>
 
 <img src="./assets/map2.png" alt="drawing" width="65" style="padding: 20px" align="left"/>
 <a href="./Maps1_DE.html">Vergleichende Kartierung des gesamten Datensatzes</a><br>
