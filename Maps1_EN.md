@@ -1,4 +1,4 @@
-<h2>Static maps highlighting several biographies</h2>
+<h2>Comparative mapping</h2>
 
 <h4>1) Comparative mapping of biographies</h4>
 
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h4>3) Point clustering to show centres of action</h4>
+<h4>2) Point clustering to show centres of action</h4>
 <em>An alternative visualisation is <em>point clustering</em> to show the overall density of biographic events in the mapped places.</em>
 
 <a href="./maps/Domherren_clustered_close-up.png"><img src="./maps/Domherren_clustered_close-up.png" width="650px" align="center"/></a>
