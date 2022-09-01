@@ -1,6 +1,7 @@
 # DigiKAR Projektseminar
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding="10px" align="left"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding="10px" align="left"/><p align="justify">Dieses Repositorium enthält Daten und Visualisierungen frühneuzeitlicher Klerikerbiographien. Die Daten wurden von Geschichtsstudenten der Universität Mainz im Rahmen eines MA-Seminars im Sommersemester 2022 erhoben. Hauptziel des Seminars war es, die Studierenden im Umgang mit historischen Quellen zu schulen und ontologische Probleme zu diskutieren, die sich aus wissenschaftlichen Versuchen ergeben, biographische und räumliche Informationen zu strukturieren und zu normalisieren.</p>
+ 
 <p align="justify">This repository contains data and visualisations of early modern clerical biographies. The data were collected by students of history at <a href="https://www.uni-mainz.de/eng/">Mainz University</a> as part of an MA seminar in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information.</p>
 
 <hr>
