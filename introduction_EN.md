@@ -1,4 +1,4 @@
-<h2>Mobility of the elites of the Electorate of Mainz</h2>
+<h2>Mobility of elites in the Electorate of Mainz</h2>
 
 <p>- this was the topic of our seminar in the summer term of 2022 whose aim was creating our own maps on a topic of regional history. 
 The theoretical starting point was formed by recent research that postulated that it would not do justice to the <a href="https://www.britannica.com/place/Holy-Roman-Empire">Holy Roman Empire</a> to understand it geographically and 
