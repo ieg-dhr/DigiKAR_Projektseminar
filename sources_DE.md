@@ -1,5 +1,4 @@
 <h2>Quellen- und Literaturverzeichnis</h2>
-<h2>List of primary and secondary sources</h2>
 
 <ul>
 <li>Arens, Fritz: Mainzer Inschriften von 1651 bis 1800. I. Die Inschriften des Domes zu Mainz. Mainz 1982 (Beiträge zur Geschichte der Stadt Mainz; 26).</li>
