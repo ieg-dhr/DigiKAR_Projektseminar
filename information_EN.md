@@ -1,4 +1,4 @@
-<h2>Im Projekt untersuchte Personen</h2>
+<h2>Persons studied in the project</h2>
 
 <p align="justify">Die frühneuzeitlichen Kleriker, deren Biographien die Studenten für dieses Projekt recherchiert haben, waren im Domkapitel des Fürstbistums Mainz tätig. Initially, lay cathedral prebendaries were also included in the study, but the final focus of the project was on <strong>fourteen cathedral provosts</strong> who served between 1650 and 1800.</p>
 
