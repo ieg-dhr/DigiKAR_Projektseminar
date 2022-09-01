@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><img src="./assets/information.png" alt="drawing" width="40" style="padding=10px"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Im Projekt untersuche Personen</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Im Projekt untersuchte Personen</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied in the project</a><br><br></td>
   </tr>
    <tr>
