@@ -5,18 +5,46 @@
 
 <hr>
 
- <div align="center"><h4><strong>Contents:</strong></h4><p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar">Home</a></p>
- <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information.html">Persons studied in the project</a></p>
- <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding.html">Geocoding</a></p>
- <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map.html">Interactive map</a></p>
- <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps.html">Static maps</a></p>
- <p><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph.html">Network graph</a></p><div>
+<table width="100%">
+  <tr>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Einfuehrung.html">Einführung</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction.html">Introduction</a></td>
+  </tr>
+  <tr>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Im Projekt untersuche Personen</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied in the project</a><br><br></td>
+  </tr>
+   <tr>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a><br><br></td>
+  </tr>
+  <tr>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">Interaktive Karte</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a><br><br></td>
+  </tr>
+  <tr>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">Statische Karten</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_EN.html">Static maps</a></td>
+  </tr>
+   <tr>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_DE.html">Netzwerkdiagramm</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_EN.html">Network graph</a></td>
+  </tr>
+</table> 
 
 <hr>
 
-<p align="justify">For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
+<hr>
 
-<h4>Participating students:</h4>
+<p align="justify">Für weitere Informationen zu den historischen Inhalten des Projektseminars wenden Sie sich bitte an <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p><p>For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
+
+<h4>Beteiligte Studierende / participating students</h4>
 
  <table border="0" style="width:90%" align="center" style="padding: 30px">
   <tr style="width:200px">
@@ -39,7 +67,7 @@
 <hr>
 
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" style="padding: 10px" align="left"/> 
-<p align="justify" padding="10px">The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
+<p align="justify" padding="10px">Das studentische Projekt ist Teil des <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekts, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p><p>The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
 <p align="left">E-Mail: digikar@ieg-mainz.de</p>
 <p align="left">Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a></p>
