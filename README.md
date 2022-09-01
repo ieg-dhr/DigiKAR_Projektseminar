@@ -46,7 +46,7 @@
 
 <hr>
 
-<p align="justify">Für weitere Informationen zu den historischen Inhalten des Projektseminars wenden Sie sich bitte an <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p><p>For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
+<p align="justify"><strong>DE:</strong> Für weitere Informationen zu den historischen Inhalten des Projektseminars wenden Sie sich bitte an <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p><p><strong>EN:</strong> For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
 
 <h4>Beteiligte Studierende / participating students</h4>
 
@@ -71,7 +71,7 @@
 <hr>
 
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="150px" style="padding: 10px" align="left"/> 
-<p align="justify" padding="10px">Das studentische Projekt ist Teil des <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekts, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p><p>The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
+<p align="justify" padding="10px"><strong>DE:</strong> Das studentische Projekt ist Teil des <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekts, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p><p><strong>EN:</strong> The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
 <p align="left">E-Mail: digikar@ieg-mainz.de</p>
 <p align="left">Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a></p>
