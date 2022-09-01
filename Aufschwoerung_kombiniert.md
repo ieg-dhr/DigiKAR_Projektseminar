@@ -1,11 +1,10 @@
 <h2>Aufschwörungsorte (kombiniert)</h2>
-<h2>Pleaces of swearing in (combined)</h2>
 
 <img src=""/>
 
-<h3>Description</h3>
+<h3>Beschreibung</h3>
 
-<p><strong>DE:</strong> Die Karte zeigt die Orte aller Domkapitel und Stiftskapitel, an denen die Dompröbste des Mainzer Domkapitels im Laufe 
+<p>Die Karte zeigt die Orte aller Domkapitel und Stiftskapitel, an denen die Dompröbste des Mainzer Domkapitels im Laufe 
 ihres Lebens aufgeschworen wurden. Die Größe der Punkte symbolisiert die Häufigkeit der am jeweiligen Ort getätigten Aufschwörungen. 
 Während die Anzahl der Aufschwörungen an einem Ort zusammen mit der Farbe die Orte mit mehreren Aufschwörungen hervorhebt, 
 stehen die Punkte ohne Zahl für eine Aufschwörung eines einzigen Domprobstes.</p> 
