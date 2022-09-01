@@ -1,7 +1,5 @@
-<p>The following maps cover ceremonies of "Aufschwörung" (roughly translating as "swearing-in") that concerned cathedral provosts active in Mainz. 
-The ceremony of "Aufschöwrung" confirmed or elevated a person's noble status.</p>
-
-<h2>Map 1: "Aufschwörungsorte der Mainzer Domherren" (places of swearing-in)</h2>
+<h2>Aufschwörungsorte(kombiniert)</h2>
+<h2>Pleaces of swearing in (combined)</h2>
 
 <img src=""/>
 
