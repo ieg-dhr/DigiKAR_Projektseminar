@@ -4,7 +4,7 @@
 <li>Arens, Fritz: Mainzer Inschriften von 1651 bis 1800. I. Die Inschriften des Domes zu Mainz. Mainz 1982 (Beiträge zur Geschichte der Stadt Mainz; 26).</li>
 <li>Bärmann, Johannes: Verzeichnis der Studierenden der alten Universität Mainz. Lieferung I. Bd. 13. Wiesbaden 1979.</li>
 <li>Becker-Huberti, Manfred: Die Tridentinische Reform im Bistum Münster unter Fürstbischof Christoph Bernhard v. Galen 1650 bis 1648. Ein Beitrag zur Geschichte der katholischen Reform. Münster 1978 (Westfalia Sacra; 6).</li>
-<li><li>Braun, Hugo A.: Das Domkapitel zu Eichstätt. Von der Reformationszeit bis zur Säkularisation (1535–1806). Stuttgart 1991 (Beiträge zur Geschichte der Reichskirche in der Neuzeit; 13).</li>
+<li>Braun, Hugo A.: Das Domkapitel zu Eichstätt. Von der Reformationszeit bis zur Säkularisation (1535–1806). Stuttgart 1991 (Beiträge zur Geschichte der Reichskirche in der Neuzeit; 13).</li>
 <li>Christ, Günter: Lothar Friedrich von Metternich-Burscheidt, Erzbischof von Mainz, Bischof von Speyer und Worms. Aschaffenburg 1985.</li> 
 <li>Dörr, Margarete: Das St. Mariengredenstift in Mainz (Geschichte, Recht und Besitz), Phil. Diss. masch. Mainz 1953.</li>
 <li>Dylong, Alexander: Das Hildesheimer Domkapitel im 18. Jahrhundert. Hannover 1997 (Quellen und Studien zur Geschichte des Bistums Hildesheim; 4).</li>
@@ -56,4 +56,4 @@ URL: https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben
  [26.07.2022].</li>
 <li>Würzburg Wiki: Adolph Hund von Saulheim, URL: https://wuerzburgwiki.de/wiki/Adolph_Hund_von_Saulheim [16.06.2022].</li>
 <li>Würzburg Wiki: Johann Philipp Franz von Schönborn, URL: https://wuerzburgwiki.de/wiki/Johann_Philipp_Franz_von_Schönborn [16.06.2022].</li>
-</ul> 
+</ul>
