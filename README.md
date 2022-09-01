@@ -37,7 +37,7 @@
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_EN.html">Network graph</a></td>
   </tr>
    <tr>
-    <td><img src="./assets/network.png" alt="drawing" width="40" style="padding=10px"/></td>
+    <td><img src="./assets/information.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_DE.html">Quellen und Literatur</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_EN.html">Primary sources and research literature</a></td>
   </tr>
