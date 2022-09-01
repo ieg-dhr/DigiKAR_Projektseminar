@@ -1,7 +1,8 @@
-<h2>Persons studied in the project</h2>
+<h2>Im Projekt untersuchte Personen</h2>
 
-<p>The early modern clerics whose biographies the students have researched for this project held offices in the cathedral chapter of the Prince-Bishopric of Mainz (in present-day Germany). Initially, the students' research also included laymen who held cathedral prebends, but the final focus of the project was placed on <strong>fourteen provosts of the cathedral</strong> ("Dompröbste") active between 1650 and 1800.</p>
-<p>The names in the table below are linked to the data collected for each person in CSV format, which can be opened with any text editor, EXCEL or Google Sheets. To re-use our data in maps of your own, you can download the same data in <a href="https://geojson.org/">GeoJSON format</a> from the <a href="./GeoJSON layers">GeoJSON layers directory</a>. GeoJSON is a widely used format for encoding a variety of geographic data structures, e.g. point geometries, lines and polygons. The GeoJSON files shared here can be loaded in a mapping tool like <strong>QGIS</strong> for further spatial exploration and the creation of new maps.</p>
+<p align="justify">Die frühneuzeitlichen Kleriker, deren Biographien die Studenten für dieses Projekt recherchiert haben, waren im Domkapitel des Fürstbistums Mainz tätig. Ursprünglich wurden auch Laien als Dompräbende in die Untersuchung einbezogen, doch der endgültige Schwerpunkt des Projekts lag auf <strong>vierzehn Dompröpsten</strong>, die zwischen 1650 und 1800 tätig waren.</p>
+
+<p align="justify">Die Namen in der nachstehenden Tabelle sind mit den für jede Person gesammelten Daten im CSV-Format verknüpft, die mit jedem Texteditor, EXCEL oder Google Sheets geöffnet werden können. Um unsere Daten in eigenen Karten wiederzuverwenden, können Sie dieselben Daten im <a href="https://geojson.org/">GeoJSON-Format</a> aus dem <a href="./GeoJSON layers">Ordner mit GeoJSON Dateien</a> herunterladen. GeoJSON ist ein weit verbreitetes Format zur Kodierung einer Vielzahl von geografischen Datenstrukturen, z. B. Punktgeometrien, Linien und Polygone. Die hier zur Verfügung gestellten GeoJSON-Dateien können in ein Mapping-Tool wie QGIS geladen werden, um weitere räumliche Untersuchungen durchzuführen und neue Karten zu erstellen.</p>
 
  <table width="90%">
   <tr>
@@ -79,6 +80,3 @@
     <td>1781–1817</td>
   </tr>
 </table> 
-
-
-
