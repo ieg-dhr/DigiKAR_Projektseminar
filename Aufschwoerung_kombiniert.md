@@ -1,4 +1,4 @@
-<h2>Aufschwörungsorte(kombiniert)</h2>
+<h2>Aufschwörungsorte (kombiniert)</h2>
 <h2>Pleaces of swearing in (combined)</h2>
 
 <img src=""/>
