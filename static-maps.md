@@ -1,8 +1,8 @@
 <h2>Static maps highlighting alternative data aspects</h2>
 
-As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects:
+As part of the seminar at JGU Mainz, the participating students were asked to create several static maps highlighting alternative data aspects.
 
-<h4>1) Using colours to differentiate people, event types or time periods</h4>
+<h4>1) Comparative mapping of biographies</h4>
 <p><em>One approach was to visualise event times using the categorised or rule-based colouring of point geometries.</em></p>
 
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
