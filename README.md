@@ -8,8 +8,8 @@
 <table width="100%">
   <tr>
     <td><img src="./assets/home.png" alt="drawing" width="40" style="padding=10px"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Einfuehrung.html">Einführung</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction.html">Introduction</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_EN.html">Introduction</a></td>
   </tr>
   <tr>
     <td><img src="./assets/information.png" alt="drawing" width="40" style="padding=10px"/></td>
