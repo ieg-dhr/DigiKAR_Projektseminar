@@ -22,7 +22,7 @@ Studieren, zum Handeln, zur Ausübung eines Amtes etc. über ein hohes Maß an M
 den Grenzen und Strukturen bewegten.</p>
 
 <p align="justify">Dies lässt sich am Beispiel der Mainzer Dompröbste erkennen, auf die sich das Seminar wegen der vergleichsweise günstigen Quellen- und Literaturlage fokussierte. 
-Genauer in den Blick genommen wurden wichtige Lebensstationen der 14 adeligen Männer, die das Amt des Mainzer Domprobstes zwischen 1652 und 1827 bekleideten. Als 
+Genauer in den Blick genommen wurden wichtige Lebensstationen der <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">14 adeligen Männer</a>, die das Amt des Mainzer Domprobstes zwischen 1652 und 1827 bekleideten. Als 
 Kriterium für eine Lebensstation galt, dass sie einen nachhaltigen Einfluss auf das jeweilige Leben haben musste, sodass beispielsweise Studienaufenthalte, 
 Kavalierstouren, Aufschwörungen in die Domkapitel und weltliche und geistliche Ämter recherchiert wurden. Letztere spielten dabei eine besondere Rolle, da viele der 
 Herren nicht nur in Mainz, sondern in vielen weiteren Domkapiteln Mitglied wurden und im Zuge dessen zu Domkantoren, Domscholastern, Domdekanen etc. gewählt wurden; 
