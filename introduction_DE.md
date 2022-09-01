@@ -1,7 +1,7 @@
 <h2>Mobilität Kurmainzer Eliten</h2>
 
 <p align="justify">– unter diesem Thema arbeitete unser Seminar im Sommersemester 2022 mit dem Ziel, eigene Karten zu einem regionalgeschichtlichen Thema zu konstruieren. 
-Theoretischer Ausgangspunkt bildeten dabei jüngere Forschungsarbeiten, die postulierten, es werde dem Alten Reich nicht gerecht, dieses geographisch-politisch 
+Theoretischer Ausgangspunkt bildeten dabei jüngere Forschungsarbeiten, die postulierten, es werde dem <a href="https://www.uni-muenster.de/imperia/md/content/geschichte/neuzeit1/vl_001_folien.pdf">Alten Reich</a> nicht gerecht, dieses geographisch-politisch 
 allein vor dem Hintergrund politischer Karten mit ihren klaren territorialen Grenzen zu verstehen, innerhalb derer sich der frühneuzeitliche Staat herausgebildet habe.
 Mag diese Position auch der historischen Wirklichkeit entsprechen, verengt sie doch den Blick auf die weitaus komplexere politisch-territoriale Beschaffenheit des 
 Reiches: Die übergeordnete politische Struktur, der Reichstag, wurde in den einzelnen Territorien durch Land- und Kreistage gespiegelt und weiter ausdifferenziert, 
