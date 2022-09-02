@@ -16,68 +16,53 @@
 <p>Die hier verlinkten Karten für die einzelnen Domherren zeigen allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt. 
 Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Schenk von Kastell erstelltes „Drucklayout“, also eine Karte mit Legende und Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
 
-<style>
-.zoom {
-  padding: 50px;
-  background-color: green;
-  transition: transform .2s; /* Animation */
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
-}
-
-.zoom:hover {
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-</style>
-
  <table style="width:100%">
   <tr>
-    <th style="width:30%">Link zur Karte</th>
+    <th style="width:30%">Link zur Karte (PDF)</th>
     <th style="width:20%">Name</th>
-    <th style="width:30%">Link zur Karte</th>
+    <th style="width:30%">Link zur Karte (PDF)</th>
     <th style="width:20%">Name</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Breidbach-Bürresheim.png" class="zoom"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Breidbach-Bürresheim.pdf" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px" class="zoom" class="zoom"/></a></td>
     <td>von Breidbach-Bürresheim</td>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Castell.pdf" target="_blank"><img src="./maps/Von Castell.png" width="250px" class="zoom"/></a></td>
     <td>von Castell</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Dreyborn.png" class="zoom"><img src="./maps/Von Dreyborn.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Dreyborn.pdf" target="_blank"><img src="./maps/Von Dreyborn.png" width="250px" class="zoom"/></a></td>
     <td>von Dreyborn</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Eltz.png" class="zoom"><img src="./maps/Von Eltz.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Eltz.pdf" target="_blank"><img src="./maps/Von Eltz.png" width="250px" class="zoom"/></a></td>
     <td>von Eltz</td>
   </tr>
    <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Fürstenberg.png" class="zoom"><img src="./maps/Von Fürstenberg.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Fürstenberg.pdf" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px" class="zoom"/></a></td>
     <td>Dietrich Kaspar von Fürstenberg</td>
-    <td><a href="./maps/Von Kesselstatt.png" class="zoom"><img src="./maps/Von Kesselstatt.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von Kesselstatt.png" width="250px" class="zoom"/></a></td>
     <td>von Kesselstatt</td>
   </tr>  
  <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Saal.png" class="zoom"><img src="./maps/Von Saal.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf" target="_blank"><img src="./maps/Von Saal.png" width="250px" class="zoom"/></a></td>
     <td>von Saal</td>
-    <td><a href="./maps/Von Saulheim.png" class="zoom"><img src="./maps/Von Saulheim.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf" target="_blank"><img src="./maps/Von Saulheim.png" width="250px" class="zoom"/></a></td>
     <td>Von Saulheim</td>
   </tr>  
  <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Schönborn.png" class="zoom"><img src="./maps/Von Schönborn.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Schönborn.pdf" target="_blank"><img src="./maps/Von Schönborn.png" width="250px" class="zoom"/></a></td>
     <td>von Schönborn</td>
-    <td><a href="./maps/Von Stadion.png" class="zoom"><img src="./maps/Von Stadion.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Stadion.pdf" target="_blank"><img src="./maps/Von Stadion.png" width="250px" class="zoom"/></a></td>
     <td>van Stadion</td>
   </tr>  
  <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von der Leyen-Hohengeroldseck.png" class="zoom"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px" class="zoom"/></a></td>
     <td>Von der Leyen-Hohengeroldseck</td>
-    <td><a href="./maps/Von der Leyen.png" class="zoom"><img src="./maps/Von der Leyen.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen.pdf" target="_blank"><img src="./maps/Von der Leyen.png" width="250px" class="zoom"/></a></td>
     <td>Von der Leyen</td>
   </tr>  
  <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Wolff-Metternich zur Gracht.png" class="zoom"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Wolff-Metternich zur Gracht.pdf" target="_blank"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px" class="zoom"/></a></td>
     <td>Wolff-Metternich zur Gracht</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Castell.png" class="zoom"><img src="./maps/Von Castell.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Castell.pdf" target="_blank"><img src="./maps/Von Castell.png" width="250px" class="zoom"/></a></td>
     <td>EINER FEHLT!?</td>
   </tr>
 </table> 
