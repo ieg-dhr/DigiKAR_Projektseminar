@@ -1,6 +1,6 @@
 <h2>Comparative mapping of biographies</h2>
 
-<p>One possibility to comparatively map data is to visualise categorised or rule-based colouring of point geometries.</p>
+<p>One possibility to comparatively map data is the categorised or rule-based visualisation of geometries.</p>
 
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
 
