@@ -13,11 +13,10 @@ nicht der höchste weltliche Herr. Einige exekutive Kompetenzen wurden von den R
 territorial gegliedert waren. In der Jurisdiktion konkurrierten auf der obersten Ebene Reichshofrat und Reichskammergericht, Entscheidungen im Bereich der Religion 
 durften ab 1653 auf Ebene des Reiches nur in Übereinstimmung mit den beiden konfessionellen Corpora gefällt werden, an die sich die Untertanen wenden konnten.</p>
 
-<p align="justify">Dies alles führte in der Praxis zu einem engen Zusammenspiel der verschiedenen politisch-geographischen Ordnungsgrößen: Ein Beispiel: Wenn lutherische Bauern sich 
+<p align="justify">Dies alles führte in der Praxis zu einem engen Zusammenspiel der verschiedenen politisch-geographischen Ordnungsgrößen. <em>Ein Beispiel:</em> Wenn lutherische Bauern sich 
 über die Politik des katholischen Landesherren beschwerten, da dieser sie in ihren Glauben bedränge, konnten sie sich an das Corpus Evangelicorum wenden, damit dieses 
 der Ungerechtigkeit Abhilfe schaffe. In ein lokales Problem von Untertanen mit ihrem Landesherren konnte somit die höchste religionspolitische Instanz auf der 
-Reichsebene hineingezogen werden, oder mit anderen Worten: Alles hing mit allem zusammen. Mit diesem Aufbrechen eines starren Denkens in festen Grenzen geht das 
-zweite theoretische Konzept einher: die Mobilität. Gerade für Eliten gilt, dass sie sich nicht etwa nur in den Grenzen eines Territoriums bewegten, sondern zum 
+Reichsebene hineingezogen werden, oder mit anderen Worten: Alles hing mit allem zusammen. Mit diesem Aufbrechen eines starren Denkens in festen Grenzen geht das zweite theoretische Konzept einher: die <strong>Mobilität</strong>. Gerade für Eliten gilt, dass sie sich nicht etwa nur in den Grenzen eines Territoriums bewegten, sondern zum 
 Studieren, zum Handeln, zur Ausübung eines Amtes etc. über ein hohes Maß an Mobilität verfügten und an ihren Lebensläufen ersichtlich wird, wie sehr sie sich zwischen 
 den Grenzen und Strukturen bewegten.</p>
 
