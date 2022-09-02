@@ -4,7 +4,7 @@
 
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="500px" align="left"/></a><br><br><br><p style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p><br><br><br><br><br><br><br>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="500px" align="right"/></a><p style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p><br><br><br><br><br><br><br>
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="500px" align="right"/></a><br><br><br><p style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p><br><br><br><br><br><br><br>
 
 <hr>
 
