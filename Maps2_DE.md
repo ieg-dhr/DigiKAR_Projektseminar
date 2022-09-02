@@ -18,55 +18,55 @@ Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Sche
 
  <table style="width:100%">
   <tr>
-    <td><a href=""./maps/Von Breidbach-Bürresheim.png" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="50px"/></a></td>
+    <td><a href=""./maps/Von Breidbach-Bürresheim.png" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px"/></a></td>
     <td>von Breidbach-Bürresheim</td>
   </tr>
     <tr>
-    <td><a href=""./maps/Map_DietrichKaspar-von-Fürstenberg.png" target="_blank"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="50px"/></a></td>
+    <td><a href=""./maps/Map_DietrichKaspar-von-Fürstenberg.png" target="_blank"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="250px"/></a></td>
     <td>Dietrich Kaspar von Fürstenberg</td>
   </tr>
     <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>  
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>  <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>  <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>  <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>  <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="50px"/></a></td>
+    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>Smith</td>
   </tr>
 </table> 
