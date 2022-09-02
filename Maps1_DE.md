@@ -22,7 +22,7 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
 
 <h2>Alternative Darstellung der Aufschwörungsorte aller Domherren</h2>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Domherren_Aufschwörungsorte_Auschnitt Deutschland.pdf"><img src="./maps/Domherren_Aufschwörungsorte_Ausschnitt Deutschland.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static%20Maps%20PDFs/Domherren_Aufschw%C3%B6rungsorte_Ausschnitt%20Deutschland.pdf"><img src="./maps/Domherren_Aufschwörungsorte_Ausschnitt Deutschland.png" width="650px" align="center"/></a>
 
 <p align="justify">Auf dieser alternativen Karten sind ebenfalls die Orte aller Domkapitel, Stiftskapitel usw. zu sehen, an denen die 14 verschiedenen Domherren im Laufe ihres Lebens aufgeschworen worden sind. Im Gegensatz zur <strong>Ausschnittskarte</strong> (unten) ist hier das Reich in seiner Gesamtheit zu sehen, da das Ausbleiben von Aufschwörungen im Norden und Süden des Reiches relevant ist und daher sichtbar gemacht werden muss. Die Größe der Punkte steht wiederum für die Häufigkeit der an einem Ort stattgefundenen Aufschwörungen, d.h. ein größerer Punkt bedeutet, dass an einem Ort besonders viele Aufschwörungen stattgefunden haben, während ein kleinerer Punkt bedeutet, dass an einem Ort nicht so viele Aufschwörungen stattgefunden haben.</p>
 
