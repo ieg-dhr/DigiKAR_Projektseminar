@@ -1,4 +1,4 @@
-<h4>Gesamtdarstellung der Aktionszentren</h4>
+<h2>Gesamtdarstellung der Aktionszentren</h2>
 
 <a href="./maps/Domherren_clustered_close-up.png"><img src="./maps/Domherren_clustered_close-up.png" width="650px" align="center"/></a>
 <p>Die obige Karte zeigt Häufungen von Ereignissen im gesammelten Datensatz als farbige Cluster (sog. <em>point clustering</em>). Auf diese Weise werden Aktionszentren unabhängig von der Art der Lebensereignisse sichtbar. Die größten Punkte kennzeichnen Ortsnamen, die in den Daten überproportional häufig vorkommen.</p>
