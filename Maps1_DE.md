@@ -1,20 +1,11 @@
-<h2>Statische Karten, die verschiedene Biografien hervorheben</h2>
+<h2>Aktionszentren</h2>
 
-<h4>1) Vergleichende Kartierung von Biografien</h4>
-
-<p><em>Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</em></p>
-
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
-
-<p padding="10px">The map shown here displays biographically relevant places for each cathedral provost in a different colour. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p>
-<p padding="10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist Dietich Kaspar von Fürstenberg, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p>
-
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a>
+<h4>1) Orte mit den häufigsten Aufschwörungen</h4>
 
 <hr>
 
 <h4>2) Punkt-Clustering zur Darstellung von Aktionszentren</h4>
-<p>Eine alternative Visualisierung ist das <em>Punkt-Clustering</em>, um die Gesamtdichte der biografischen Ereignisse in den kartierten Orten zu zeigen.</p>
+<p>Eine alternative Visualisierung ist ein <em>Punkt-Clustering</em>, das die Gesamtdichte der biographischen Ereignisse in den kartierten Orten zeigt.</p>
 
 <a href="./maps/Domherren_clustered_close-up.png"><img src="./maps/Domherren_clustered_close-up.png" width="650px" align="center"/></a>
 <p>Die obige Karte zeigt die Orte im gesammelten Datensatz als farbige Cluster. Die größten Punkte kennzeichnen Ortsnamen, die in den Daten überproportional häufig vorkommen.</p>
