@@ -24,45 +24,45 @@ Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Sche
     <th style="width:20%">Name</th>
   </tr>
   <tr>
-    <td><a href=""./maps/Von Breidbach-Bürresheim.png" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Breidbach-Bürresheim.png" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px"/></a></td>
     <td>von Breidbach-Bürresheim</td>
     <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>von Castell</td>
   </tr>
   <tr>
-    <td><a href="./maps/Von Dreyborn.png" target="_blank"><img src="./maps/Von Dreyborn.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Dreyborn.png" target="_blank"><img src="./maps/Von Dreyborn.png" width="250px"/></a></td>
     <td>von Dreyborn</td>
-    <td><a href="./maps/Von Eltz.png" target="_blank"><img src="./maps/Von Eltz.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Eltz.png" target="_blank"><img src="./maps/Von Eltz.png" width="250px"/></a></td>
     <td>von Eltz</td>
   </tr>
    <tr>
-    <td><a href=""./maps/Von Fürstenberg.png" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Fürstenberg.png" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px"/></a></td>
     <td>Dietrich Kaspar von Fürstenberg</td>
     <td><a href="./maps/Von Kesselstatt.png" target="_blank"><img src="./maps/Von Kesselstatt.png" width="250px"/></a></td>
     <td>von Kesselstatt</td>
   </tr>  
  <tr>
-    <td><a href="./maps/Von Saal.png" target="_blank"><img src="./maps/Von Saal.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Saal.png" target="_blank"><img src="./maps/Von Saal.png" width="250px"/></a></td>
     <td>von Saal</td>
     <td><a href="./maps/Von Saulheim.png" target="_blank"><img src="./maps/Von Saulheim.png" width="250px"/></a></td>
     <td>Von Saulheim</td>
   </tr>  
  <tr>
-    <td><a href="./maps/Von Schönborn.png" target="_blank"><img src="./maps/Von Schönborn.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Schönborn.png" target="_blank"><img src="./maps/Von Schönborn.png" width="250px"/></a></td>
     <td>von Schönborn</td>
     <td><a href="./maps/Von Stadion.png" target="_blank"><img src="./maps/Von Stadion.png" width="250px"/></a></td>
     <td>van Stadion</td>
   </tr>  
  <tr>
-    <td><a href="./maps/Von der Leyen-Hohengeroldseck.png" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von der Leyen-Hohengeroldseck.png" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px"/></a></td>
     <td>Von der Leyen-Hohengeroldseck</td>
     <td><a href="./maps/Von der Leyen.png" target="_blank"><img src="./maps/Von der Leyen.png" width="250px"/></a></td>
     <td>Von der Leyen</td>
   </tr>  
  <tr>
-    <td><a href="./maps/Wolff-Metternich zur Gracht.png" target="_blank"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Wolff-Metternich zur Gracht.png" target="_blank"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px"/></a></td>
     <td>Wolff-Metternich zur Gracht</td>
-    <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
     <td>EINER FEHLT!?</td>
   </tr>
 </table> 
