@@ -1,8 +1,7 @@
-<h2>Aufschwörungsorte (kombiniert)</h2>
+<h2>Aufschwörungsorte (Häufigkeiten)</h2>
 
-<img src=""/>
-
-<h3>Beschreibung</h3>
+<img src="./maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png" width="500px" align="center"/>
+<img src="./maps/Häufigkeit der Aufschwörungsorte ohne Ortsnamen.png" width="500px" align="center"/>
 
 <p>Die Karte zeigt die Orte aller Domkapitel und Stiftskapitel, an denen die Dompröbste des Mainzer Domkapitels im Laufe 
 ihres Lebens aufgeschworen wurden. Die Größe der Punkte symbolisiert die Häufigkeit der am jeweiligen Ort getätigten Aufschwörungen. 
