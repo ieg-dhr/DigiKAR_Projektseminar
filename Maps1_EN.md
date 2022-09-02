@@ -2,8 +2,8 @@
 
 <h4>Swearings-in (frequencies)</h4>
 
-<img src="./maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png" width="650px" align="center"/>
-<img src="./maps/Häufigkeit der Aufschwörungsorte ohne Ortsname.png" width="650px" align="center"/>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Häufigkeit der Aufschwörungsorte mit Ortsnamen.pdf"><img src="./maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Häufigkeit der Aufschwörungsorte ohne Ortsname.pdf"><img src="./maps/Häufigkeit der Aufschwörungsorte ohne Ortsname.png" width="650px" align="center"/></a>
 
 <p align="justify">The map shows the locations of all cathedral chapters and collegiate chapters where the cathedral provosts of the Mainz cathedral 
 chapter were sworn in during their lives. The size of the dots symbolizes the frequency of the swearings in each place. While the number of swearings 
@@ -21,13 +21,10 @@ Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial c
 
 <h4>Alternative mapping of places of all swearings-in</h4>
 
-<img src="./maps/Domherren_Aufschwörungsorte_Ausschnitt Deutschland.png" width="650px" align="center"/>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Domherren_Aufschwörungsorte_Auschnitt Deutschland.pdf"><img src="./maps/Domherren_Aufschwörungsorte_Ausschnitt Deutschland.png" width="650px" align="center"/></a>
 
 <p align="justify">An alternative way of visualising the swearing-in is presented in this map of present-day Germany and neighbouring regions which shows the locations of all cathedral chapters, collegiate chapters, etc., where the 14 different canons were sworn in during their lives. In contrast to the close-up map below, the early modern Empire is shown in its entirety since the absence of swearings-in in the northern and southern regions is relevant and must therefore be made visible. The size of the dots stands for the frequency of the swearings-in that took place per city, i.e. a larger dot means that particularly many swearings-in have been recorded, while a smaller dot means that not so many events could be traced in a place.</p>
 
-<img src="./maps/Domherren_Aufschwörungsorte.png" width="650px" align="center"/>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Domherren_Aufschwörungsorte.pdf"><img src="./maps/Domherren_Aufschwörungsorte.png" width="650px" align="center"/></a>
  
 <p align="justify">The close-up map is virtually identical to map above but zoomed in so that a smaller region is shown. This is done for practical reasons - by zooming in, the different point sizes become clearer. For a comprehensive interpretation of the research results, all maps should be used comparatively.</p>
-
-
-
