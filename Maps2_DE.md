@@ -18,6 +18,12 @@ Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Sche
 
  <table style="width:100%">
   <tr>
+    <th style="width:30%">Link zur Karte</th>
+    <th style="width:20%">Name</th>
+    <th style="width:30%">Link zur Karte</th>
+    <th style="width:20%">Name</th>
+  </tr>
+  <tr>
     <td><a href=""./maps/Von Breidbach-Bürresheim.png" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px"/></a></td>
     <td>von Breidbach-Bürresheim</td>
     <td><a href="./maps/Von Castell.png" target="_blank"><img src="./maps/Von Castell.png" width="250px"/></a></td>
