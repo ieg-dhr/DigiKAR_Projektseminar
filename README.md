@@ -36,11 +36,11 @@
   <tr>
     <td><img src="./assets/map2.png" alt="drawing" width="40" /></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">
-     <a href="./Maps1_DE.html">Vergleichende Kartierung des gesamten Datensatzes</a><br>
+     <a href="./Maps1_DE.html">Aktionszentren</a><br>
      <a href="./Maps2_DE.html">Orte der Aufschwörung (einzelne Domherren)</a><br>
      <a href="./Maps3_DE.html">Orte der Aufschwörung (kombiniert)</a><br></a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_EN.html">
-     <a href="./Maps1_EN.html">Comparative mapping of the entire data set</a><br>
+     <a href="./Maps1_EN.html">Centres of action</a><br>
      <a href="./Maps2_EN.html">Places of swearing-in (individual clerics)</a><br>
      <a href="./Maps3_EN.html">Places of swearing-in (combined)</a><br>
      </a></td>
