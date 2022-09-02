@@ -1,14 +1,19 @@
 <h4>Gesamtdarstellung der Aktionszentren</h4>
-<p>Eine alternative Visualisierung ist ein <em>Punkt-Clustering</em>, das die Gesamtdichte der biographischen Ereignisse in den kartierten Orten zeigt.</p>
 
 <a href="./maps/Domherren_clustered_close-up.png"><img src="./maps/Domherren_clustered_close-up.png" width="650px" align="center"/></a>
-<p>Die obige Karte zeigt die Orte im gesammelten Datensatz als farbige Cluster. Die größten Punkte kennzeichnen Ortsnamen, die in den Daten überproportional häufig vorkommen.</p>
-<p>Die Karte unten zeigt die numerischen Häufigkeiten pro Cluster. In genauen Zahlen ist der Mainzer Dom mit 65 Vorkommen der häufigste Ort. 22 Orte, die als "Deutschland" im Zentrum der heutigen Bundesrepublik kartiert sind, bezeichnen biografische Ereignisse, zu denen die Quellen keine konkreten räumlichen Angaben machten.</p>
+<p>Die obige Karte zeigt Häufungen von Ereignissen im gesammelten Datensatz als farbige Cluster (sog. <em>point clustering</em>). Auf diese Weise werden Aktionszentren unabhängig von der Art der Lebensereignisse sichtbar. Die größten Punkte kennzeichnen Ortsnamen, die in den Daten überproportional häufig vorkommen.</p>
+
+<hr>
+
+<p>Die Karte unten zeigt die numerischen Häufigkeiten aller Ereignisse pro Ort. In absoluten Zahlen ist der Mainzer Dom mit 65 erfassten Ereignissen der häufigste Ort. 22 Orte, die als "Deutschland" im Zentrum der heutigen Bundesrepublik kartiert sind, bezeichnen biografische Ereignisse, zu denen die Quellen keine konkreten räumlichen Angaben machten.</p>
 
 <a href="./maps/Domherren_places-frequency_2.png"><img src="./maps/Domherren_places-frequency_2.png" width="650px" align="center"/></a>
 
+<hr>
+
 <p>Alle geokodierten Orte mit 5 und mehr Vorkommen sind in der nachstehenden Tabelle aufgeführt. Die räumlichen Informationen in den Originalquellen wurden auf diese modernen Orte abgebildet, um eine automatische Geokodierung zu ermöglichen. Wie in der obigen Punktclusterkarte zu sehen ist, wurden unklare Orte (insbesondere Geburtsorte) summarisch auf "Deutschland" abgebildet, um die damit verbundenen Ereignisse überhaupt in die visuellen Darstellungen aufzunehmen. Die im Projekt erstellten Karten bedürfen daher einer Kontextualisierung und einer kritischen Auseinandersetzung mit dem Nutzer.</p>
-<table class="table table-bordered table-hover table-condensed">
+
+<table class="table table-bordered table-hover table-condensed" width="50%" align="center">
 <thead><tr><th title="Field #2"># Vollständige Addresse</th>
 <th title="Field #3"># Häufigkeit</th>
 </tr></thead>
