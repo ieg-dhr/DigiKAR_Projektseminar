@@ -11,10 +11,9 @@
 
 <hr>
 
-<h4>Einzelkarten: Anzahl geistlicher Ämter sowie Orte und Funktionen</h4>
+<h4>Einzelkarten: Anzahl geistlicher Ämter pro Orte und ausgeübte Funktionen</h4>
 
-<p>Die hier verlinkten Karten für die einzelnen Domherren zeigen allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt. 
-Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Schenk von Kastell erstelltes „Drucklayout“, also eine Karte mit Legende und Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
+<p>Die hier verlinkten Karten für die einzelnen Domherren zeigen allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt.</p>
 
  <table style="width:100%">
   <tr>
@@ -67,4 +66,9 @@ Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Sche
   </tr>
 </table> 
 
+<h4>Karten mit Legenden und Maßstabsangaben</h4>
+
+<h4>Eine optisch schönere Lösung als die oben gezeigten Einzelkarten ist ein exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
+
+<strong>KARTE EINFÜGEN</strong>
 
