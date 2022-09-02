@@ -34,7 +34,7 @@
    <tr>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Fürstenberg.pdf" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px" class="zoom"/></a></td>
     <td>Dietrich Kaspar von Fürstenberg (1673-1675)</td>
-  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von     Kesselstatt.png" width="250px" class="zoom"/></a></td>
+  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von Kesselstatt.png" width="250px" class="zoom"/></a></td>
   <td>Hugo Wolfgang von Kesselstadt (1724-1738)</td>
  </tr>
  <tr>
@@ -44,7 +44,7 @@
     <td>Von der Leyen</td>  
  </tr>  
  <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich-Burscheid.pdf" target="_blank"><img src="./maps/Von Metternich-Burscheid.png" width="250px" class="zoom"/></a></td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich.pdf" target="_blank"><img src="./maps/Von Metternich.png" width="250px" class="zoom"/></a></td>
     <td>Lothar Friedrich von Metternich-Burscheid (1672-1673)</td>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf" target="_blank"><img src="./maps/Von Saal.png" width="250px" class="zoom"/></a></td>
     <td>Johann von Heppenheim genannt von Saal (1668-1672)</td>
