@@ -21,7 +21,7 @@ Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial c
 
 <h4>Alternative mapping of places of all swearings-in</h4>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Domherren_Aufschwörungsorte_Auschnitt Deutschland.pdf"><img src="./maps/Domherren_Aufschwörungsorte_Ausschnitt Deutschland.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static%20Maps%20PDFs/Domherren_Aufschw%C3%B6rungsorte_Ausschnitt%20Deutschland.pdf"><img src="./maps/Domherren_Aufschwörungsorte_Ausschnitt Deutschland.png" width="650px" align="center"/></a>
 
 <p align="justify">An alternative way of visualising the swearing-in is presented in this map of present-day Germany and neighbouring regions which shows the locations of all cathedral chapters, collegiate chapters, etc., where the 14 different canons were sworn in during their lives. In contrast to the close-up map below, the early modern Empire is shown in its entirety since the absence of swearings-in in the northern and southern regions is relevant and must therefore be made visible. The size of the dots stands for the frequency of the swearings-in that took place per city, i.e. a larger dot means that particularly many swearings-in have been recorded, while a smaller dot means that not so many events could be traced in a place.</p>
 
