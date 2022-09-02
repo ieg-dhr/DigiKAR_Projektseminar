@@ -2,15 +2,15 @@
 
 <p><em>Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</em></p>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="500px" align="left"/></a><br><br><br><p style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p><br><br><br><br><br><br><br>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="500px" align="left"/></a><br><br><br><p align="justify" style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p><br><br><br><br><br><br><br>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="500px" align="right"/></a><br><br><br><p style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p><br><br><br><br><br><br><br>
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="500px" align="right"/></a><br><br><br><p align="justify" style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p><br><br><br><br><br><br><br>
 
 <hr>
 
-<h4>Einzelkarten: Anzahl geistlicher Ämter pro Orte und ausgeübte Funktionen</h4>
+<h4>Einzelkarten: Anzahl geistlicher Ämter pro Ort und dort ausgeübte Funktionen</h4>
 
-<p>Die hier verlinkten Karten für die einzelnen Domherren zeigen allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt.</p>
+<p align="justify">Die hier verlinkten Einzelkarten für die behandelten Domherren zeigen allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt.</p>
 
  <table style="width:100%">
   <tr>
@@ -21,51 +21,51 @@
   </tr>
   <tr>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Breidbach-Bürresheim.pdf" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px" class="zoom" class="zoom"/></a></td>
-    <td>von Breidbach-Bürresheim</td>
+    <td>Karl Emmerich von Breitbach-Bürresheim (1738-1743)</td>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Castell.pdf" target="_blank"><img src="./maps/Von Castell.png" width="250px" class="zoom"/></a></td>
-    <td>von Castell</td>
+    <td>Markwart Schenk von Kastell / Castell (1675-1685)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Dreyborn.pdf" target="_blank"><img src="./maps/Von Dreyborn.png" width="250px" class="zoom"/></a></td>
-    <td>von Dreyborn</td>
+    <td>Heinrich Wilhelm Harff von Dreyborn (1779-1781)</td>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Eltz.pdf" target="_blank"><img src="./maps/Von Eltz.png" width="250px" class="zoom"/></a></td>
-    <td>von Eltz</td>
+    <td>Hugo Franz Karl von Eltz (1743-1779)</td>
   </tr>
    <tr>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Fürstenberg.pdf" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px" class="zoom"/></a></td>
-    <td>Dietrich Kaspar von Fürstenberg</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von Kesselstatt.png" width="250px" class="zoom"/></a></td>
-    <td>von Kesselstatt</td>
-  </tr>  
+    <td>Dietrich Kaspar von Fürstenberg (1673-1675)</td>
+  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von     Kesselstatt.png" width="250px" class="zoom"/></a></td>
+  <td>Hugo Wolfgang von Kesselstadt (1724-1738)</td>
+ </tr>
  <tr>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px" class="zoom"/></a></td>
+   <td>Von der Leyen-Hohengeroldseck</td>
+     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen.pdf" target="_blank"><img src="./maps/Von der Leyen.png" width="250px" class="zoom"/></a></td>
+    <td>Von der Leyen</td>  
+ </tr>  
+ <tr>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich-Burscheid.pdf" target="_blank"><img src="./maps/Von Metternich-Burscheid.png" width="250px" class="zoom"/></a></td>
+    <td>Lothar Friedrich von Metternich-Burscheid (1672-1673)</td>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf" target="_blank"><img src="./maps/Von Saal.png" width="250px" class="zoom"/></a></td>
-    <td>von Saal</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf" target="_blank"><img src="./maps/Von Saulheim.png" width="250px" class="zoom"/></a></td>
-    <td>Von Saulheim</td>
+    <td>Johann von Heppenheim genannt von Saal (1668-1672)</td>
   </tr>  
  <tr>
+      <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf" target="_blank"><img src="./maps/Von Saulheim.png" width="250px" class="zoom"/></a></td>
+    <td>Adolf Hund von Saulheim (1652-1668)</td>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Schönborn.pdf" target="_blank"><img src="./maps/Von Schönborn.png" width="250px" class="zoom"/></a></td>
-    <td>von Schönborn</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Stadion.pdf" target="_blank"><img src="./maps/Von Stadion.png" width="250px" class="zoom"/></a></td>
-    <td>van Stadion</td>
+    <td>Johann Philipp Franz Graf von Schönborn (1714-1724)</td>
   </tr>  
  <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px" class="zoom"/></a></td>
-    <td>Von der Leyen-Hohengeroldseck</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen.pdf" target="_blank"><img src="./maps/Von der Leyen.png" width="250px" class="zoom"/></a></td>
-    <td>Von der Leyen</td>
-  </tr>  
- <tr>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Stadion.pdf" target="_blank"><img src="./maps/Von Stadion.png" width="250px" class="zoom"/></a></td>
+    <td>Christoph Rudolf von Stadion (1695-1700)</td>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Wolff-Metternich zur Gracht.pdf" target="_blank"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px" class="zoom"/></a></td>
-    <td>Wolff-Metternich zur Gracht</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Castell.pdf" target="_blank"><img src="./maps/Von Castell.png" width="250px" class="zoom"/></a></td>
-    <td>EINER FEHLT!?</td>
+    <td>Johann Wilhelm Wolff-Metternich von der Gracht (1685-1694)</td>
   </tr>
 </table> 
 
 <h4>Karten mit Legenden und Maßstabsangaben</h4>
 
-<p style="padding: 10px">Eine optisch schönere Lösung als die oben gezeigten Einzelkarten ist ein exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
+<p align="justify" style="padding: 10px">Eine optisch schönere Lösung als die oben gezeigten Einzelkarten ist ein exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
 
 <strong>KARTE EINFÜGEN</strong>
 
