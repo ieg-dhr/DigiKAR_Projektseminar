@@ -2,12 +2,13 @@
 
 <p><em>Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</em></p>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
+<p style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p>
 
-<p padding="10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p>
-<p padding="10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist Dietich Kaspar von Fürstenberg, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="500px" align="left"/></a>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a>
+<p style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist Dietich Kaspar von Fürstenberg, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p>
+
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="500px" align="center"/></a>
 
 <hr>
 
@@ -68,7 +69,7 @@
 
 <h4>Karten mit Legenden und Maßstabsangaben</h4>
 
-<h4>Eine optisch schönere Lösung als die oben gezeigten Einzelkarten ist ein exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
+<p style="padding: 10px">Eine optisch schönere Lösung als die oben gezeigten Einzelkarten ist ein exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
 
 <strong>KARTE EINFÜGEN</strong>
 
