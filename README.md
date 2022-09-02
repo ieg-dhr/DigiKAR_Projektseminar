@@ -7,7 +7,7 @@
 
 <hr>
 
-<table style="width:100%">
+<table style="width:100%" align="center">
 <tr>
     <th style="width:20%"></th>
     <th>Inhalt</th>
@@ -63,7 +63,7 @@
 
 <h4>Beteiligte Studierende / participating students</h4>
 
- <table border="0" style="width:90%" align="center" style="padding: 30px">
+ <table border="0" style="width: 90%" align="center" style="padding: 30px">
   <tr style="width:200px">
     <td>Alina Buchal</td>
     <td>Lara Beringer</td>
