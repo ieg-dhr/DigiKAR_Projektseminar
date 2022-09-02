@@ -1,14 +1,14 @@
-<h4>Vergleichende Kartierung mehrerer Biographien</h4>
+<h2>Vergleichende Kartierung mehrerer Biographien</h2>
 
-<p><em>Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</em></p>
+<p><Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</p>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="500px" align="left"/></a><br><br><br><p align="justify" style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p><br><br><br><br><br><br><br>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="650px" align="center"/></a><br><br><br><p align="justify" style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p><br><br><br><br><br><br><br>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="500px" align="right"/></a><br><br><br><p align="justify" style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p><br><br><br><br><br><br><br>
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a><br><br><br><p align="justify" style="padding: 10px">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p><br><br><br><br><br><br><br>
 
 <hr>
 
-<h4>Einzelkarten: Anzahl geistlicher Ämter pro Ort und dort ausgeübte Funktionen</h4>
+<h2>Einzelkarten: Anzahl geistlicher Ämter pro Ort und dort ausgeübte Funktionen</h2>
 
 <p align="justify">Die hier verlinkten Einzelkarten für die behandelten Domherren zeigen allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt.</p>
 
