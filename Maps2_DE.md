@@ -51,7 +51,7 @@ Eine optisch schönere Lösung als diese ist ein exemplarisch für Marquard Sche
     <td><a href="./maps/Von Schönborn.png" target="_blank"><img src="./maps/Von Schönborn.png" width="250px"/></a></td>
     <td>von Schönborn</td>
     <td><a href="./maps/Von Stadion.png" target="_blank"><img src="./maps/Von Stadion.png" width="250px"/></a></td>
-    <td>Smith</td>
+    <td>van Stadion</td>
   </tr>  
  <tr>
     <td><a href="./maps/Von der Leyen-Hohengeroldseck.png" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px"/></a></td>
