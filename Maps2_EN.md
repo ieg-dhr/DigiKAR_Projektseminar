@@ -1,4 +1,4 @@
-<h4>Comparative mapping of biographies</h4>
+<h2>Comparative mapping of biographies</h2>
 
 <p><em>One approach to comparatively map data is to visualise categorised or rule-based colouring of point geometries.</em></p>
 
@@ -11,3 +11,7 @@
 
 <hr>
 
+<h2>Maps 3_x: Canons_number of ecclesiastical offices and places and functions</h2>
+
+<p>The maps all show, respectively, the places and the number of clerical offices and dignities held there by an individual canon during his lifetime. Such a map was created for each canon individually. 
+A visually more beautiful solution than this is a "print layout" created exemplarily for Marquard Schenk von Kastell, i.e. a map with legend and scale, which is, however, very time-consuming in its creation and could therefore only be made exemplarily for one canon.</p>
