@@ -35,14 +35,14 @@
   </tr>
   <tr>
     <td><img src="./assets/map2.png" alt="drawing" width="40" /></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">
-     <a href="./Maps1_DE.html">Orte der Aufschwörungen</a><br><hr>
-     <a href="./Maps2_DE.html">Kartierung einzelner Biographien</a><br><hr>
-     <a href="./Maps3_DE.html">Gesamtdarstellung der Aktionszentren</a><br></a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_EN.html">
-     <a href="./Maps1_EN.html">Places of swearing-in</a><br><hr>
-     <a href="./Maps2_EN.html">Mapping of individual biographies</a><br><hr>
-     <a href="./Maps3_EN.html">General overview of centres of action</a><br>
+    <td>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_DE.html">Orte der Aufschwörungen</a><br><hr>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_DE.html">Kartierung einzelner Biographien</a><br><hr>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_DE.html">Gesamtdarstellung der Aktionszentren</a><br></a></td>
+    <td>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_EN.html">Places of swearing-in</a><br><hr>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_EN.html">Mapping of individual biographies</a><br><hr>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_EN.html">General overview of centres of action</a><br>
      </a></td>
   </tr>
    <tr>
