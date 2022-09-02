@@ -15,7 +15,7 @@ north and Ingolstadt in the south, since none of the selected cathedral provosts
 cathedral provosts predominantly held the rank of imperial knights, which could be the reason for the low number of swearings-in at the cathedral chapter of 
 Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial count was a prerequisite for access.</p>
 
-<p>The source and literature basis for research on the lives of the individual cathedral provosts varies considerably, but the places of revolt are quite reliably handed down. The individual titles can be taken from the source and literature title.</p>
+<p>The source and literature basis for research on the lives of the individual cathedral provosts varies considerably, but the places of swearings-in have been quite reliably handed down. The individual titles can be taken from the source and literature title.</p>
 
 <hr>
 
