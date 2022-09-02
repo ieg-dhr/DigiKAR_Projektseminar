@@ -30,7 +30,10 @@
   </tr>
   <tr>
     <td><img src="./assets/map2.png" alt="drawing" width="40" /></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">Statische Karten</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">
+     <a href="./Maps1_DE.html">Vergleichende Kartierung des gesamten Datensatzes</a><br>
+     <a href="./Maps2_DE.html">Orte der Aufschwörung (einzelne Domherren)</a><br>
+     <a href="./Maps3_DE.html">Orte der Aufschwörung (kombiniert)</a><br></a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_EN.html">Static maps</a></td>
   </tr>
    <tr>
