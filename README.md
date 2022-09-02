@@ -7,7 +7,12 @@
 
 <hr>
 
-<table width="100%">
+<table style="width:100%">
+<tr>
+    <th style="width:20%"></td>
+    <th>Inhalt</td>
+    <th>Content</td>
+  </tr>
   <tr>
     <td><img src="./assets/home.png" alt="drawing" width="40" /></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></td>
