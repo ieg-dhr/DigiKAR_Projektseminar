@@ -12,11 +12,11 @@
 
 <p align="justify">Die hier verlinkten Einzelkarten für die behandelten Domherren visualisieren allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt.</p>
 
- <table style="width:100%">
+ <table style="width:100%" align="center">
   <tr>
-    <th style="width:30%">Link zur Karte (PDF)</th>
+    <th style="width:30%">Karte (PDF)</th>
     <th style="width:20%">Name</th>
-    <th style="width:30%">Link zur Karte (PDF)</th>
+    <th style="width:30%">Karte (PDF)</th>
     <th style="width:20%">Name</th>
   </tr>
   <tr>
