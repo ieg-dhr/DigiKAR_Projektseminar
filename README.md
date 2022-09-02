@@ -9,9 +9,9 @@
 
 <table style="width:100%">
 <tr>
-    <th style="width:20%"></td>
-    <th>Inhalt</td>
-    <th>Content</td>
+    <th style="width:20%"></th>
+    <th>Inhalt</th>
+    <th>Content</th>
   </tr>
   <tr>
     <td><img src="./assets/home.png" alt="drawing" width="40" /></td>
