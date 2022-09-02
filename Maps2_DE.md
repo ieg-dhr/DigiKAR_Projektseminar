@@ -1,6 +1,6 @@
 <h2>Vergleichende Kartierung mehrerer Biographien</h2>
 
-<p><Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</p>
+<p>Ein Ansatz zur vergleichenden Darstellung von Daten ist die Visualisierung kategorisierter oder regelbasierter Einfärbungen von Punktgeometrien.</p>
 
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="650px" align="center"/></a><br><br><br><p align="justify" style="padding: 10px">Die hier gezeigte Karte zeigt für jeden Dompropst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die Stadt Mainz.</p><br><br><br><br><br><br><br>
 
