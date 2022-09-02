@@ -9,7 +9,7 @@
 chapter were sworn in during their lives. The size of the dots symbolizes the frequency of the swearings in each place. While the number of swearings 
 in a place together with the color highlights the places with several swearings, the dots without number stand for a swearing in of a single cathedral provost.</p>
 
-<p align="justify">The <a href="/information.html">fourteen cathedral provosts</a> who were elected as cathedral provosts in the Mainz cathedral chapter between 1650 and 1817 were considered. In addition to the cathedral chapters in Mainz, Trier, Speyer, Bamberg, Worms, Würzburg, Eichsstätt, Hildesheim and Minden, the map depicts the swearing-in 
+<p align="justify">The <a href="/information_EN.html">fourteen cathedral provosts</a> who were elected as cathedral provosts in the Mainz cathedral chapter between 1650 and 1817 were considered. In addition to the cathedral chapters in Mainz, Trier, Speyer, Bamberg, Worms, Würzburg, Eichsstätt, Hildesheim and Minden, the map depicts the swearing-in 
 of individual cathedral provosts in various other monasteries. The map shows various swearing-in ceremonies in the area between Brunswick and Hanover in the 
 north and Ingolstadt in the south, since none of the selected cathedral provosts was sworn in at chapters further south. The families of the 
 cathedral provosts predominantly held the rank of imperial knights, which could be the reason for the low number of swearings-in at the cathedral chapter of 
