@@ -5,8 +5,7 @@
 <img src="./maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png" width="650px" align="center"/>
 <img src="./maps/Häufigkeit der Aufschwörungsorte ohne Ortsname.png" width="650px" align="center"/>
 
-<p align="justify">Die beiden Karten (mit bzw. ohne Ortsnamen) zeigen die Orte aller Domkapitel und Stiftskapitel, an denen die Dompröbste des Mainzer Domkapitels im Laufe 
-ihres Lebens aufgeschworen wurden. Die Größe der Punkte symbolisiert die Häufigkeit der am jeweiligen Ort getätigten Aufschwörungen. 
+<p align="justify">Die beiden Karten (mit bzw. ohne Ortsnamen) zeigen die Orte aller Domkapitel und Stiftskapitel, an denen die Dompröbste des Mainzer Domkapitels im Laufe ihres Lebens aufgeschworen wurden. Die Größe der Punkte symbolisiert die Häufigkeit der am jeweiligen Ort getätigten Aufschwörungen. 
 Während die Anzahl der Aufschwörungen an einem Ort zusammen mit der Farbe die Orte mit mehreren Aufschwörungen hervorhebt, 
 stehen die Punkte ohne Zahl für eine Aufschwörung eines einzigen Domprobstes.</p> 
 
@@ -17,7 +16,7 @@ Die Familien der Dompröbste entstammen überwiegend aus dem Stand der Reichsrit
 das Fehlen von Aufschwörungen in Straßburg zusammenhängen könnte, da hier der reichsgräfliche Stand als Zugangsvoraussetzung galt.</p>
 
 <p align="justify">Die Quellen- und Literaturgrundlage ist für die Lebenswege der einzelnen Dompröbste ist höchst unterschiedlich, die Aufschwörungsorte sind 
-jedoch recht verlässlich überliefert. Die einzelnen Titel können dem Quellen und Literaturtitel entnommen werden.</p>
+jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_DE">Quellen- und Literaturverzeichnis</a> entnommen werden.</p>
 
 <hr>
 
