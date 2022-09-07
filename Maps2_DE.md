@@ -67,5 +67,5 @@
 
 <p align="justify" style="padding: 10px">Eine optisch schönere Lösung als die oben gezeigten Einzelkarten ist ein exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren exemplarisch vorgenommen werden konnte.</p>
 
-<strong>KARTE EINFÜGEN</strong>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.png"><img src="./maps/Beispiel Drucklayout.png" width="650px" align="center"/></a><p align="justify" style="padding: 10px">
 
