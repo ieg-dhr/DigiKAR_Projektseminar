@@ -9,7 +9,7 @@
 Während die Anzahl der Aufschwörungen an einem Ort zusammen mit der Farbe die Orte mit mehreren Aufschwörungen hervorhebt, 
 stehen die Punkte ohne Zahl für eine Aufschwörung eines einzigen Domprobstes.</p> 
 
-<p align="justify">Es wurden die vierzehn Dompröbste betrachtet, die zwischen 1650 und 1817 im Mainzer Domkapitel zum Domprobst gewählt wurden. Neben den Domkapiteln in Mainz, Trier, Speyer, Bamberg, Worms, Würzburg, Eichsstätt, Hildesheim und Minden stellt die Karte die Aufschwörung 
+<p align="justify">Es wurden die <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">vierzehn Dompröbste</a> betrachtet, die zwischen 1650 und 1817 im Mainzer Domkapitel zum Domprobst gewählt wurden. Neben den Domkapiteln in Mainz, Trier, Speyer, Bamberg, Worms, Würzburg, Eichsstätt, Hildesheim und Minden stellt die Karte die Aufschwörung 
 einzelner Dompröbste in verschiedenen weiteren Stiften dar. Die Karte zeigt verschiedene Aufschwörungen im Gebiet zwischen Braunschweig und Hannover 
 im Norden sowie Ingolstadt im Süden, da keiner der ausgewählten Dompröbste in den weiter süddeutschen Kapiteln aufgeschworen wurde. 
 Die Familien der Dompröbste entstammen überwiegend aus dem Stand der Reichsritter, womit die geringe Zahl an Aufschwörungen im Domkapitel Köln und 
