@@ -13,7 +13,7 @@
 
 <h2>Individual maps: number of ecclesiastical offices per place and functions</h2>
 
-<p>The maps linked below show the places linked with individual clercis and the number of clerical offices and dignities which they held there during their lifetimes. Each map focuses on just one person.</p>
+<p>The maps linked below show the places associated with individual clercis and the number of clerical offices or dignities which they held in each of the mapped places during their lifetimes. Each map focuses on just one person and can be downloaded in PDF format.</p>
 
  <table border="0" style="width: 100%" align="center" style="padding: 20px">
   <tr>
