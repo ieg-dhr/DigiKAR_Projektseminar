@@ -13,20 +13,17 @@
 
 <p>Alle geokodierten Orte mit 5 und mehr Vorkommen sind in der nachstehenden Tabelle aufgeführt. Die räumlichen Informationen in den Originalquellen wurden auf diese modernen Orte abgebildet, um eine automatische Geokodierung zu ermöglichen. Wie in der obigen Punktclusterkarte zu sehen ist, wurden unklare Orte (insbesondere Geburtsorte) summarisch auf "Deutschland" abgebildet, um die damit verbundenen Ereignisse überhaupt in die visuellen Darstellungen aufzunehmen. Die im Projekt erstellten Karten bedürfen daher einer Kontextualisierung und einer kritischen Auseinandersetzung mit dem Nutzer.</p>
 
-<table class="table table-bordered table-hover table-condensed" width="50%" align="center">
+<table width="400px" align="center">
 <thead><tr><th title="Field #2"># Vollständige Addresse</th>
 <th title="Field #3"># Häufigkeit</th>
 </tr></thead>
-<tbody><tr>
-<td>---------------------</td>
-<td>-------------</td>
-</tr>
+<tbody>
 <tr>
-<td>Dom Mainz Germany    </td>
+<td>Dom Mainz Germany</td>
 <td>66           </td>
 </tr>
 <tr>
-<td>Kurfürstliches Schloss Mainz Germany        </td>
+<td>Kurfürstliches Schloss Mainz Germany</td>
 <td>12           </td>
 </tr>
 <tr>
