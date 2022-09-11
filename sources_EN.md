@@ -1,7 +1,5 @@
 <h2>List of primary and secondary sources</h2>
 
-
-<ul>
 <li>Arens, Fritz: Mainzer Inschriften von 1651 bis 1800. I. Die Inschriften des Domes zu Mainz. Mainz 1982 (Beiträge zur Geschichte der Stadt Mainz; 26).</li>
 <li>Bärmann, Johannes: Verzeichnis der Studierenden der alten Universität Mainz. Lieferung I. Bd. 13. Wiesbaden 1979.</li>
 <li>Becker-Huberti, Manfred: Die Tridentinische Reform im Bistum Münster unter Fürstbischof Christoph Bernhard v. Galen 1650 bis 1648. Ein Beitrag zur Geschichte der katholischen Reform. Münster 1978 (Westfalia Sacra; 6).</li>
@@ -52,4 +50,4 @@
 <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Johann_von_Heppenheim_genannt_vom_Saal">Johann von Heppenheim genannt vom Saal</a> [26.07.2022].</li>
 <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Johann_Wilhelm_Wolff_von_Metternich_zur_Gracht">Johann Wilhelm Wolff von Metternich zur Gracht</a> [26.07.2022].</li>
 <li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Adolph_Hund_von_Saulheim">Adolph Hund von Saulheim</a> [16.06.2022].</li>
-<li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Johann_Philipp_Franz_von_Schönborn">Johann Philipp Franz von Schönborn</a> [16.06.2022].</li></ul>
+<li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Johann_Philipp_Franz_von_Schönborn">Johann Philipp Franz von Schönborn</a> [16.06.2022].</li>
