@@ -48,9 +48,8 @@
 <li>Wendehorst, Alfred: Die Bistümer der Kirchenprovinz Mainz. Das Bistum Würzburg. Die Benediktinerabtei und das Adelige Säkularkanonikerstift St. Burkard in Würzburg. Berlin [u.a.] 2001 (Germania Sacra. Neue Folge 40., 6).</li>
 <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Christoph_Rudolf_von_Stadion">Christoph Rudolf von Stadion</a> [25.06.2022].</li> 
 <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Heinrich_Ferdinand_von_der_Leyen_zu_Nickenich">Heinrich Ferdinand von der Leyen zu Nickenich</a> [25.06.2022].</li>
- <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Hugo_Wolfgang_von_Kesselstatt">Hugo Wolfgang von Kesselstatt</a> [27.07.2022].</li>
- <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Johann_von_Heppenheim_genannt_vom_Saal">Johann von Heppenheim genannt vom Saal</a> [26.07.2022].</li>
- <li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Johann_Wilhelm_Wolff_von_Metternich_zur_Gracht">Johann Wilhelm Wolff von Metternich zur Gracht</a> [26.07.2022].</li>
- <li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Adolph_Hund_von_Saulheim">Adolph Hund von Saulheim</a> [16.06.2022].</li>
- <li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Johann_Philipp_Franz_von_Schönborn">Johann Philipp Franz von Schönborn</a> [16.06.2022].</li>
-</ul>
+<li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Hugo_Wolfgang_von_Kesselstatt">Hugo Wolfgang von Kesselstatt</a> [27.07.2022].</li>
+<li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Johann_von_Heppenheim_genannt_vom_Saal">Johann von Heppenheim genannt vom Saal</a> [26.07.2022].</li>
+<li>Wikipedia, Die freie Enzyklopädie: <a href="https://de.wikipedia.org/wiki/Johann_Wilhelm_Wolff_von_Metternich_zur_Gracht">Johann Wilhelm Wolff von Metternich zur Gracht</a> [26.07.2022].</li>
+<li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Adolph_Hund_von_Saulheim">Adolph Hund von Saulheim</a> [16.06.2022].</li>
+<li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Johann_Philipp_Franz_von_Schönborn">Johann Philipp Franz von Schönborn</a> [16.06.2022].</li></ul>
