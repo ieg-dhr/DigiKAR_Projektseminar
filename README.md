@@ -14,27 +14,27 @@
     <th>Content</th>
   </tr>
   <tr>
-    <td><img src="./assets/home.png" alt="drawing" width="40" /></td>
+    <td><img src="./assets/introduction.png" alt="drawing" width="40"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_EN.html">Introduction</a></td>
   </tr>
   <tr>
-    <td><img src="./assets/information.png" alt="drawing" width="40" /></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Untersuchte Personen</a><br><br></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a><br><br></td>
+    <td><img src="./assets/persons.png" alt="drawing" width="40"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Untersuchte Personen</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a><</td>
   </tr>
    <tr>
-    <td><img src="./assets/geocoding.png" alt="drawing" width="40" /></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a><br><br></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a><br><br></td>
+    <td><img src="./assets/geocoding.png" alt="drawing" width="40"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a></td>
   </tr>
   <tr>
-    <td><img src="./assets/map1.png" alt="drawing" width="40" /></td>
+    <td><img src="./assets/map1.png" alt="drawing" width="40"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">Interaktive Karte</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a></td>
   </tr>
   <tr>
-    <td><img src="./assets/map2.png" alt="drawing" width="40" /></td>
+    <td><img src="./assets/map2.png" alt="drawing" width="40"/></td>
     <td>
      <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_DE.html">1) Orte der Aufschwörungen</a><br><br>
      <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_DE.html">2) Kartierung einzelner Biographien</a><br><br>
