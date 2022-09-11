@@ -13,6 +13,7 @@
 <li>Greipl, Egon Johannes: Johann Philipp Franz Reichsfreiherr (seit 1701 Reichsgraf) von (1673–1724). In: Gatz, Erwin (Hrsg.): Die Bischöfe des Heiligen Römischen Reiches 1648-1803. Ein biographisches Lexikon. Berlin 1990, S. 442–444.</li>
 <li>Hersche, Peter: Einleitung und Namenslisten. Bern 1984 (Die deutschen Domkapitel im 17. und 18. Jahrhundert; 1).</li>
 <li>Ioannis, Georg Christian: Syllabus praelatorum ac Canonicorum ecclesiae Metropolitanae Moguntinensis plenior et curatior. o.O. o.D.</li>
+<li>Jürgensmeier, Friedhelm / Büll, Franziskus OSB (Bearb.): Die benediktinischen Mönchs- und Nonnenklöster in Hessen. St. Ottilien 2004 (Germania Benedictina; 7: Hessen), S. 73–90.</li>
 <li>Jürgensmeier, Friedhelm: Leyen-Hohengeroldseck, Damian Friedrich Philipp Karl Reichsgraf von der (1738–1817). In: Gatz, Erwin [Hrsg.]: Die Bischöfe des Heiligen Römischen Reiches 1648 bis 1803. Ein biographisches Lexikon. Berlin 1990, S. 271f.</li> 
 <li>Jürgensmeier, Friedhelm (Hrsg.): Neuzeit und Moderne. Würzburg 2002 (Handbuch der Mainzer Kirchengeschichte; 3, 1).</li>
 <li>Klassert, Martin Ludwig: Das Mainzer Kollegiatstift St. Peter. Bemerkenswertes aus der Geschichte des Stifts, seiner Besitzungen in der Stadt Mainz und seinen Mitgliedern. In: Archiv für hessische Geschichte und Altertumskunde NF 52 (1994), S. 11–138.</li>
@@ -20,7 +21,7 @@
  <li><a href="https://www.dilibri.de/1408118">Kurmainzischer Hof- und Staatskalender. 1740–1789</a> [27.07.2022].</li>
 <li>Lahrkamp, Helmut: Dietrich Caspar v. Fürstenberg (1615–1675). In: Lahrkamp, Helmut / Richtering, Helmut / Schöne, Manfred / Theuerkauf, Gerhard [Hrsg.]: Fürstenbergsche Geschichte. Bd. 3: Die Geschichte des Geschlechts Fürstenberg im 17. Jahrhundert. Münster 1971, S. 96–106.</li> 
 <li>Landeshauptarchiv Koblenz: Bestand 48, Nr. 117, 118, 119, 120.</li>
-<li>Luschberger, Franz: Jürgensmeier, Friedhelm / Büll, Franziskus OSB (Bearb.): Die benediktinischen Mönchs- und Nonnenklöster in Hessen. St. Ottilien 2004 (Germania Benedictina; 7: Hessen), S. 73–90.</li>
+<li>Luschberger, Franz: <a href="http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html">Das Mainzer Domkapitel als Ortsherrschaft in Flörsheim und Hochheim </a>, Historiches Eschborn: Berichte [26.07.2022].
 <li>Nottarp, Hermann: Ein Mindener Dompropst des 18. Jahrhundert. In: Westfälische Zeitschrift. Zeitschrift für vaterländische Geschichte und Altertumskunde 103/104 (1954), S. 93–163.</li>
 <li>Schleicher, Herbert: Ernst von Oidtman und seine genealogisch-heraldische Sammlung in der Universitäts-Bibliothek zu Köln, Bd. 16. Köln 1998.</li>
 <li>Ostrowitzki, Anja: Inventar der mittelalterlichen Urkunden des Archivs der Fürsten von der Leyen im Landeshauptarchiv Koblenz. Koblenz 2010 (Veröffentlichungen der Landesarchivverwaltung Rheinland-Pfalz; 112).</li>
