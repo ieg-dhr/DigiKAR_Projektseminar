@@ -21,7 +21,7 @@
   <tr>
     <td><img src="./assets/persons.png" alt="drawing" width="40"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Untersuchte Personen</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a><</td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a></td>
   </tr>
    <tr>
     <td><img src="./assets/geocoding.png" alt="drawing" width="40"/></td>
