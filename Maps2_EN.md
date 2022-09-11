@@ -42,9 +42,9 @@
  </tr>
  <tr>
    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px" class="zoom"/></a></td>
-   <td>Von der Leyen-Hohengeroldseck</td>
+   <td>Damian Friedrich Graf von der Leyen (1781-1817, also: von der Leyen-Hohengeroldseck)</td>
      <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen.pdf" target="_blank"><img src="./maps/Von der Leyen.png" width="250px" class="zoom"/></a></td>
-    <td>Von der Leyen</td>  
+    <td>Heinrich Ferdinand von der Leyen (1700-1714)</td>  
  </tr>  
  <tr>
     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich.pdf" target="_blank"><img src="./maps/Von Metternich.png" width="250px" class="zoom"/></a></td>
