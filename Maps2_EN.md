@@ -15,7 +15,7 @@
 
 <p>The maps linked below show the places linked with individual clercis and the number of clerical offices and dignities which they held there during their lifetimes. Each map focuses on just one person.</p>
 
- <table style="width:100%">
+ <table border="0" style="width: 100%" align="center" style="padding: 20px">
   <tr>
     <th style="width:30%">Open map (PDF)</th>
     <th style="width:20%">Name</th>
