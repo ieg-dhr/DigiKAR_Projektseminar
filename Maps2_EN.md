@@ -70,5 +70,5 @@
 
 <p align="justify">A visually more appealing solution is to add legends and scales to the maps, based on a QGIS "print layout". One such map was exemplarily created for <strong>Marquard Schenk von Kastell</strong>. It is, however, very time-consuming to create these maps and could therefore only be demonstrated for one person.</p>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.png"><img src="./maps/Beispiel Drucklayout.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.pdf"><img src="./maps/Beispiel Drucklayout.png" width="650px" align="center"/></a>
  
