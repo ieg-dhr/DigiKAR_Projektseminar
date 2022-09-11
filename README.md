@@ -7,7 +7,7 @@
 
 <hr>
 
-<table style="width:100%" align="center">
+<table border="0" style="width: 100%" align="center" style="padding: 20px">
 <tr>
     <th style="width:20%"></th>
     <th>Inhalt</th>
