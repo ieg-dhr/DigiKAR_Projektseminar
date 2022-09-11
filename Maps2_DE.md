@@ -2,9 +2,15 @@
 
 <p>Ein Ansatz zur vergleichenden Darstellung von Daten ist die kategorisierte oder regelbasierte Einfärbungen von Punktgeometrien.</p>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="650px" align="center"/></a><p align="justify">Die obige Karte zeigt für jeden Domprobst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die nähere Umgebung der Stadt Mainz.</p><br><br><br><br><br><br><br>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="650px" align="center"/></a>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a><p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p>
+<p align="justify">Die obige Karte zeigt für jeden Domprobst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die nähere Umgebung der Stadt Mainz.</p>
+
+<hr>
+
+<p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (*1615–†1675)</strong>, der sich in Florenz und Rom sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt.</p>
+
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a>
 
 <hr>
 
@@ -12,7 +18,7 @@
 
 <p align="justify">Die hier verlinkten Einzelkarten für die behandelten Domherren visualisieren allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Es wurde für jeden Domherren eine solche Karte einzeln erstellt.</p>
 
- <table style="width:100%" align="center">
+ <table border="0" style="width: 100%" align="center" style="padding: 20px">
   <tr>
     <th style="width:30%">Karte (PDF)</th>
     <th style="width:20%">Name</th>
