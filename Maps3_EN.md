@@ -11,24 +11,21 @@
 <hr>
 
 <p align="justify">All geocoded places with 5 and more occurrences are listed in the table below. Spatial information in the original sources were mapped to these modern places to permit an automated geo-coding. As demonstrated in the point-cluster map above, unclear places (especially places of birth) were summarily mapped to "Germany" to include the events linked with them in visual representations at all. Therefore, the maps created in the project require contextualisation and a critical user engagement.</p>
-<table class="table table-bordered table-hover table-condensed" align="center">
+<table width="400px" align="center">
 <thead><tr><th title="Field #2"># Full Address</th>
 <th title="Field #3"># place_count</th>
 </tr></thead>
-<tbody><tr>
-<td>---------------------</td>
-<td>-------------</td>
-</tr>
+<tbody>
 <tr>
-<td>Dom Mainz Germany    </td>
+<td>Dom Mainz Germany</td>
 <td>66           </td>
 </tr>
 <tr>
-<td>Kurfürstliches Schloss Mainz Germany        </td>
+<td>Kurfürstliches Schloss Mainz Germany</td>
 <td>12           </td>
 </tr>
 <tr>
-<td>Mainz Germany        </td>
+<td>Mainz Germany</td>
 <td>12           </td>
 </tr>
 <tr>
@@ -60,5 +57,4 @@
 <td>5            </td>
 </tr>
 </tbody></table>
-
 <hr>
