@@ -4,8 +4,8 @@
 
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
 
-<p padding="10px">The map shown here displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studied far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
-<p padding="10px">One example of a more mobile cleric in the analysed data set is Dietich Kaspar von Fürstenberg who spent time in Florence and Rome as well as serveral places in present-day Belgium and France.</p>
+<p align="justify">The map shown here displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studied far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
+<p align="justify">One example of a more mobile cleric in the analysed data set is Dietich Kaspar von Fürstenberg who spent time in Florence and Rome as well as serveral places in present-day Belgium and France.</p>
 
 <a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a>
 
@@ -68,7 +68,7 @@
 
 <h4>Maps with legends and scales</h4>
 
-<p align="justify" style="padding: 10px">A visually more appealing solution is to add legends and scales to the maps, based on a QGIS "print layout". One such map was exemplarily created for <strong>Marquard Schenk von Kastell</strong>. It is, however, very time-consuming to create these maps and could therefore only be demonstrated for one person.</p>
+<p align="justify">A visually more appealing solution is to add legends and scales to the maps, based on a QGIS "print layout". One such map was exemplarily created for <strong>Marquard Schenk von Kastell</strong>. It is, however, very time-consuming to create these maps and could therefore only be demonstrated for one person.</p>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.png"><img src="./maps/Beispiel Drucklayout.png" width="650px" align="center"/></a><p align="justify" style="padding: 10px">
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.png"><img src="./maps/Beispiel Drucklayout.png" width="650px" align="center"/></a>
  
