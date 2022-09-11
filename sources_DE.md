@@ -22,6 +22,8 @@
 <li>Lahrkamp, Helmut: Dietrich Caspar v. Fürstenberg (1615–1675). In: Lahrkamp, Helmut / Richtering, Helmut / Schöne, Manfred / Theuerkauf, Gerhard [Hrsg.]: Fürstenbergsche Geschichte. Bd. 3: Die Geschichte des Geschlechts Fürstenberg im 17. Jahrhundert. Münster 1971, S. 96–106.</li> 
 <li>Landeshauptarchiv Koblenz: Bestand 48, Nr. 117, 118, 119, 120.</li>
 <li>Luschberger, Franz: <a href="http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html">Das Mainzer Domkapitel als Ortsherrschaft in Flörsheim und Hochheim </a>, Historiches Eschborn: Berichte [26.07.2022].
+<li>May, Georg: Die Organisation von Gerichtsbarkeit und Verwaltung in der Erzdiözese Mainz vom hohen Mittelalter bis zum Ende der Reichskirche. Bd. 1: Die Zentralbehörden. Mainz 2004 (Quellen und Abhandlungen zur mittelrheinischen Kirchengeschichte; 3).</li>
+<li>Noll, Christof / Burkhardt, Johannes: Bleidenstadt. In: Jürgensmeier, Friedhelm / Büll, Franziskus OSB (Bearb.): Die benediktinischen Mönchs- und Nonnenklöster in Hessen. St. Ottilien 2004 (Germania Benedictina; 7: Hessen), S. 73–90.</li>
 <li>Nottarp, Hermann: Ein Mindener Dompropst des 18. Jahrhundert. In: Westfälische Zeitschrift. Zeitschrift für vaterländische Geschichte und Altertumskunde 103/104 (1954), S. 93–163.</li>
 <li>Schleicher, Herbert: Ernst von Oidtman und seine genealogisch-heraldische Sammlung in der Universitäts-Bibliothek zu Köln, Bd. 16. Köln 1998.</li>
 <li>Ostrowitzki, Anja: Inventar der mittelalterlichen Urkunden des Archivs der Fürsten von der Leyen im Landeshauptarchiv Koblenz. Koblenz 2010 (Veröffentlichungen der Landesarchivverwaltung Rheinland-Pfalz; 112).</li>
