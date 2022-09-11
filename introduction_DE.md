@@ -42,3 +42,5 @@ vorhanden waren, wurden Entscheidungen getroffen, indem Quantität und Qualität
 vornherein möglich war, durch eigene Quellen- und Archivrecherchen Zweifelsfälle zu entscheiden.</p>
 
 <p align="justify">Im Anschluss an die Recherchearbeit wurden neben einer <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">interaktiven Karte</a> auch <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/static-maps_DE.html">statische Karten</a> zu verschiedenen Schwerpunkten erstellt. Zum Verständnis sind die Karten jeweils mit einer kurzen Beschreibung versehen, die das Erkenntnisinteresse, die dargestellten Pröbste sowie die wichtigsten graphischen Symbole kurz erklären.</p>
+
+<p>Lukas Theobald, August 2022</p>
