@@ -189,7 +189,7 @@
     "event_before-date":"#",
     "event_start":"19.02.1639",
     "event_end":"#",
-    "display_date":"1619",
+    "display_date":"1639",
     "event_type":"Resignation",
     "pers_function":"Stiftsherr",
     "inst_name":"Stift St. Burkhard",
@@ -280,7 +280,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.91876,49.78583 ]
+       "coordinates":  [ 9.91876, 49.78583 ]
     },
     "properties": {
     "FIELD1":168,
@@ -305,7 +305,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 11.4226498,48.7667395 ]
+       "coordinates":  [ 11.4226498, 48.7667395 ]
     },
     "properties": {
     "FIELD1":194,
@@ -555,7 +555,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 9.9245707,49.7911111 ]
+       "coordinates":  [ 9.9245707, 49.7911111 ]
     },
     "properties": {
     "FIELD1":272,
