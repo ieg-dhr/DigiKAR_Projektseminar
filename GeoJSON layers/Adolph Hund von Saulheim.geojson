@@ -205,7 +205,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10.451526,51.165691 ]
+       "coordinates":  [ 8.274465,49.998757 ]
     },
     "properties": {
     "FIELD1":165,
@@ -242,8 +242,8 @@
     "display_date":"1609",
     "event_type":"Tonsur",
     "pers_function":"Tonsur",
-    "inst_name":"#",
-    "place_name":"#",
+    "inst_name":"unbekannte Institution",
+    "place_name":"unbekannter Ort",
     "place_count":24,
     "country":"Germany",
     "# Full Address":"Germany",
@@ -267,8 +267,8 @@
     "display_date":"1609",
     "event_type":"Weihe",
     "pers_function":"niedere Weihen",
-    "inst_name":"#",
-    "place_name":"#",
+    "inst_name":"unbekannte Institution",
+    "place_name":"unbekannter Ort",
     "place_count":24,
     "country":"Germany",
     "# Full Address":"Germany",
@@ -280,7 +280,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 10.451526,51.165691 ]
+       "coordinates":  [ 9.91876,49.78583 ]
     },
     "properties": {
     "FIELD1":168,
@@ -367,7 +367,7 @@
     "display_date":"1618",
     "event_type":"Beurlaubung zum studium voluntarium",
     "pers_function":"#",
-    "inst_name":"#",
+    "inst_name":"unbekannte Institution",
     "place_name":"Mainz",
     "place_count":12,
     "country":"Germany",
@@ -442,7 +442,7 @@
     "display_date":"1668",
     "event_type":"Beisetzung",
     "pers_function":"#",
-    "inst_name":"",
+    "inst_name":"Marienkapelle des Doms",
     "place_name":"Mainz",
     "place_count":1,
     "country":"Germany",
