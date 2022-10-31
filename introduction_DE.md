@@ -8,9 +8,9 @@
 <p align="justify">Nach einer Phase relativ breiter Recherche zu den Lebensläufen der Dompröbste wurde festgelegt, dass für die Visualisierung eine Konzentration auf die geistlichen Ämter der Dompröbste erfolgen sollte, da diese verhältnismäßig gut dokumentiert sind und zudem für einen geistlichen Staat und dessen Eliten eine besondere Bedeutung besitzen. Zu diesen Ämtern wurden neben einer <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">interaktiven Karte</a> auch statische Karten mit verschiedenen Schwerpunkten erstellt:
 
      <ol>
-     <li>Orte der Aufschwörungen<br><br></li>
-     <li>Kartierung einzelner Biographien<br><br></li>
-     <li>Gesamtdarstellung der Aktionszentren<br></li>
+     <li>Orte der Aufschwörungen</li>
+     <li>Kartierung einzelner Biographien</li>
+     <li>Gesamtdarstellung der Aktionszentren</li>
      </ol>
    
 
