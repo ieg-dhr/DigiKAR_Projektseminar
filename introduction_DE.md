@@ -7,13 +7,10 @@
 <p align="justify">Eine günstige Quellenlage ist dabei freilich immer nur in Relation etwa gegenüber dem Mittelalter zu verstehen: Denn auch die Recherchearbeit über die Dompröbste war ein langwieriger Prozess, währenddessen immer wieder neue Erkenntnisse gewonnen werden konnten, wodurch sich freilich auch neue Fragen und Probleme stellten, die es zu beantworten und lösen galt. Herangezogen wurden Literatur zu den einzelnen Domkapiteln und Diözesen, Bischofsbiographien, Inschriftensammlungen, Universitätsmatrikeln, etc. Wo diese nicht ausreichten, war der Rückgriff auf die Quellen nötig, indem beispielsweise die Mainzer Hof- und Staatskalender des 18. Jahrhunderts herangezogen oder Anfragen an Archive gestellt wurden. Nichtsdestoweniger konnten für einige Ereignisse nur näherungsweise Daten bestimmt werden oder es ließen sich nur Datum und Art des Ereignisses ausmachen, nicht jedoch der Ort ermitteln. Beim Vorliegen widersprüchlicher Informationen wiederum mussten Entscheidungen getroffen werden, welcher Information der Vorzug zu geben wäre.</p>
 <p align="justify">Nach einer Phase relativ breiter Recherche zu den Lebensläufen der Dompröbste wurde festgelegt, dass für die Visualisierung eine Konzentration auf die geistlichen Ämter der Dompröbste erfolgen sollte, da diese verhältnismäßig gut dokumentiert sind und zudem für einen geistlichen Staat und dessen Eliten eine besondere Bedeutung besitzen. Zu diesen Ämtern wurden neben einer <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">interaktiven Karte</a> auch statische Karten mit verschiedenen Schwerpunkten erstellt:
 
-     <ol>
      <li>Orte der Aufschwörungen</li>
      <li>Kartierung einzelner Biographien</li>
      <li>Gesamtdarstellung der Aktionszentren</li>
-     </ol>
-   
-
+    
 Zum Verständnis sind die Karten jeweils mit einer kurzen Beschreibung versehen, die das Erkenntnisinteresse, die dargestellten Pröbste sowie die wichtigsten graphischen Symbole kurz erklären.</p>
 
 <hr>
