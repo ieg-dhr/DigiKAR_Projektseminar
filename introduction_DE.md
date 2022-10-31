@@ -9,5 +9,5 @@
 
 <hr>
 
-<p>Erste Entwurf: Lukas Theobald, August 2022</p>
+<p>Erster Entwurf: Lukas Theobald, August 2022</p>
 <p>Endfassung: Bettina Braun, Oktober 2022</p>
