@@ -13,7 +13,7 @@
 
 <h2>Individual maps: number of ecclesiastical offices per place and functions</h2>
 
-<p>The maps linked below show the places associated with individual clercis and the number of clerical offices or dignities which they held in each of the mapped places during their lifetimes. Each map focuses on just one person and can be downloaded in PDF format.</p>
+<p align="justify">The individual maps linked here visualise the places and the number of clerical offices and dignities held by individual clerics in the course of their lives. A larger dot per place means that several functions were performed there. Activities in unknown places are indicated by a placeholder dot marked "unknown" in the centre of Germany. The hash sign <b>#</b> was used to display unknown functions. One individual map was created for each person, but the clustering of features in individual locations made the positioning of the labels challenging. The students who created the maps had no previous QGIS experience, so the focus was on the content of the maps rather than design quality. All maps can be downloaded in PDF format.<p>
 
  <table border="0" style="width: 100%" align="center" style="padding: 20px">
   <tr>
