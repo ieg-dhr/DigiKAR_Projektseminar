@@ -173,7 +173,7 @@
     "country":"Germany",
     "# Full Address":"Dom Trier Germany",
     "comment":"#",
-    "source":"Hersche. Einleitung. S. 185.. Dylong. Domkapitel Hildesheim. S. 372"
+    "source":"Hersche. Einleitung. S. 185. Dylong. Domkapitel Hildesheim. S. 372"
     }
   },
   {
@@ -305,7 +305,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.08212,50.03552, ]
+       "coordinates":  [ 8.08212,50.03552 ]
     },
     "properties": {
     "FIELD1":250,
