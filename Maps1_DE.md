@@ -24,4 +24,13 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Aufschwörungen_most-frequent.png"><img src="./maps/Aufschwörungen_most-frequent.png" width="650px" align="center"/></a>
 
-<p align="justify">Diese Karte beruht auf der <em>alternativen Darstellung</em> oben, wobei hier eingezoomt, also ein kleinerer Ausschnitt gezeigt wird. Dies geschieht aus praktischen Gründen – durch das Einzoomen werden die unterschiedlichen Punktgrößen deutlicher. Statt Ortsnamen wurden hier die Namen beteiligter Institutionen angegeben. Für Institutionen mit besonders vielen Aufschwörungen wurde die konkrete Anzahl der erfassten Aufschwörungen angegeben. Aus Gründen der Übersichtlichkeit konnten allerdings nur für Mainz die einzelnen Stifte genannt werden. Die im April 1609 im Stift St. Burkhard in Würzburg erfolgte Aufschwörung von Adolph Hund von Saulheim ist in der Karte <b>nicht</b> sichtbar. Für Würzburg werden ledigliche die sieben Aufschwörungen im dortigen Domkapitel gezeigt. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
+<p align="justify">Diese Karte beruht auf der <em>alternativen Darstellung</em> oben, wobei hier eingezoomt, also ein kleinerer Ausschnitt gezeigt wird. Dies geschieht aus praktischen Gründen – durch das Einzoomen werden die unterschiedlichen Punktgrößen deutlicher. Statt Ortsnamen wurden hier die Namen beteiligter Institutionen angegeben. Bei Institutionen mit besonders vielen Aufschwörungen wird die konkrete Anzahl der erfassten Aufschwörungen angezeigt:
+
+  <ol>
+    <li>Domkapitel Mainz: 14</li>
+    <li>Domkapitel Würzburg: 7</li>
+    <li>Domkapitel Trier: 6</li>
+    <li>Stift St. Alban, Mainz: 5</li>
+  </ol>
+
+Aus Gründen der Übersichtlichkeit konnten allerdings nur für Mainz die einzelnen Stifte genannt werden. Die im April 1609 im Stift St. Burkhard in Würzburg erfolgte Aufschwörung von Adolph Hund von Saulheim ist in der Karte <b>nicht</b> sichtbar. Für Würzburg werden ledigliche die sieben Aufschwörungen im dortigen Domkapitel gezeigt. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
