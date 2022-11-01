@@ -26,47 +26,53 @@
     <th style="width:20%">Name</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Breidbach-Bürresheim.pdf" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px" class="zoom" class="zoom"/></a></td>
-    <td>Karl Emmerich von Breitbach-Bürresheim (1738-1743)</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Castell.pdf" target="_blank"><img src="./maps/Von Castell.png" width="250px" class="zoom"/></a></td>
-    <td>Markwart Schenk von Kastell / Castell (1675-1685)</td>
+    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf" target="_blank"><img src="./maps/Von Saulheim.png" width="250px" class="zoom"/></a></td>
+    <td>Adolf Hund von Saulheim (1652-1668)</td>
+  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf" target="_blank"><img src="./maps/Von Saal.png" width="250px" class="zoom"/></a></td>
+    <td>Johann von Heppenheim genannt von Saal (1668-1672)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Dreyborn.pdf" target="_blank"><img src="./maps/Von Dreyborn.png" width="250px" class="zoom"/></a></td>
-    <td>Heinrich Wilhelm Harff von Dreyborn (1779-1781)</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Eltz.pdf" target="_blank"><img src="./maps/Von Eltz.png" width="250px" class="zoom"/></a></td>
-    <td>Hugo Franz Karl von Eltz (1743-1779)</td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Fürstenberg.pdf" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px" class="zoom"/></a></td>
-    <td>Dietrich Kaspar von Fürstenberg (1673-1675)</td>
-  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von Kesselstatt.png" width="250px" class="zoom"/></a></td>
-  <td>Hugo Wolfgang von Kesselstadt (1724-1738)</td>
- </tr>
- <tr>
-   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px" class="zoom"/></a></td>
-   <td>Damian Friedrich Graf von der Leyen (1781-1817, auch: von der Leyen-Hohengeroldseck)</td>
-     <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen.pdf" target="_blank"><img src="./maps/Von der Leyen.png" width="250px" class="zoom"/></a></td>
-    <td>Heinrich Ferdinand von der Leyen (1700-1714)</td>  
- </tr>  
- <tr>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich.pdf" target="_blank"><img src="./maps/Von Metternich.png" width="250px" class="zoom"/></a></td>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich.pdf" target="_blank"><img src="./maps/Von Metternich.png" width="250px" class="zoom"/></a></td>
     <td>Lothar Friedrich von Metternich-Burscheid (1672-1673)</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf" target="_blank"><img src="./maps/Von Saal.png" width="250px" class="zoom"/></a></td>
-    <td>Johann von Heppenheim genannt von Saal (1668-1672)</td>
-  </tr>  
- <tr>
-      <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf" target="_blank"><img src="./maps/Von Saulheim.png" width="250px" class="zoom"/></a></td>
-    <td>Adolf Hund von Saulheim (1652-1668)</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Schönborn.pdf" target="_blank"><img src="./maps/Von Schönborn.png" width="250px" class="zoom"/></a></td>
-    <td>Johann Philipp Franz Graf von Schönborn (1714-1724)</td>
-  </tr>  
+  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Fürstenberg.pdf" target="_blank"><img src="./maps/Von Fürstenberg.png" width="250px" class="zoom"/></a></td>
+    <td>Dietrich Kaspar von Fürstenberg (1673-1675)</td>
+  </tr>
+ 
+   <tr>
+      <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Castell.pdf" target="_blank"><img src="./maps/Von Castell.png" width="250px" class="zoom"/></a></td>
+    <td>Markwart Schenk von Castell (1675-1685)</td>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Wolff-Metternich zur Gracht.pdf" target="_blank"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px" class="zoom"/></a></td>
+    <td>Johann Wilhelm Wolff-Metternich von der Gracht (1685-1694)</td>
+ </tr>
+ 
  <tr>
    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Stadion.pdf" target="_blank"><img src="./maps/Von Stadion.png" width="250px" class="zoom"/></a></td>
-    <td>Christoph Rudolf von Stadion (1695-1700)</td>
-    <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Wolff-Metternich zur Gracht.pdf" target="_blank"><img src="./maps/Wolff-Metternich zur Gracht.png" width="250px" class="zoom"/></a></td>
-    <td>Johann Wilhelm Wolff-Metternich von der Gracht (1685-1694)</td>
+    <td>Christoph Rudolf von Stadion (1695-1700)</td> 
+  <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen.pdf" target="_blank"><img src="./maps/Von der Leyen.png" width="250px" class="zoom"/></a></td>
+    <td>Heinrich Ferdinand von der Leyen (1700-1714)</td>  
+ </tr>  
+ 
+ <tr>
+ <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Schönborn.pdf" target="_blank"><img src="./maps/Von Schönborn.png" width="250px" class="zoom"/></a></td>
+    <td>Johann Philipp Franz Graf von Schönborn (1714-1724)</td>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Kesselstatt.pdf" target="_blank"><img src="./maps/Von Kesselstatt.png" width="250px" class="zoom"/></a></td>
+  <td>Hugo Wolfgang von Kesselstadt (1724-1738)</td>
+  </tr>  
+ 
+ <tr>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Breidbach-Bürresheim.pdf" target="_blank"><img src="./maps/Von Breidbach-Bürresheim.png" width="250px" class="zoom" class="zoom"/></a></td>
+    <td>Karl Emmerich von Breitbach-Bürresheim (1738-1743)</td>
+ <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Eltz.pdf" target="_blank"><img src="./maps/Von Eltz.png" width="250px" class="zoom"/></a></td>
+    <td>Hugo Franz Karl von Eltz (1743-1779)</td>
   </tr>
+ 
+ <tr>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Dreyborn.pdf" target="_blank"><img src="./maps/Von Dreyborn.png" width="250px" class="zoom"/></a></td>
+    <td>Heinrich Wilhelm Harff von Dreyborn (1779-1781)</td>
+   <td><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf" target="_blank"><img src="./maps/Von der Leyen-Hohengeroldseck.png" width="250px" class="zoom"/></a></td>
+   <td>Damian Friedrich Graf von der Leyen (1781-1817, auch: von der Leyen-Hohengeroldseck)</td>
+  </tr>
+ 
 </table> 
 
 <h4>Karten mit Legenden und Maßstabsangaben</h4>
