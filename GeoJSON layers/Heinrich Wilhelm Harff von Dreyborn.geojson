@@ -355,7 +355,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.6546359,51.9661366 ]
+       "coordinates":  [ 7.661411266938917,51.96575120236991 ]
     },
     "properties": {
     "FIELD1":279,
