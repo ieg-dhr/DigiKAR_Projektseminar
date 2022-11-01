@@ -33,4 +33,4 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
     <li>Stift St. Alban, Mainz: 5</li>
   </ol>
 
-Aus Gründen der Übersichtlichkeit konnten allerdings nur für Mainz die einzelnen Stifte genannt werden. Die im April 1609 im Stift St. Burkhard in Würzburg erfolgte Aufschwörung von Adolph Hund von Saulheim ist in der Karte <b>nicht</b> sichtbar. Für Würzburg werden ledigliche die sieben Aufschwörungen im dortigen Domkapitel gezeigt. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
+Aus Gründen der Übersichtlichkeit konnten allerdings nur für Mainz die einzelnen Stifte genannt werden. Die im April 1609 im Stift St. Burkhard in Würzburg erfolgte Aufschwörung von Adolph Hund von Saulheim ist in der Karte <b>nicht</b> sichtbar. Für Würzburg werden lediglich die sieben Aufschwörungen im dortigen Domkapitel gezeigt. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
