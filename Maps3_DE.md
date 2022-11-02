@@ -5,7 +5,7 @@
 
 <hr>
 
-<p>Die Karte unten zeigt die numerischen Häufigkeiten aller Ereignisse pro Ort, wobei hier aufgrund der Zoomebene benachbarte Orte zu einem gemeinsamen Ortspunkt verschmelzen. In absoluten Zahlen ist der Mainzer Dom mit 66 erfassten Ereignissen der häufigste Ort. Dazu kommen weitere Orte (z.B. Stifte) innerhalb der Stadt Mainz. 22 Orte, die als "Deutschland" im Zentrum der heutigen Bundesrepublik kartiert sind, bezeichnen biografische Ereignisse, zu denen die Quellen keine konkreten räumlichen Angaben machten. In der Darstellungen unten überlagern sich der Platzhalter für unbekannte Orte und bekannte Orten im heutigen Thüringen (Ortspunkt "27"). In der Karte oben ist der Platzhalter hellgrün hervorgehoben.</p>
+<p>Die Karte unten zeigt die numerischen Häufigkeiten aller Ereignisse pro Ort, wobei hier aufgrund der Zoomebene benachbarte Orte zu einem gemeinsamen Ortspunkt verschmelzen. In absoluten Zahlen ist der Mainzer Dom mit 66 erfassten Ereignissen der häufigste Ort. Dazu kommen weitere Orte (z.B. Stifte) innerhalb der Stadt Mainz. 22 Orte, die als "Deutschland" im Zentrum der heutigen Bundesrepublik kartiert sind, bezeichnen biografische Ereignisse, zu denen die Quellen keine konkreten räumlichen Angaben machten. In der Darstellungen unten überlagern sich der Platzhalter für unbekannte Orte und fünf bekannte Orte in der Nähe des geometrischen Zentrums ("27"). In der Karte oben ist der Platzhalter hellgrün hervorgehoben.</p>
 
 <a href="./maps/Domherren_places-frequency_2.png"><img src="./maps/Domherren_places-frequency_2.png" width="650px" align="center"/></a>
 
