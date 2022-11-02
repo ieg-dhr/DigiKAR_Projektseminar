@@ -6,7 +6,7 @@
 <hr>
 
 <a href="./maps/Domherren_places-frequency_2.png"><img src="./maps/Domherren_places-frequency_2.png" width="650px" align="center"/></a>
-<p align="justify">The second map indicates the numerical frequencies of place names (mostly geocoded on institution level and clustered depending on zoom level). In absolute numbers, the cathedral of Mainz (Dom Mainz) is the most frequent place with 65 occurrences. More than 20 places mapped as "Germany" in the centre of the present-day German Federal Republic denote biographic events for which the sources did not provide specific spatial information. Missing or ambiguous spatial information as well as the high frequency of events within the present-day city of Mainz are challenges for cartographic representations of the collected data.</p>
+<p align="justify">The second map indicates the numerical frequencies of place names (mostly geocoded on institution level and clustered depending on zoom level). In absolute numbers, the cathedral of Mainz (Dom Mainz) is the most frequent place with 66 occurrences. In addition, there are several less prominent places (e.g. monasteries) within the city of Mainz. More than 20 places mapped as "Germany" in the centre of the present-day German Federal Republic denote biographic events for which the sources did not provide specific spatial information. In the map below, the placeholder dot for unknown places and five known places near the geometric centre of Germany overlap ("27"). In the map above, the placeholder is highlighted in light green. Missing or ambiguous spatial information as well as the high frequency of events within the present-day city of Mainz are challenges for cartographic representations of the collected data.</p>
 
 <hr>
 
