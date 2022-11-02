@@ -13,8 +13,6 @@
 
 <p align="justify"><strong>EN:</strong> This repository contains data and visualisations of early modern clerical biographies. The data were collected by students of history at <a href="https://www.uni-mainz.de/eng/">Mainz University</a> as part of an MA seminar in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
-<hr>
-
 <table border="0" style="width: 100%" align="center" style="padding:20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
