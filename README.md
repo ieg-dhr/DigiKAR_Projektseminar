@@ -3,7 +3,7 @@
 <p align="justify"><strong>DE:</strong> Dieses Repositorium enthält Daten und Visualisierungen frühneuzeitlicher Klerikerbiographien. Die Daten wurden von Geschichtsstudierenden der <a href="https://www.uni-mainz.de/">Universität Mainz</a> im Rahmen eines MA-Seminars im Sommersemester 2022 erhoben. Hauptziel des Seminars war es, die Studierenden im Umgang mit historischen Quellen zu schulen und ontologische Probleme zu diskutieren, die sich aus wissenschaftlichen Versuchen ergeben, biographische und räumliche Informationen zu strukturieren und zu normalisieren. Das studentische Projekt ist Teil des <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekts, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p>
 
 <div class="container" align="center">
-<img src="./assets/WhiteBox.png" width="110px" style="padding:20px" style="float:left"/>
+<img src="./assets/WhiteBox.png" width="75px" style="padding:20px" style="float:left"/>
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="100px" style="padding:20px" style="float:left"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding:10px; float:left"/></a> 
     <a href="https://www.uni-mainz.de/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" style="padding:20px; float:left"/></a>
@@ -15,7 +15,7 @@
 
 <hr>
 
-<table border="0" style="width: 100%" align="center" style="padding: 20px" cellspacing="0" cellpadding="0">
+<table border="0" style="width: 100%" align="center" style="padding:20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
     <th>Inhalt                              </th>
