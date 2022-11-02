@@ -4,12 +4,12 @@
 
 <hr>
 <div class="container" align="center">
-<img src="./assets/WhiteBox.png" width="100px" style="padding:20px" style="float:left"/>
+<img src="./assets/WhiteBox.png" width="150px" style="padding:20px"/>
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="100px" style="padding:20px" style="float:left"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding:10px; float:left"/></a> 
     <a href="https://www.uni-mainz.de/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" style="padding:20px; float:left"/></a>
     <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding:20px; float:left"/></a>
-    <img src="./assets/WhiteBox.png" width="100px" style="padding:20px" style="float:left"/>
+    <img src="./assets/WhiteBox.png" width="150px" style="padding:20px" style="float:left"/>
 </div>
 <hr>
 
