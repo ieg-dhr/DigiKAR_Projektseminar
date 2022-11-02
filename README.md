@@ -68,10 +68,10 @@
 
 <h4>Lehrende / teaching staff</h4>
 <p align="justify">
-<em>Seminarleitung und historische Inhalte / course coordination and historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun (JGU Mainz)</a><br>
-<em>Unterstützung der Datensammlung und Bibliographie / data collection support and bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel (JGU Mainz)</a><br>
-<em>Lehrbeitrag Datenvisualisierung und Kartographie / teaching contribution on data visualisation and cartography:</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser (IfL Leipzig)</a><br>
-<em>Lehrbeitrag QGIS und technische Unterstützung / teaching contribution on QGIS and technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget (IEG Mainz / Universität Maastricht)</a><br> 
+<em>Seminarleitung & historische Inhalte / course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun (JGU Mainz)</a><br>
+<em>Unterstützung der Datensammlung & Bibliographie / data collection support & bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel (JGU Mainz)</a><br>
+<em>Einführung in die wissenschaftliche Kartographie / introduction to scientific cartography:</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser (IfL Leipzig)</a><br>
+<em>Einführung in QGIS & technische Unterstützung / introduction to QGIS & technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget (IEG Mainz / Universität Maastricht)</a><br> 
 
 <h4>Beteiligte Studierende / participating students</h4>
 
