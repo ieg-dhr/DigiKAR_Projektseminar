@@ -6,7 +6,7 @@
 
     <img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding: 10px"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding="10px" style="float:left"/>
-    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding: 10px" style="float:left"/>
+    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding: 10px" style="float:right"/>
 
 <p align="justify"><strong>EN:</strong> This repository contains data and visualisations of early modern clerical biographies. The data were collected by students of history at <a href="https://www.uni-mainz.de/eng/">Mainz University</a> as part of an MA seminar in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. The student project is affiliated with the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
