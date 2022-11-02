@@ -4,7 +4,7 @@
 
 <div class="container" align="center">
 <img src="./assets/WhiteBox.png" width="130px" height="100px" style="padding:20px" style="float:left"/>
-    <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="95px" style="padding:20px" style="float:left"/></a>
+    <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="90px" style="padding:20px" style="float:left"/></a>
     <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" width="100px" style="padding:20px; float:left"/></a>
     <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding:20px; float:left"/></a>
        <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding:10px; float:left"/></a> 
