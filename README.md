@@ -6,13 +6,13 @@
 
  <div class="row">
   <div class="column">
-    <img src="./Logos_DigiKAR/logo_ifl.jpg" width="150px" style="padding: 20px"/> 
+    <img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding: 20px"/> 
   </div>
   <div class="column">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="250px" padding="20px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding="20px"/>
   </div>
   <div class="column">
-    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="150px" style="padding: 20px"/>
+    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding: 20px"/>
   </div>
 </div> 
  
