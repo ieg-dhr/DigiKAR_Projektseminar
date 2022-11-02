@@ -18,8 +18,8 @@
 <table border="0" style="width: 100%" align="center" style="padding: 20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
-    <th>Inhalt                    </th>
-    <th>Content                   </th>
+    <th>Inhalt                              </th>
+    <th>Content                             </th>
   </tr>
   <tr>
     <td><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
