@@ -6,13 +6,13 @@
 
  <div class="row">
   <div class="column">
-    <img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding: 20px"/> 
+    <img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding: 10px"/> 
   </div>
   <div class="column">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding="20px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" padding="10px"/>
   </div>
   <div class="column">
-    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding: 20px"/>
+    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding: 10px"/>
   </div>
 </div> 
  
@@ -77,8 +77,8 @@
 <p align="justify">
 <em>Seminarleitung und historische Inhalte / course coordination and historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun (JGU Mainz)</a><br>
 <em>Unterstützung der Datensammlung und Bibliographie / data collection support and bibliography:</em> Florian Stabel (JGU Mainz)<br>
-<em>Lehrbeitrag Datenvisualisierung und Kartographie / teaching contribution on data visualisation and cartography:</em> Jana Moser (IfL Leipzig)<br>
-<em>Lehrbeitrag QGIS und technische Unterstützung / teaching contribution on QGIS and technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget (IEG Mainz, Universität Maastricht)</a><br> 
+<em>Lehrbeitrag Datenvisualisierung und Kartographie / teaching contribution on data visualisation and cartography:</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser (IfL Leipzig)</a><br>
+<em>Lehrbeitrag QGIS und technische Unterstützung / teaching contribution on QGIS and technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget (IEG Mainz / Universität Maastricht)</a><br> 
 
 <h4>Beteiligte Studierende / participating students</h4>
 
