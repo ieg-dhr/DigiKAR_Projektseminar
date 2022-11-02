@@ -68,8 +68,6 @@
   </tr>
 </table> 
 
-<hr>
-
 <h4>Lehrende / teaching staff</h4>
 <p align="justify">
 <em>Seminarleitung & historische Inhalte / course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
