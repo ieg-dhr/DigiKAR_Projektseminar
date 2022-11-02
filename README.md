@@ -96,6 +96,6 @@ digikar@ieg-mainz.de
 <hr>
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" style="padding: 10px" align="center"/> 
-<figcaption>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg</a></figcaption>
+<figcaption>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">Wikimedia Commons</a></figcaption>
 </figure> 
 
