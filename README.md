@@ -2,12 +2,12 @@
 
 <p align="justify"><strong>DE:</strong> Dieses Repositorium enthält Daten und Visualisierungen frühneuzeitlicher Klerikerbiographien. Die Daten wurden von Geschichtsstudierenden der <a href="https://www.uni-mainz.de/">Universität Mainz</a> im Rahmen eines MA-Seminars im Sommersemester 2022 erhoben. Hauptziel des Seminars war es, die Studierenden im Umgang mit historischen Quellen zu schulen und ontologische Probleme zu diskutieren, die sich aus wissenschaftlichen Versuchen ergeben, biographische und räumliche Informationen zu strukturieren und zu normalisieren. Das studentische Projekt ist Teil des <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekts, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p>
 
-<div align="center" style="white-space: nowrap">
+<div align="center" style="white-space:nowrap">
     <p>   </p>
-    <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="100px" style="padding:10px" style="float:left"/>
+    <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="100px" style="padding:20px" style="float:left"/>
     <img src="./Logos_DigiKAR/logo_ifl.jpg" width="100px" style="padding:10px; float:left"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" style="padding:10px; float:left"/>
-    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding:10px; float:left"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.svg" width="200px" style="padding:20px; float:left"/>
+    <img src="./Logos_DigiKAR/logo_ieg.jpg" width="100px" style="padding:20px; float:left"/>
     <p>   </p>
 </div>
 
@@ -18,8 +18,8 @@
 <table border="0" style="width: 100%" align="center" style="padding: 20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
-    <th>Inhalt</th>
-    <th>Content</th>
+    <th>Inhalt          </th>
+    <th>Content         </th>
   </tr>
   <tr>
     <td><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
@@ -70,10 +70,10 @@
 
 <h4>Lehrende / teaching staff</h4>
 <p align="justify">
-<em>Seminarleitung & historische Inhalte / course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun (JGU Mainz)</a><br>
-<em>Unterstützung der Datensammlung & Bibliographie / data collection support & bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel (JGU Mainz)</a><br>
-<em>Einführung in die wissenschaftliche Kartographie / introduction to scientific cartography:</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser (IfL Leipzig)</a><br>
-<em>Einführung in QGIS & technische Unterstützung / introduction to QGIS & technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget (IEG Mainz / Universität Maastricht)</a><br> 
+<em>Seminarleitung & historische Inhalte / course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
+<em>Datenerfassung & Bibliographie / data collection & bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel</a><br>
+<em>Einführung in die wissenschaftliche Kartographie / introduction to scientific cartography:</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
+<em>Einführung in QGIS & technische Unterstützung / introduction to QGIS & technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget</a><br> 
 
 <h4>Beteiligte Studierende / participating students</h4>
 
