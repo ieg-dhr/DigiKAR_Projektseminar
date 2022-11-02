@@ -1,4 +1,4 @@
-## DigiKAR Projektseminar
+<h2>DigiKAR Projektseminar</h2>
 
 <img src="./Logos_DigiKAR/DigiKAR_logo-small.png" width="100px" style="padding: 10px" align="left"/>
 
