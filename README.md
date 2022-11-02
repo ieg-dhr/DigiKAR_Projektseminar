@@ -12,7 +12,7 @@
 
 <table border="0" style="width: 100%" align="center" style="padding: 20px">
 <tr>
-    <th style="width:20%"></th>
+    <th style="width:50px"></th>
     <th>Inhalt</th>
     <th>Content</th>
   </tr>
