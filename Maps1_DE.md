@@ -24,7 +24,7 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Aufschwörungen_most-frequent.png"><img src="./maps/Aufschwörungen_most-frequent.png" width="650px" align="center"/></a>
 
-<p align="justify">Diese Karte beruht auf der <em>alternativen Darstellung</em> oben, wobei hier eingezoomt, also ein kleinerer Ausschnitt gezeigt wird. Dies geschieht aus praktischen Gründen – durch das Einzoomen werden die unterschiedlichen Punktgrößen deutlicher. Statt Ortsnamen werden außerdem die Namen beteiligter Institutionen angegeben. Bei Institutionen mit besonders vielen Aufschwörungen wird die konkrete Anzahl der erfassten Aufschwörungen angezeigt:
+<p align="justify">Diese Karte beruht auf der <em>alternativen Darstellung</em> oben, wobei hier eingezoomt, also ein kleinerer Ausschnitt gezeigt wird. Dies geschieht aus praktischen Gründen – durch das Einzoomen werden die unterschiedlichen Punktgrößen deutlicher. Statt Ortsnamen werden außerdem die Namen beteiligter Institutionen angegeben. Bei Institutionen mit besonders vielen Aufschwörungen wird die konkrete Anzahl der erfassten Aufschwörungen angezeigt:</p>
 
   <ol>
     <li>Domkapitel Mainz: 14</li>
@@ -33,4 +33,4 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
     <li>Stift St. Alban, Mainz: 5</li>
   </ol>
 
-Für Mainz sind neben dem Domkapitel auch die einzelnen Stifte genannt. Auch das Stift St. Burkhard in Würzburg ist separat erfasst. Hier erfolgte im April 1609 die Aufschwörung von Adolph Hund von Saulheim. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
+<p align="justify">Für Mainz sind neben dem Domkapitel auch die einzelnen Stifte genannt. Auch das Stift St. Burkhard in Würzburg ist separat erfasst. Hier erfolgte im April 1609 die Aufschwörung von Adolph Hund von Saulheim. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
