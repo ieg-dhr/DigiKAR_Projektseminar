@@ -21,11 +21,11 @@ Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial c
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Aufschwörungen_zoom-out.png"><img src="./maps/Aufschwörungen_zoom-out.png" width="650px" align="center"/></a>
 
-<p align="justify">An alternative way of visualising the swearing-in is presented in this map of present-day Germany and neighbouring regions. This map also shows the locations of all the cathedral chapters, collegiate chapters, etc. where the 14 different clerics were sworn in during their lives. In contrast to the cut-out map (below), the core lands of the Holy Roman Empire are shown in their entirety. The lack of swearings-in in the north and south of the realm is relevant and must therefore be made visible. The size of the dots in this map stands for the frequency of the swearings-in carried out per institution. Therefore, cathedral chapters are distinguished from collegiate chapters, which leads to overlaps of institution points in Mainz.</p>
+<p align="justify">An alternative way of visualising the swearing-in is presented in this map of present-day Germany and neighbouring regions. This map also shows the locations of all the cathedral chapters, collegiate chapters, etc. where the 14 different clerics were sworn in during their lives. In contrast to the cut-out map (below), the core lands of the Holy Roman Empire are shown in their entirety. The lack of swearings-in in the north and south of the realm is relevant and must therefore be made visible. The size of the dots in this map stands for the frequency of the swearings-in carried out per institution. Therefore, cathedral chapters are distinguished from collegiate chapters, which leads to overlaps of institution points in Mainz and Würzburg.</p>
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Domherren_Aufschwörungsorte.pdf"><img src="./maps/Domherren_Aufschwörungsorte.png" width="650px" align="center"/></a>
  
-<p align="justify">The close-up map is virtually identical to map above but zoomed in so that a smaller region is shown. This is done for practical reasons - by zooming in, the different point sizes become clearer. Instead of place names, the names of participating institutions are given here. In the case of institutions with a particularly large number of swearings-in, the specific number of events recorded is displayed:
+<p align="justify">The close-up map is virtually identical to map above but zoomed in so that a smaller region is shown. This is done for practical reasons - by zooming in, the different point sizes become clearer. Instead of place names, the names of participating institutions are given. In the case of institutions with a particularly large number of swearings-in, the specific number of events recorded is displayed:</p>
  
  <ol>
     <li>Domkapitel Mainz: 14</li>
@@ -34,4 +34,4 @@ Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial c
     <li>Stift St. Alban, Mainz: 5</li>
   </ol>
  
-For visual clarity, however, individual monasteries could only be named for Mainz. The swearing-in of Adolph Hund von Saulheim in the monastery of St. Burkhard in Würzburg (April 1609) is not visible on the map. For Würzburg, only the seven swearings-in which took place in the local cathedral chapter are shown. Aiming at a comprehensive interpretation of the research results, all maps should be used comparatively.</p>
+<p align="justify">Individual monasteries including St. Alban are displayed in Mainz. The swearing-in of Adolph Hund von Saulheim in the monastery of St. Burkhard in Würzburg (April 1609) is also mapped as a separate point geometry. Aiming at a comprehensive interpretation of the research results, all maps should be used comparatively.</p>
