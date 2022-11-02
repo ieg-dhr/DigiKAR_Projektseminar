@@ -2,8 +2,8 @@
 
 <h4>Swearings-in (frequencies)</h4>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Häufigkeit der Aufschwörungsorte mit Ortsnamen.pdf"><img src="./maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png" width="650px" align="center"/></a>
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Häufigkeit der Aufschwörungsorte ohne Ortsname.pdf"><img src="./maps/Häufigkeit der Aufschwörungsorte ohne Ortsname.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png"><img src="./maps/Häufigkeit der Aufschwörungsorte mit Ortsnamen.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Häufigkeit der Aufschwörungsorte ohne Ortsname.png"><img src="./maps/Häufigkeit der Aufschwörungsorte ohne Ortsname.png" width="650px" align="center"/></a>
 
 <p align="justify">The map above shows the locations of all cathedral chapters and collegiate chapters where the cathedral provosts of the Mainz cathedral chapter were sworn in during their lives. The larger red location dots indicate the number of swearings-in recorded at the respective locations, regardless of the institutions involved. Place dots without numbers mean that only one swearing-in took place.</p> 
 
