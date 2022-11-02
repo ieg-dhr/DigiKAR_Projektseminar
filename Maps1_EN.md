@@ -19,7 +19,7 @@ Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial c
 
 <h4>Alternative mapping of places of all swearings-in</h4>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Aufschwörungen_zoom-out.png"><img src="./maps/Aufschwörungen_zoom-out.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/Static%20Maps%20PDFs/Aufschwörungen_zoom-out.pdf"><img src="./maps/Aufschwörungen_zoom-out.png" width="650px" align="center"/></a>
 
 <p align="justify">An alternative way of visualising the swearing-in is presented in this map of present-day Germany and neighbouring regions. This map also shows the locations of all the cathedral chapters, collegiate chapters, etc. where the 14 different clerics were sworn in during their lives. In contrast to the cut-out map (below), the core lands of the Holy Roman Empire are shown in their entirety. The lack of swearings-in in the north and south of the realm is relevant and must therefore be made visible. The size of the dots in this map stands for the frequency of the swearings-in carried out per institution. Therefore, cathedral chapters are distinguished from collegiate chapters, which leads to overlaps of institution points in Mainz and Würzburg.</p>
 
