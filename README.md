@@ -12,7 +12,7 @@
 
 <hr>
 
-<table border="0" style="width: 100%" align="center" style="padding: 20px">
+<table border="0" style="width: 100%" align="center" style="padding: 20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
     <th>Inhalt</th>
