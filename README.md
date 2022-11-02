@@ -63,11 +63,17 @@
 
 <hr>
 
-<p align="justify"><strong>DE:</strong> Für weitere Informationen zu den historischen Inhalten des Projektseminars wenden Sie sich bitte an <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p><p><strong>EN:</strong> For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
+<p align="justify"><strong>DE:</strong> Für weitere Informationen zu den historischen Inhalten des Projektseminars wenden Sie sich bitte an <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
 
-<p>Kontakt für technische Fragen und Fragen zum Gesamtkontext:</p>
+<p>Kontakt für technische Fragen und Fragen zum Gesamtprojekt:</p>
+<em>Constanze Buyken, DigiKAR Projektmanagement</em>
+<p align="left">E-Mail: digikar@ieg-mainz.de</p>
+<p align="left">Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a></p>
 
-Constanze Buyken, DigiKAR Projektmanagement
+<p><strong>EN:</strong> For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
+
+<p>Contact for technical questions and questions relating to the overall project:</p>
+<em>Constanze Buyken, DigiKAR project management</em>
 <p align="left">E-Mail: digikar@ieg-mainz.de</p>
 <p align="left">Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a></p>
 
