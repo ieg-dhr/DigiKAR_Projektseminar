@@ -4,7 +4,7 @@
 
 <p align="justify"><strong>DE:</strong> Dieses Repositorium enthält Daten und Visualisierungen frühneuzeitlicher Klerikerbiographien. Die Daten wurden von Geschichtsstudierenden der <a href="https://www.uni-mainz.de/">Universität Mainz</a> im Rahmen eines MA-Seminars im Sommersemester 2022 erhoben. Hauptziel des Seminars war es, die Studierenden im Umgang mit historischen Quellen zu schulen und ontologische Probleme zu diskutieren, die sich aus wissenschaftlichen Versuchen ergeben, biographische und räumliche Informationen zu strukturieren und zu normalisieren. Das studentische Projekt ist Teil des <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekts, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p>
 
- <div class="row" align="center">
+ <div class="row">
   <div class="column">
     <img src="./Logos_DigiKAR/logo_ifl.jpg" width="150px" style="padding: 20px"/> 
   </div>
