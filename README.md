@@ -71,7 +71,7 @@
 <em>Seminarleitung & historische Inhalte / course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
 <em>Datenerfassung & Bibliographie / data collection & bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel</a><br>
 <em>Einführung "wissenschaftliche Kartographie" / introduction "scientific cartography":</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
-<em>Einführung "QGIS" & technische Unterstützung / introduction "QGIS" & technical support:</em> <a href="https://github.com/MonikaBarget">Monika Barget</a><br> 
+<em>Einführung "QGIS" & Webdesign / introduction "QGIS" & web design:</em> <a href="https://github.com/MonikaBarget">Monika Barget</a><br> 
 
 <h4>Beteiligte Studierende / participating students</h4>
 
