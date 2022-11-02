@@ -8,7 +8,7 @@
   <tr>
     <th>NAME</th>
     <th>LEBENSDATEN</th>
-    <th>AMTSZEIT ALS DOMPROBST</th>
+    <th>AMTSZEIT<br> ALS DOMPROBST</th>
   </tr>
   <tr>
    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Adolph Hund von Saulheim.csv">Adolph Hund von Saulheim</a></td>
