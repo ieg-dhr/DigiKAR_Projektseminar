@@ -89,7 +89,7 @@
 </table> 
 
 <em>Forschungsdatenmanagement / research data management:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
-<em>DigiKAR Projektmanagement / DigiKAR project management:</em><a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
+<em>DigiKAR Projektmanagement / DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
 
 <hr>
 <figure>
