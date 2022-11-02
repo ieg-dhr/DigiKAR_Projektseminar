@@ -73,19 +73,11 @@
 
 <hr>
 
-<p align="justify"><strong>DE:</strong> Für weitere Informationen zu den historischen Inhalten des Projektseminars wenden Sie sich bitte an <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
-
-<p>Kontakt für technische Fragen und Fragen zum Gesamtprojekt:</p>
-<em>Constanze Buyken, DigiKAR Projektmanagement</em>
-<p align="left">E-Mail: digikar@ieg-mainz.de</p>
-<p align="left">Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a></p>
-
-<p><strong>EN:</strong> For further information on the historical components of the project seminar, please contact <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">apl. Prof. Dr. Bettina Braun</a>.</p>
-
-<p>Contact for technical questions and questions relating to the overall project:</p>
-<em>Constanze Buyken, DigiKAR project management</em>
-<p align="left">E-Mail: digikar@ieg-mainz.de</p>
-<p align="left">Twitter: <a href="https://mobile.twitter.com/digi_kar">@digi_KAR</a></p>
+<p align="justify">
+<strong>Seminarleitung und historische Inhalte / course coordination and historical content:</strong> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun (JGU Mainz)</a><br>
+<strong>Unterstützung der Datensammlung und Bibliographie / data collection support and bibliography:</strong> Florian Stabel (JGU Mainz)<br>
+<strong>Lehrbeitrag Datenvisualisierung und Kartographie / teaching contribution on data visualisation and cartography:</strong> Jana Moser (IfL Leipzig)<br>
+<strong>Lehrbeitrag QGIS und technische Unterstützung / teaching contribution on QGIS and technical support:</strong> <a href="https://github.com/MonikaBarget">Monika Barget (IEG Mainz, Universität Maastricht)</a><br> 
 
 <h4>Beteiligte Studierende / participating students</h4>
 
@@ -101,6 +93,10 @@
     <td>Jana Unselt</td>
   </tr>
 </table> 
+
+<strong>Kontakt / contact:</strong><br>
+Constanze Buyken (DigiKAR Projektmanagement / DigiKAR project management)<br>
+digikar@ieg-mainz.de
 
 <hr>
 <figure>
