@@ -17,14 +17,14 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Aufschwörungen_zoom-out.png"><img src="./maps/Aufschwörungen_zoom-out.png" width="650px" align="center"/></a>
 
-<p align="justify">Auf dieser alternativen Karte sind ebenfalls die Orte aller Domkapitel, Stiftskapitel usw. zu sehen, an denen die 14 verschiedenen Domherren im Laufe ihres Lebens aufgeschworen worden sind. Im Gegensatz zur <strong>Ausschnittskarte</strong> (unten) ist hier das Reich in seiner Gesamtheit zu sehen, da das Ausbleiben von Aufschwörungen im Norden und Süden des Reiches relevant ist und daher sichtbar gemacht werden muss. Die Größe der Punkte steht diesmal für die Häufigkeit der pro Institution durchgeführten Aufschwörungen. In dieser Darstellung werden also die Domkapitel von den Stiftskapiteln unterschieden, was dazu führt, dass sich z.B. in Mainz mehrere Institutionenpunkte überlagern.</p>
+<p align="justify">Auf dieser alternativen Karte sind ebenfalls die Orte aller Domkapitel, Stiftskapitel usw. zu sehen, an denen die 14 verschiedenen Domherren im Laufe ihres Lebens aufgeschworen worden sind. Im Gegensatz zur <strong>Ausschnittskarte</strong> (unten) ist hier das Reich in seiner Gesamtheit zu sehen, da das Ausbleiben von Aufschwörungen im Norden und Süden des Reiches relevant ist und daher sichtbar gemacht werden muss. Die Größe der Punkte steht diesmal für die Häufigkeit der pro Institution durchgeführten Aufschwörungen. In dieser Darstellung werden also die Domkapitel von den Stiftskapiteln unterschieden, was dazu führt, dass sich in Mainz und Würzburg mehrere Institutionenpunkte überlagern.</p>
 
 <h2>Ausschnittskarte der Aufschwörungsorte aller Domherren</h2>
 
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/tree/main/maps/Aufschwörungen_most-frequent.png"><img src="./maps/Aufschwörungen_most-frequent.png" width="650px" align="center"/></a>
 
-<p align="justify">Diese Karte beruht auf der <em>alternativen Darstellung</em> oben, wobei hier eingezoomt, also ein kleinerer Ausschnitt gezeigt wird. Dies geschieht aus praktischen Gründen – durch das Einzoomen werden die unterschiedlichen Punktgrößen deutlicher. Statt Ortsnamen wurden hier die Namen beteiligter Institutionen angegeben. Bei Institutionen mit besonders vielen Aufschwörungen wird die konkrete Anzahl der erfassten Aufschwörungen angezeigt:
+<p align="justify">Diese Karte beruht auf der <em>alternativen Darstellung</em> oben, wobei hier eingezoomt, also ein kleinerer Ausschnitt gezeigt wird. Dies geschieht aus praktischen Gründen – durch das Einzoomen werden die unterschiedlichen Punktgrößen deutlicher. Statt Ortsnamen werden außerdem die Namen beteiligter Institutionen angegeben. Bei Institutionen mit besonders vielen Aufschwörungen wird die konkrete Anzahl der erfassten Aufschwörungen angezeigt:
 
   <ol>
     <li>Domkapitel Mainz: 14</li>
@@ -33,4 +33,4 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
     <li>Stift St. Alban, Mainz: 5</li>
   </ol>
 
-Aus Gründen der Übersichtlichkeit konnten allerdings nur für Mainz die einzelnen Stifte genannt werden. Die im April 1609 im Stift St. Burkhard in Würzburg erfolgte Aufschwörung von Adolph Hund von Saulheim ist in der Karte <b>nicht</b> sichtbar. Für Würzburg werden lediglich die sieben Aufschwörungen im dortigen Domkapitel gezeigt. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
+Für Mainz sind neben dem Domkapitel auch die einzelnen Stifte genannt. Auch das Stift St. Burkhard in Würzburg ist separat erfasst. Hier erfolgte im April 1609 die Aufschwörung von Adolph Hund von Saulheim. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
