@@ -90,7 +90,7 @@
 </table> 
 
 <strong>Kontakt / contact:</strong><br>
-Constanze Buyken (DigiKAR Projektmanagement / DigiKAR project management)<br>
+<a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a> (DigiKAR Projektmanagement / DigiKAR project management)<br>
 digikar@ieg-mainz.de
 
 <hr>
