@@ -6,7 +6,7 @@
     <img src="./assets/WhiteBox.png" height="95px" width="45px" style="float:left"/>
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="padding:15px; float:left"/></a>
+    <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="padding:15px; float:left"/></a> 
     <img src="./assets/WhiteBox.png" height="95px" width="45px" style="float:left"/>
