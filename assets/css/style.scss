@@ -19,6 +19,10 @@
           border-spacing: 5px; /* cellspacing:poor IE support for  this */
           }
 
+.divTableBody {
+	display: table-row-group;
+              }
+
 .headRow {
              display: table-row;
              width: auto;
