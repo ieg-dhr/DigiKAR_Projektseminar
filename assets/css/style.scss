@@ -18,10 +18,11 @@
           border-spacing: 5px; /* cellspacing:poor IE support for  this */
           }
 
-.divTableHead {
+.headRow {
              display: table-row;
              width: auto;
              clear: both;
+             font-weight: bold;
              }
 
 .divTableRow {
