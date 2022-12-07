@@ -12,47 +12,43 @@
     <img src="./assets/WhiteBox.png" height="115px" width="100px" style="float:left"/>
 </div>
 
-<div class="container" align="center">
-<table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
-<tr>
-    <th style="width:50px"></th>
-    <th>Content                             </th>
-  </tr>
-  <tr>
-    <td><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_EN.html">Introduction</a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/persons.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a></td>
-  </tr>
-   <tr>
-    <td><img src="./assets/geocoding.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/map1.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/map2.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td>
-     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_EN.html">1) Places of swearing-in</a><br><br>
-    
-     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_EN.html">3) General overview of centres of action</a><br>
-    </td>
-  </tr>
-   <tr>
-    <td><img src="./assets/network.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_EN.html">Network graph</a></td>
-  </tr>
-   <tr>
-    <td><img src="./assets/information.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_EN.html">Primary sources and research literature</a></td>
-  </tr>
-</table> 
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/introduction.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_EN.html">Introduction</a></div>
 </div>
-
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/persons.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/geocoding.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map1.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map2.png" alt="drawing" width="40" /></div>
+<div class="divTableCell">
+    <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_EN.html">1) Places of swearing-in</a><br><br>
+    <a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_EN.html">2) Mapping of individual biographies</a>
+     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_EN.html">3) General overview of centres of action</a>
+</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/network.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_EN.html">Network graph</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/information.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_EN.html">Primary sources and research literature</a></div>
+</div>
+</div>
+</div>   
+    
 <h4>Teaching staff</h4>
 <p align="justify">
 <em>Course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
