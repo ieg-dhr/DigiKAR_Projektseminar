@@ -34,7 +34,8 @@
              }
 
 .divTableRow {
-             margin: 0 auto;
+             overflow: hidden;
+	     margin: 0 auto;
 	     display: table-row;
              clear: both;
              }
