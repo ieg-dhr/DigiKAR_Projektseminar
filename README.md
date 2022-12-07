@@ -46,42 +46,6 @@
 </div>
 </div>
 </div>    
-    
-<table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="width: 10%"><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/persons.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html" style="text-align: left">Untersuchte Personen</a></td>
-  </tr>
-   <tr>
-    <td><img src="./assets/geocoding.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html" style="text-align: left">Geokodierung</a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/map1.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html" style="text-align: left">Interaktive Karte</a></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/map2.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td>
-     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_DE.html" style="text-align: left">1) Orte der Aufschwörungen</a><br><br>
-     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_DE.html" style="text-align: left">2) Kartierung einzelner Biographien</a><br><br>
-     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_DE.html" style="text-align: left">3) Gesamtdarstellung der Aktionszentren</a><br>
-   </td>
-  </tr>
-   <tr>
-    <td><img src="./assets/network.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_DE.html" style="text-align: left">Netzwerkdiagramm</a></td>
-  </tr>
-   <tr>
-    <td><img src="./assets/information.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_DE.html" style="text-align: left">Quellen und Literatur</a></td>
-  </tr>
-</table> 
-</div>
 
 <h4>Lehrende</h4>
 <p align="justify">
