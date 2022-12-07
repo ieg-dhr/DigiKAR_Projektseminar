@@ -12,7 +12,7 @@
 
 <h2>Schwerpunkte der erstellten Karten</h2>
 
-<p align="justify">Die Einzelkarten, die im Projektseminar entstanden, wurden von den Studierenden in zwei Arbeitsgruppen erstellt. Eine Gruppe konzentrierte sich auf die geistlichen Ämtern der untersuchten Personen, die zweite Gruppe bezog auch andere Lebensstationen (z.B. Schulausbildung, Studium, Kavalierstour, Gesandtentätigkeit, oder Beisetzung) in die Untersuchung ein. Diese beiden Schwerpunkte sind in den hier geteilten Karten sichtbar.</p>
+<p align="justify">Die Einzelkarten, die im Projektseminar entstanden, wurden von den Studierenden in zwei Arbeitsgruppen erstellt. Eine Gruppe konzentrierte sich auf die geistlichen Ämter der untersuchten Personen, die zweite Gruppe bezog auch andere Lebensstationen (z.B. Schulausbildung, Studium, Kavalierstour, Gesandtentätigkeit, oder Beisetzung) ein. Diese beiden Schwerpunkte sind in den hier geteilten Karten sichtbar.</p>
 
 <hr>
 
