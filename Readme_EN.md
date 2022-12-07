@@ -35,8 +35,8 @@
 <div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map2.png" alt="drawing" width="40" style="margin-right: 15px"/></div>
 <div class="divTableCell">
     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_EN.html">1) Places of swearing-in</a><br><br>
-    <a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_EN.html">2) Mapping of individual biographies</a>
-     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_EN.html">3) General overview of centres of action</a>
+    <a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_EN.html">2) Mapping of individual biographies</a><br><br>
+    <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_EN.html">3) General overview of centres of action</a>
 </div>
 </div>
 <div class="divTableRow">
