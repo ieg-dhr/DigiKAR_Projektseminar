@@ -6,7 +6,11 @@
 
 <hr>
 
-<p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (1615–1675)</strong>, der sich in Florenz, Rom und Böhmen sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt. Die Mehrfachnennung bedeutet, dass er an den genannten Orten mehrere Ämter (teils mit zeitlichen Unterbrechungen) innehatte. Die Einzelkarten, die die Studierenden in zwei Arbeitsgruppen erstellt haben, befassen sich einerseits mit den beruflichen Stationen nach der Priesterweihe, anderseits mit sämtlichen Ausbildungsstationen.</p>
+<p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (1615–1675)</strong>, der sich in Florenz, Rom und Böhmen sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt. Die Mehrfachnennung bedeutet, dass er an den genannten Orten mehrere Ämter (teils mit zeitlichen Unterbrechungen) innehatte.</p>
+
+<h2>Schwerpunkte der erstellten Karten</h2>
+
+<p align="justify">Die Einzelkarten, die im Projektseminar entstanden, wurden von den Studierenden in zwei Arbeitsgruppen erstellt. Eine Gruppe konzentrierte sich auf die geistlichen Ämtern der untersuchten Personen, die zweite Gruppe bezog auch andere Lebensstationen (z.B. Schulausbildung, Studium, Kavalierstour, Gesandtentätigkeit, oder Beisetzung) in die Untersuchung ein. Diese beiden Schwerpunkte sind in den hier geteilten Karten sichtbar.</p>
 
 <a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="450px" align="right" style="padding: 10px"/></a>
 
@@ -14,7 +18,7 @@
 
 <h2>Einzelkarten: Anzahl geistlicher Ämter pro Ort und dort ausgeübte Funktionen</h2>
 
-<p align="justify">Die hier verlinkten Einzelkarten für die behandelten Domherren visualisieren allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Ein größerer Ortspunkt bedeutet, dass dort mehrere Funktionen ausgeübt wurden. Tätigkeiten an unbekannten Orten werden in einigen Karten durch einen mit "unbekannt" gekennzeichneten Platzhalter-Punkt in der Mitte Deutschlands gekennzeichnet. Das Rautezeichen <b>#</b> wurde verwendet, um unbekannte Funktionen zu markieren. Es wurde für jeden Domherren eine solche Karte einzeln erstellt, wobei die Häufung von Funktionen an einzelnen Orten für die Positionierung der Labels eine Herausforderung darstellte. Die Studierenden, die die Karten erstellten, hatten keine vorherige QGIS Erfahrung, weshalb der Fokus auf die Inhalte der Karten und nicht auf gestalterische Qualität gelegt wurde. Als Basiskarte haben die Studierenden hauptsächlich die OSM-Standardkarte mit modernen Ortsnamen und Infrastrukturen verwendet, da diese Karten heutigen Nutzer*innen eine intuitive räumliche Orientierung ermöglicht. Wo viele Beschriftungen erforderlich waren, wurde eine ESRI-Satellitenkarte verwendet. Alle Karten können im PDF-Format heruntergeladen werden.</p>
+<p align="justify">Die in der Tabelle verlinkten Einzelkarten für die behandelten Domherren visualisieren allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Ein größerer Ortspunkt bedeutet, dass dort mehrere Funktionen ausgeübt wurden. Tätigkeiten an unbekannten Orten werden in einigen Karten durch einen mit "unbekannt" gekennzeichneten Platzhalter-Punkt in der Mitte Deutschlands gekennzeichnet. Das Rautezeichen <b>#</b> wurde verwendet, um unbekannte Funktionen zu markieren. Es wurde für jeden Domherren eine solche Karte einzeln erstellt, wobei die Häufung von Funktionen an einzelnen Orten für die Positionierung der Labels eine Herausforderung darstellte. Die Studierenden, die die Karten erstellten, hatten keine vorherige QGIS Erfahrung, weshalb der Fokus auf die Inhalte der Karten und nicht auf gestalterische Qualität gelegt wurde. Als Basiskarte haben die Studierenden hauptsächlich die OSM-Standardkarte mit modernen Ortsnamen und Infrastrukturen verwendet, da diese Karten heutigen Nutzer*innen eine intuitive räumliche Orientierung ermöglichen. Wo viele Beschriftungen erforderlich waren, wurde eine ESRI-Satellitenkarte verwendet. Alle Karten können im PDF-Format heruntergeladen werden.</p>
 
 <div class="container">
 <div class="divTable">
@@ -79,4 +83,5 @@
 <hr>
 
 <p><strong>Karten erstellt von:</strong><p>
-<p>Claudia Dorst Alonso, Lara Beringer und Lukas Theobald</p>
+<p>Geistliche Ämter: Jana Charlotte Unselt, Alina Buchal, Julia Celine Jung</p>
+<p>Allgemeine Lebensstationen: Claudia Dorst Alonso, Lara Beringer, Lukas Theobald</p>
