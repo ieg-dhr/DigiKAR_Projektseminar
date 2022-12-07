@@ -13,7 +13,7 @@
 </div>
 <div class="container" align="center">
 <h4>Inhalt</h4>
-<div class="divTable">
+<div class="divTable" align="center">
 <div class="divTableBody">
 <div class="divTableRow">
 <div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/introduction.png" alt="drawing" width="40" style="margin-right: 15px"/></div>
