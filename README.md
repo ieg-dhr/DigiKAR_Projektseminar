@@ -2,6 +2,7 @@
 
 <p align="justify">Dieses Repositorium enthält Daten und Visualisierungen frühneuzeitlicher Klerikerbiographien. Die Daten wurden von Geschichtsstudierenden des Master-Seminars <b>Mobilität in Kurmainz</b> im Sommersemester 2022 erhoben. Hauptziel des Seminars war es, die Studierenden im Umgang mit historischen Quellen zu schulen und ontologische Probleme zu diskutieren, die sich aus wissenschaftlichen Versuchen ergeben, biographische und räumliche Informationen zu strukturieren und zu normalisieren. Das Projektseminar wurde im Rahmen des <a href="https://modell-m.uni-mainz.de/">ModeLL-M-Projekts</a> an der <a href="https://www.uni-mainz.de/">Johannes-Gutenberg-Universität Mainz</a> durchgeführt. In <em>ModeLL-M</em> werden am Historischen Seminar Modelle digital erweiterter Projektlehre entwickelt und erprobt. Unterstützt wurde das Historische Seminar von Partnerinstituten im <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekt, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p>
 
+<div class="container">
 <div class="logoRow">
 <div class="logoColumn">
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="float:left"/></a>
@@ -19,7 +20,7 @@
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="float:left"/></a> 
 </div>
 </div>
-
+</div>
 <div class="container">
 <h4>Inhalt</h4>
 <div class="divTable">
