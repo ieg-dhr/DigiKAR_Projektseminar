@@ -11,19 +11,20 @@
 
 .container {overflow: hidden;}
 
-.div-table {
+.divTable {
   display: table;         
   width: auto;         
   background-color: #eee;         
   border: 1px solid #666666;         
   border-spacing: 5px; /* cellspacing:poor IE support for  this */
 }
-.div-table-row {
+
+.divTableRow {
   display: table-row;
   width: auto;
   clear: both;
 }
-.div-table-col {
+.divTableCell {
   float: left; /* fix for  buggy browsers */
   display: table-column;         
   width: 200px;         
