@@ -13,7 +13,7 @@
 
 <p align="justify">Alle geokodierten Orte mit fünf und mehr Vorkommen sind in der nachstehenden Tabelle aufgeführt. Die räumlichen Informationen in den Originalquellen wurden auf diese modernen Orte abgebildet, um eine automatische Geokodierung zu ermöglichen. Wie in der obigen Punktclusterkarte zu sehen ist, wurden unklare Orte (insbesondere Geburtsorte) summarisch auf "Deutschland" abgebildet, um die damit verbundenen Ereignisse überhaupt in die visuellen Darstellungen aufzunehmen. Die im Projekt erstellten Karten bedürfen daher einer Kontextualisierung und einer kritischen Auseinandersetzung.</p>
 
-<div class="container" width="400px" style="align: center">
+<div class="container" width="60%">
 <table>
 <thead><tr><th title="Field #2"># Vollständige Addresse</th>
 <th title="Field #3"># Häufigkeit</th>
