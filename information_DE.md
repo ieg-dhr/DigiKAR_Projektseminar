@@ -4,79 +4,82 @@
 
 <p align="justify">Die Namen in der nachstehenden Tabelle sind mit den für jede Person gesammelten Daten im CSV-Format verlinkt. Die CSV-Dateien können mit jedem Texteditor, EXCEL oder Google Sheets geöffnet werden. Um unsere Daten in eigenen Karten abzubilden, können Sie dieselben Daten im <a href="https://geojson.org/">GeoJSON-Format</a> aus dem <a href="./GeoJSON layers">Ordner mit GeoJSON Dateien</a> herunterladen. GeoJSON ist ein weit verbreitetes Format zur Kodierung einer Vielzahl von geographischen Datenstrukturen, z. B. Punktgeometrien, Linien und Polygonen. Die hier zur Verfügung gestellten GeoJSON-Dateien können in ein Mapping-Tool wie QGIS geladen werden, um weitere räumliche Untersuchungen durchzuführen und neue Karten zu erstellen.</p>
 
- <table width="90%">
-  <tr>
-    <th>NAME</th>
-    <th>LEBENSDATEN</th>
-    <th>AMTSZEIT<br> ALS DOMPROBST</th>
-  </tr>
-  <tr>
-   <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Adolph Hund von Saulheim.csv">Adolph Hund von Saulheim</a></td>
-    <td>1595–1668</td>
-    <td>1652–1668</td>
-  </tr>
-  <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Johann Heppenheim genannt von Saal.csv">Johann Heppenheim genannt von Saal</a></td>
-    <td>1609–1672</td>
-    <td>1668–1672</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Lothar Friedrich von Metternich-Burscheid.csv">Lothar Friedrich von Metternich-Burscheid</a></td>
-    <td>1617–1675</td>
-    <td>1672–1673</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Dietrich Kaspar von Fürstenberg.csv">Dietrich Kaspar von Fürstenberg</a></td>
-    <td>1615–1675</td>
-    <td>1673–1675</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Marquard Schenk von Castell.csv">Marquard Schenk von Castell</a></td>
-    <td>1605–1685</td>
-    <td>1675–1685</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Johann Wilhelm Wolff-Metternich zur Gracht.csv">Johann Wilhelm Wolff-Metternich zur Gracht</a></td>
-    <td>1624–1694</td>
-    <td>1685–1694</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Christoph Rudolf von Stadion.csv">Christoph Rudolf von Stadion</a></td>
-    <td>1638–1700</td>
-    <td>1695–1700</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Heinrich Ferdinand von der Leyen.csv">Heinrich Ferdinand von der Leyen</a></td>
-    <td>1642–1714</td>
-    <td>1700–1714</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Johann Philipp Franz Graf von Schönborn.csv">Johann Philipp Franz Graf von Schönborn</a></td>
-    <td>1673–1724</td>
-    <td>1714–1724</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Hugo Wolfgang von Kesselstatt.csv">Hugo Wolfgang von Kesselstatt</a></td>
-    <td>1659–1738</td>
-    <td>1724–1738</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Karl Emmerich von Breidbach-Bürresheim.csv">Karl Emmerich von Breidbach-Bürresheim</a></td>
-    <td>1674–1743</td>
-    <td>1738–1743</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Hugo Franz Karl von Eltz(-Kempenich).csv">Hugo Franz Karl von Eltz(-Kempenich)</a></td>
-    <td>1701–1779</td>
-    <td>1743–1779</td>
-  </tr> <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Heinrich Wilhelm Harff von Dreyborn.csv">Heinrich Wilhelm Harff von Dreyborn</a></td>
-    <td>1715–1781</td>
-    <td>1779–1781</td>
-  </tr>
-   <tr>
-    <td><a href="./CSV tables/CSV_Domherren_individualBIOGRAPHIES/Damian Friedrich von der Leyen-Hohengeroldseck.csv">Damian Friedrich von der Leyen-Hohengeroldseck</a></td>
-    <td>1738–1817</td>
-    <td>1781–1817</td>
-  </tr>
-</table> 
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableHead">NAME</div>
+<div class="divTableHead">LEBENSDATEN</div>
+<div class="divTableHead">AMTSZEIT<br /> ALS DOMPROBST</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Adolph Hund von Saulheim.csv">Adolph Hund von Saulheim</a></div>
+<div class="divTableCell">1595&ndash;1668</div>
+<div class="divTableCell">1652&ndash;1668</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Johann Heppenheim genannt von Saal.csv">Johann Heppenheim genannt von Saal</a></div>
+<div class="divTableCell">1609&ndash;1672</div>
+<div class="divTableCell">1668&ndash;1672</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Lothar Friedrich von Metternich-Burscheid.csv">Lothar Friedrich von Metternich-Burscheid</a></div>
+<div class="divTableCell">1617&ndash;1675</div>
+<div class="divTableCell">1672&ndash;1673</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Dietrich Kaspar von F&uuml;rstenberg.csv">Dietrich Kaspar von F&uuml;rstenberg</a></div>
+<div class="divTableCell">1615&ndash;1675</div>
+<div class="divTableCell">1673&ndash;1675</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Marquard Schenk von Castell.csv">Marquard Schenk von Castell</a></div>
+<div class="divTableCell">1605&ndash;1685</div>
+<div class="divTableCell">1675&ndash;1685</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Johann Wilhelm Wolff-Metternich zur Gracht.csv">Johann Wilhelm Wolff-Metternich zur Gracht</a></div>
+<div class="divTableCell">1624&ndash;1694</div>
+<div class="divTableCell">1685&ndash;1694</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Christoph Rudolf von Stadion.csv">Christoph Rudolf von Stadion</a></div>
+<div class="divTableCell">1638&ndash;1700</div>
+<div class="divTableCell">1695&ndash;1700</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Heinrich Ferdinand von der Leyen.csv">Heinrich Ferdinand von der Leyen</a></div>
+<div class="divTableCell">1642&ndash;1714</div>
+<div class="divTableCell">1700&ndash;1714</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Johann Philipp Franz Graf von Sch&ouml;nborn.csv">Johann Philipp Franz Graf von Sch&ouml;nborn</a></div>
+<div class="divTableCell">1673&ndash;1724</div>
+<div class="divTableCell">1714&ndash;1724</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Hugo Wolfgang von Kesselstatt.csv">Hugo Wolfgang von Kesselstatt</a></div>
+<div class="divTableCell">1659&ndash;1738</div>
+<div class="divTableCell">1724&ndash;1738</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Karl Emmerich von Breidbach-B&uuml;rresheim.csv">Karl Emmerich von Breidbach-B&uuml;rresheim</a></div>
+<div class="divTableCell">1674&ndash;1743</div>
+<div class="divTableCell">1738&ndash;1743</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Hugo Franz Karl von Eltz(-Kempenich).csv">Hugo Franz Karl von Eltz(-Kempenich)</a></div>
+<div class="divTableCell">1701&ndash;1779</div>
+<div class="divTableCell">1743&ndash;1779</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Heinrich Wilhelm Harff von Dreyborn.csv">Heinrich Wilhelm Harff von Dreyborn</a></div>
+<div class="divTableCell">1715&ndash;1781</div>
+<div class="divTableCell">1779&ndash;1781</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Damian Friedrich von der Leyen-Hohengeroldseck.csv">Damian Friedrich von der Leyen-Hohengeroldseck</a></div>
+<div class="divTableCell">1738&ndash;1817</div>
+<div class="divTableCell">1781&ndash;1817</div>
+</div>
+</div>
+</div>
