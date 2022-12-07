@@ -2,4 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-.wrapper {width: 850px;}
+.wrapper {width: 850px; max-width: 100%;}
