@@ -2,9 +2,9 @@
 
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
 
-<p align="justify">One possibility to comparatively map data is the categorised or rule-based visualisation of geometries. This visualisation conveys information based on different shapes or colours used for points, lines or polygons (cf. the QGIS documention 2.14, section 4.3. on < href="https://docs.qgis.org/2.14/en/docs/training_manual/vector_classification/classification.html">Classification</a>). The first map displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studied far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
+<p align="justify">One possibility to comparatively map data is the categorised or rule-based visualisation of geometries. This visualisation conveys information based on different shapes or colours used for points, lines or polygons (cf. the QGIS documention 2.14, section 4.3. on <a href="https://docs.qgis.org/2.14/en/docs/training_manual/vector_classification/classification.html">Classification</a>). The first map displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studied far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="400px" align="right"/></a>
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="400px" align="right" style="padding: 10px"/></a>
 
 <p align="justify">One example of a more mobile cleric in the analysed data set is Dietrich Kaspar von Fürstenberg who spent time in Florence, Rome and Bohemia as well as serveral places in present-day Belgium and France.</p>
 
