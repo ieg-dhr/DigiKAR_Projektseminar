@@ -78,5 +78,5 @@
 
 <hr>
 
-<p><strong>Karten erstellt von:</strong><p>
+<p><strong>Maps created by:</strong><p>
 <p>Claudia Dorst Alonso, Lara Beringer und Lukas Theobald</p>
