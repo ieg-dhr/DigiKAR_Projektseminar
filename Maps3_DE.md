@@ -1,13 +1,13 @@
 <h2>Gesamtdarstellung der Aktionszentren</h2>
 
-<a href="./maps/Domherren_clustered_close-up.png" align="center"><img src="./maps/Domherren_clustered_close-up.png" width="90%"/></a>
+<a href="./maps/Domherren_clustered_close-up.png" style="margin: 0 auto;"><img src="./maps/Domherren_clustered_close-up.png" width="90%"/></a>
 <p align="justify">Die obige Karte zeigt Häufungen von Ereignissen im gesammelten Datensatz als farbige Cluster (sog. <em>point clustering</em>). Auf diese Weise werden Aktionszentren unabhängig von der Art der Lebensereignisse sichtbar. Die größten Punkte kennzeichnen Ortsnamen, die in den Daten überproportional häufig vorkommen.</p>
 
 <hr>
 
 <p align="justify">Die Karte unten zeigt die numerischen Häufigkeiten aller Ereignisse pro Ort, wobei hier aufgrund der Zoomebene benachbarte Orte zu einem gemeinsamen Ortspunkt verschmelzen. In absoluten Zahlen ist der Mainzer Dom mit 66 erfassten Ereignissen der häufigste Ort. Dazu kommen weitere Orte (z.B. Stifte) innerhalb der Stadt Mainz. 22 Orte, die als "Deutschland" im Zentrum der heutigen Bundesrepublik kartiert sind, bezeichnen biografische Ereignisse, zu denen die Quellen keine konkreten räumlichen Angaben machten. In der Darstellungen unten überlagern sich der Platzhalter für unbekannte Orte und fünf bekannte Orte in der Nähe des geometrischen Zentrums ("27"). In der Karte oben ist der Platzhalter hellgrün hervorgehoben.</p>
 
-<a href="./maps/Domherren_places-frequency_2.png" align="center"><img src="./maps/Domherren_places-frequency_2.png" width="90%"/></a>
+<a href="./maps/Domherren_places-frequency_2.png" style="margin: 0 auto;"><img src="./maps/Domherren_places-frequency_2.png" width="90%"/></a>
 
 <hr>
 
