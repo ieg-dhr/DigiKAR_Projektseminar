@@ -13,6 +13,40 @@
 </div>
 <div class="container" align="center">
 <h4>Inhalt</h4>
+ 
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/introduction.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einf&uuml;hrung</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/persons.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Untersuchte Personen</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/geocoding.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map1.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">Interaktive Karte</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map2.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_DE.html">1) Orte der Aufschw&ouml;rungen</a><br /><br /> <a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_DE.html">2) Kartierung einzelner Biographien</a><br /><br /> <a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_DE.html">3) Gesamtdarstellung der Aktionszentren</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/network.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_DE.html">Netzwerkdiagramm</a></div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/information.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_DE.html">Quellen und Literatur</a></div>
+</div>
+</div>
+</div>    
+    
 <table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
   <tr>
     <td style="width: 10%"><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
