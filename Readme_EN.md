@@ -75,7 +75,7 @@
 </div>
 
 <p><em>Research data management:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
-<em>DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</p>
+<em>DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a></p>
 
 <hr>
 <figure>
