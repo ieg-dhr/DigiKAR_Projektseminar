@@ -13,52 +13,54 @@
 
 <p align="justify">Alle geokodierten Orte mit fünf und mehr Vorkommen sind in der nachstehenden Tabelle aufgeführt. Die räumlichen Informationen in den Originalquellen wurden auf diese modernen Orte abgebildet, um eine automatische Geokodierung zu ermöglichen. Wie in der obigen Punktclusterkarte zu sehen ist, wurden unklare Orte (insbesondere Geburtsorte) summarisch auf "Deutschland" abgebildet, um die damit verbundenen Ereignisse überhaupt in die visuellen Darstellungen aufzunehmen. Die im Projekt erstellten Karten bedürfen daher einer Kontextualisierung und einer kritischen Auseinandersetzung.</p>
 
-<div class="container" width="60%">
-<table>
-<thead><tr><th title="Field #2"># Vollständige Addresse</th>
-<th title="Field #3"># Häufigkeit</th>
-</tr></thead>
-<tbody>
-<tr>
-<td>Dom Mainz Germany</td>
-<td>66           </td>
-</tr>
-<tr>
-<td>Kurfürstliches Schloss Mainz Germany</td>
-<td>12           </td>
-</tr>
-<tr>
-<td>Mainz Germany        </td>
-<td>12           </td>
-</tr>
-<tr>
-<td>Germany              </td>
-<td>22           </td>
-</tr>
-<tr>
-<td>Dom Würzburg Germany </td>
-<td>15           </td>
-</tr>
-<tr>
-<td>Dom Trier Germany    </td>
-<td>12           </td>
-</tr>
-<tr>
-<td>Dom Eichstätt Germany</td>
-<td>9            </td>
-</tr>
-<tr>
-<td>Dom Bamberg Germany  </td>
-<td>6            </td>
-</tr>
-<tr>
-<td>Erfurt Germany       </td>
-<td>5            </td>
-</tr>
-<tr>
-<td>Köln Germany         </td>
-<td>5            </td>
-</tr>
-</tbody></table>
+<div class="divTable">
+<div class="divTableHeading">
+<div class="headRow">
+<div class="divTableCell" style="width: 50%">Vollst&auml;ndige Addresse</div>
+<div class="divTableCell" style="width: 30%">H&auml;ufigkeit</div>
+</div>
+</div>
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Dom Mainz Germany</div>
+<div class="divTableCell" style="width: 30%">66</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Kurf&uuml;rstliches Schloss Mainz Germany</div>
+<div class="divTableCell" style="width: 30%">12</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Mainz Germany</div>
+<div class="divTableCell" style="width: 30%">12</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Germany</div>
+<div class="divTableCell" style="width: 30%">22</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Dom W&uuml;rzburg Germany</div>
+<div class="divTableCell" style="width: 30%">15</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Dom Trier Germany</div>
+<div class="divTableCell" style="width: 30%">12</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Dom Eichst&auml;tt Germany</div>
+<div class="divTableCell" style="width: 30%">9</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Dom Bamberg Germany</div>
+<div class="divTableCell" style="width: 30%">6</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">Erfurt Germany</div>
+<div class="divTableCell" style="width: 30%">5</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell" style="width: 50%">K&ouml;ln Germany</div>
+<div class="divTableCell" style="width: 30%">5</div>
+</div>
+</div>
 </div>
 <hr>
