@@ -18,6 +18,12 @@
           border-spacing: 5px; /* cellspacing:poor IE support for  this */
           }
 
+.divTableHead {
+             display: table-row;
+             width: auto;
+             clear: both;
+             }
+
 .divTableRow {
              display: table-row;
              width: auto;
