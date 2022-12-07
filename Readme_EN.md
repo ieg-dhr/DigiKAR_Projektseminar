@@ -4,10 +4,10 @@
 
 <div class="container" align="center">
     <img src="./assets/WhiteBox.png" height="115px" width="100px" style="float:left"/>
-    <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" height="93px" style="padding:15px; float:left"/></a>
+    <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="padding: 15px; float:left"/></a>
+    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="padding: 15px; float:left"/></a>
+    <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="padding: 15px; float:left"/></a>
+    <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" height="93px" style="padding: 15px; float:left"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="padding:15px; float:left"/></a> 
     <img src="./assets/WhiteBox.png" height="115px" width="100px" style="float:left"/>
 </div>
@@ -15,23 +15,23 @@
 <div class="divTable">
 <div class="divTableBody">
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/introduction.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/introduction.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_EN.html">Introduction</a></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/persons.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/persons.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">Persons studied</a></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/geocoding.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/geocoding.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_EN.html">Geocoding</a></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map1.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map1.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_EN.html">Interactive map</a></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map2.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/map2.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell">
     <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_EN.html">1) Places of swearing-in</a><br><br>
     <a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_EN.html">2) Mapping of individual biographies</a>
@@ -39,11 +39,11 @@
 </div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/network.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/network.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_EN.html">Network graph</a></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/information.png" alt="drawing" width="40" /></div>
+<div class="divTableCell"><img style="horizontal-align: middle;" src="https://ieg-dhr.github.io/DigiKAR_Projektseminar/assets/information.png" alt="drawing" width="40" style="padding: 15px"/></div>
 <div class="divTableCell"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_EN.html">Primary sources and research literature</a></div>
 </div>
 </div>
