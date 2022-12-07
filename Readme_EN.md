@@ -11,7 +11,8 @@
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="padding:15px; float:left"/></a> 
     <img src="./assets/WhiteBox.png" height="115px" width="100px" style="float:left"/>
 </div>
-
+<div class="container" align="center">
+<h4>Content</h4>
 <div class="divTable">
 <div class="divTableBody">
 <div class="divTableRow">
@@ -48,7 +49,7 @@
 </div>
 </div>
 </div>   
-    
+</div>    
 <h4>Teaching staff</h4>
 <p align="justify">
 <em>Course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
@@ -73,8 +74,8 @@
 </div>
 </div>
 
-<em>Research data management:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
-<em>DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
+<p><em>Research data management:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
+<em>DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</p>
 
 <hr>
 <figure>
