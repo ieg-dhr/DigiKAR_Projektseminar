@@ -13,7 +13,6 @@
 </div>
 <div class="container" align="center">
 <h4>Inhalt</h4>
- 
 <div class="divTable">
 <div class="divTableBody">
 <div class="divTableRow">
@@ -46,7 +45,7 @@
 </div>
 </div>
 </div>    
-
+</div>
 <h4>Lehrende</h4>
 <p align="justify">
 <em>Seminarleitung & historische Inhalte:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
@@ -71,8 +70,8 @@
 </div>
 </div>
 
-<em>Forschungsdatenmanagement:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
-<em>DigiKAR Projektmanagement:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
+<p><em>Forschungsdatenmanagement:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
+<em>DigiKAR Projektmanagement:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a></p>
 
 <hr>
 <figure>
