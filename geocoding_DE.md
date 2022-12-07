@@ -8,7 +8,7 @@ Rohdaten der ersten Geokodierung: <a href="./GeoJSON%20layers/Domherren_v1_new.g
 
 <p align="justify">Für den zweiten Geokodierungstest mussten die Eingabedaten angereichert und bereinigt werden. Um die automatische Ortszuordnung zu verbessern, wurde eine separate Tabellenspalte namens <code>modern_region</code> eingeführt, um anzugeben, in welchen modernen Ländern (z. B. Deutschland und Frankreich) die Orte liegen sollten. In Fällen, in denen das Land nicht klar war, wurde <code>Europa</code> hinzugefügt, um zumindest Orte in Übersee auszuschließen.</p> 
 
-<img src="./images/MMQGIS_geocoding-settings.png" align="left" padding="15px" width="530px"/> 
+<img src="./images/MMQGIS_geocoding-settings.png" align="left" style="padding: 15px" width="530px"/> 
 <p align="justify" style="padding: 10px">Im MMQGIS-Bedienfeld konnten sowohl die <code>city</code> als auch die <code>country</code> Felder nun mit Eingabedaten gefüllt werden, um bessere Geokodierungsergebnisse zu erhalten (siehe QGIS-Screenshot oben). Von den 281 Tabelleneinträgen konnten schließlich 215 mit einem eindeutigen geographischen Ort verknüpft werden. Die Einträge, die <em>nicht</em> geokodiert wurden, enthielten von Anfang an keine Ortsinformationen.</p>
 
 <p align="justify">Darüber hinaus wurden die vier Datumsspalten (<code>before</code>, <code>after</code>, <code>start</code>, <code>end</code>), die den Zeitrahmen der Ereignisse in der ursprünglichen CSV-Tabelle angeben, zu einer einzigen Spalte <code>display date</code> zusammengeführt, um die spätere Erstellung einer zeitlich möglichst feinteilig kategorisierten Karte zu vereinfachen. Die detaillierteren Datumsangaben wurden jedoch für die Anzeige in den Kartenbeschriftungen beibehalten.</p>
