@@ -59,10 +59,17 @@
   margin-left: 30px;
 }
 
- /* 5 logos in containers */
+ /* 4 small logos in container */
 .logoColumn {
   float: left;
   width: 15%;
+  padding: 25px;
+}
+
+ /* 1 long logo in container */
+.logoColumnlong {
+  float: left;
+  width: 30%;
   padding: 25px;
 }
 
