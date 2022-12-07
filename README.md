@@ -95,8 +95,10 @@
 <em>DigiKAR Projektmanagement / DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
 
 <hr>
+<div style="text-align: center">
 <figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" style="padding: 10px" class="center"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" style="padding: 10px"/> 
 <figcaption>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">Wikimedia Commons</a></figcaption>
 </figure> 
+</div>
 
