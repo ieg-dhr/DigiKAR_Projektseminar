@@ -19,9 +19,9 @@
 <div class="divTable">
 <div class="divTableBody">
 <div class="headRow">
-                <div class="divTableCell" align="center" style="width:30%">Karte (PDF)</div>
+                <div class="divTableCell" align="center" style="width:29%">Karte (PDF)</div>
                 <div  class="divTableCell" align="center" style="width:20%">Name</div>
-                <div class="divTableCell" align="center" style="width:30%">Karte (PDF)</div>
+                <div class="divTableCell" align="center" style="width:29%">Karte (PDF)</div>
                 <div  class="divTableCell" align="center" style="width:20%">Name</div>
 </div>
 <div class="divTableRow">
