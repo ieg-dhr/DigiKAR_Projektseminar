@@ -16,6 +16,7 @@
 
 <p align="justify">Die hier verlinkten Einzelkarten für die behandelten Domherren visualisieren allesamt jeweils die Orte und die Anzahl der dort ausgeführten geistlichen Ämter und Dignitäten, die ein einzelner Domherr im Laufe seines Lebens hatte. Ein größerer Ortspunkt bedeutet, dass dort mehrere Funktionen ausgeübt wurden. Tätigkeiten an unbekannten Orten werden in einigen Karten durch einen mit "unbekannt" gekennzeichneten Platzhalter-Punkt in der Mitte Deutschlands gekennzeichnet. Das Rautezeichen <b>#</b> wurde verwendet, um unbekannte Funktionen zu markieren. Es wurde für jeden Domherren eine solche Karte einzeln erstellt, wobei die Häufung von Funktionen an einzelnen Orten für die Positionierung der Labels eine Herausforderung darstellte. Die Studierenden, die die Karten erstellten, hatten keine vorherige QGIS Erfahrung, weshalb der Fokus auf die Inhalte der Karten und nicht auf gestalterische Qualität gelegt wurde. Als Basiskarte haben die Studierenden hauptsächlich die OSM-Standardkarte mit modernen Ortsnamen und Infrastrukturen verwendet, da diese Karten heutigen Nutzer*innen eine intuitive räumliche Orientierung ermöglicht. Wo viele Beschriftungen erforderlich waren, wurde eine ESRI-Satellitenkarte verwendet. Alle Karten können im PDF-Format heruntergeladen werden.</p>
 
+<div class="container">
 <div class="divTable">
 <div class="divTableBody">
 <div class="headRow">
@@ -65,6 +66,7 @@
 <div class="divTableCell" style="width:15%">Heinrich Wilhelm Harff von Dreyborn (1779-1781)</div>
 <div class="divTableCell" style="width:25%"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von der Leyen-Hohengeroldseck.pdf"><img style="max-width: 200px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von der Leyen-Hohengeroldseck.png" alt="map" /></a></div>
 <div class="divTableCell" style="width:15%">Damian Friedrich Graf von der Leyen (1781-1817, auch: von der Leyen-Hohengeroldseck)</div>
+</div>
 </div>
 </div>
 </div>
