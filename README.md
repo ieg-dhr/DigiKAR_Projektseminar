@@ -56,19 +56,19 @@
 
 <h4>Beteiligte Studierende</h4>
 
-<div class="container" align="center">
- <table border="0" style="width: 90%" style="padding: 30px">
-  <tr style="width:200px">
-    <td>Alina Buchal</td>
-    <td>Lara Beringer</td>
-    <td>Claudia Dorst Alonso</td>
-  </tr>
-  <tr style="width:200px">
-    <td>Julia Celine Jung</td>
-    <td>Lukas Theobald</td>
-    <td>Jana Unselt</td>
-  </tr>
-</table> 
+<div class="divTable">
+<div class="divTableBody">
+<div class="divTableRow">
+<div class="divTableCell">Alina Buchal</div>
+<div class="divTableCell">Lara Beringer</div>
+<div class="divTableCell">Claudia Dorst Alonso</div>
+</div>
+<div class="divTableRow">
+<div class="divTableCell">Julia Celine Jung</div>
+<div class="divTableCell">Lukas Theobald</div>
+<div class="divTableCell">Jana Unselt</div>
+</div>
+</div>
 </div>
 
 <em>Forschungsdatenmanagement:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
