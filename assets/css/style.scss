@@ -14,9 +14,9 @@
 .divTable {
           margin: auto;
           display: table;  
-          width: 90%;
+          max-width: 90%;
           background-color: rgba(0, 0, 0, 0.0);                 
-          border-spacing: 5px; /* cellspacing:poor IE support for  this */
+          border-spacing: 5px; 
           }
 
 .divTableBody {
@@ -37,7 +37,7 @@
              }
 
 .divTableCell {
-              float: left; /* fix for  buggy browsers */
+              float: left;
               display: table-column;                
               background-color: rgba(0, 0, 0, 0.0);  
               margin-right: 15px;
