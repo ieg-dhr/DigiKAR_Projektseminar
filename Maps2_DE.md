@@ -1,12 +1,12 @@
 <h2>Vergleichende Kartierung mehrerer Biographien</h2>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="450px" align="left" style="padding: 10px"/></a>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left" style="padding: 10px"/></a>
 
 <p align="justify">Ein Ansatz zur vergleichenden Darstellung von Daten ist die kategorisierte oder regelbasierte Einfärbungen von Punktgeometrien. Die erste Karte zeigt für jeden Domprobst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die nähere Umgebung der Stadt Mainz.</p>
 
 <hr>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="450px" align="right" style="padding: 10px"/></a>
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="400px" align="right" style="padding: 10px"/></a>
 
 <p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (1615–1675)</strong>, der sich in Florenz, Rom und Böhmen sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt. Die Mehrfachnennung bedeutet, dass er an den genannten Orten mehrere Ämter (teils mit zeitlichen Unterbrechungen) innehatte.</p>
 
