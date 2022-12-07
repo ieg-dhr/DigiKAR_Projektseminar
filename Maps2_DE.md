@@ -20,9 +20,9 @@
 <div class="divTableBody">
 <div class="headRow">
                 <div class="divTableCell" align="center" style="width:30%">Karte (PDF)</div>
-                <div  class="divTableCell" style="width:20%">Name</div>
-                <div class="divTableCell" style="width:30%">Karte (PDF)</div>
-                <div  class="divTableCell" style="width:20%">Name</div>
+                <div  class="divTableCell" align="center" style="width:20%">Name</div>
+                <div class="divTableCell" align="center" style="width:30%">Karte (PDF)</div>
+                <div  class="divTableCell" align="center" style="width:20%">Name</div>
 </div>
 <div class="divTableRow">
 <div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf"><img style="max-width: 250px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saulheim.png" alt="map" /></a></div>
