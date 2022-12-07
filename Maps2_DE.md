@@ -25,10 +25,10 @@
                 <div  class="divTableCell" align="center" style="width:20%">Name</div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf"><img style="max-width: 250px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saulheim.png" alt="map" /></a></div>
-<div class="divTableCell">Adolf Hund von Saulheim (1652-1668)</div>
-<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf"><img style="max-width: 250px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saal.png" alt="map" /></a></div>
-<div class="divTableCell">Johann von Heppenheim genannt von Saal (1668-1672)</div>
+<div class="divTableCell" style="width:30%"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf"><img style="max-width: 250px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saulheim.png" alt="map" /></a></div>
+<div class="divTableCell" style="width:20%">Adolf Hund von Saulheim (1652-1668)</div>
+<div class="divTableCell" style="width:30%"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf"><img style="max-width: 250px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saal.png" alt="map" /></a></div>
+<div class="divTableCell" style="width:20%">Johann von Heppenheim genannt von Saal (1668-1672)</div>
 </div>
 <div class="divTableRow">
 <div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich.pdf"><img style="max-width: 250px;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Metternich.png" alt="map" /></a></div>
