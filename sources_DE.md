@@ -1,6 +1,6 @@
 <h2>Quellen- und Literaturverzeichnis</h2>
 
-<p align="justify">
+<div class="bibliography">
 <ul>
 <li>Arens, Fritz: Mainzer Inschriften von 1651 bis 1800. I. Die Inschriften des Domes zu Mainz. Mainz 1982 (Beiträge zur Geschichte der Stadt Mainz; 26).</li>
 <li>Bärmann, Johannes: Verzeichnis der Studierenden der alten Universität Mainz. Lieferung I. Bd. 13. Wiesbaden 1979.</li>
@@ -54,4 +54,4 @@
 <li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Adolph_Hund_von_Saulheim">Adolph Hund von Saulheim</a> [16.06.2022].</li>
 <li>Würzburg Wiki: <a href="https://wuerzburgwiki.de/wiki/Johann_Philipp_Franz_von_Schönborn">Johann Philipp Franz von Schönborn</a> [16.06.2022].</li>
 </ul>
-<p>
+</div>
