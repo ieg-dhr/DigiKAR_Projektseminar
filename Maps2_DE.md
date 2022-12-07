@@ -20,12 +20,12 @@
 
 <div class="divTable">
 <div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableHead">Karte (PDF)</div>
-<div class="divTableHead">Name</div>
-<div class="divTableHead">Karte (PDF)</div>
-<div class="divTableHead">Name</div>
-</div>
+ <div class="headRow">
+                <div class="divTableCell" align="center">Name</div>
+                <div  class="divTableCell">Karte (PDF)</div>
+                <div class="divTableHead">Name</div>
+                <div  class="divTableCell">Name</div>
+             </div>
 <div class="divTableRow">
 <div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf"><img style="max-width: 100%;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saulheim.png" alt="" width="250px" /></a></div>
 <div class="divTableCell">Adolf Hund von Saulheim (1652-1668)</div>
