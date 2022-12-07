@@ -1,13 +1,17 @@
 <h2>Comparative mapping of biographies</h2>
 
-<p>One possibility to comparatively map data is the categorised or rule-based visualisation of geometries.</p>
-
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="400px" align="left"/></a>
 
-<p align="justify">The map shown here displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studied far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
+<p align="justify">One possibility to comparatively map data is the categorised or rule-based visualisation of geometries. The map shown here displays biographically relevant places for each cathedral provost in a different colour. While some clerics were comparatively mobile and studied far from Mainz, went on the <em>grand tour</em> or took on diplomatic missions, others' lives centred on the Electorate of Mainz or even the city of Mainz.</p>
+
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="400px" align="right"/></a>
 <p align="justify">One example of a more mobile cleric in the analysed data set is Dietich Kaspar von Fürstenberg who spent time in Florence, Rome and Bohemia as well as serveral places in present-day Belgium and France.</p>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a>
+<hr>
+
+<h2>Foci of the maps created</h2>
+
+<p align="justify">The individual maps produced in the project seminar were created in two working groups. One student group concentrated on the spiritual offices held by the persons studied, the second group also considered other life events (e.g. school education, academic studies, Grand Tour, diplomatic activity, or burial). These two focal points are visible in the maps shared here.</p>
 
 <hr>
 
@@ -78,5 +82,7 @@
 
 <hr>
 
-<p><strong>Maps created by:</strong><p>
-<p>Claudia Dorst Alonso, Lara Beringer und Lukas Theobald</p>
+<p><strong>Maps created by:</strong></p>
+<p>Jana Charlotte Unselt, Alina Buchal, Julia Celine Jung (clerical offices)</p>
+<p>Claudia Dorst Alonso, Lara Beringer, Lukas Theobald (general biographical events)</p>
+
