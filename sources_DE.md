@@ -19,7 +19,7 @@
 <li>Jürgensmeier, Friedhelm (Hrsg.): Neuzeit und Moderne. Würzburg 2002 (Handbuch der Mainzer Kirchengeschichte; 3, 1).</li>
 <li>Klassert, Martin Ludwig: Das Mainzer Kollegiatstift St. Peter. Bemerkenswertes aus der Geschichte des Stifts, seiner Besitzungen in der Stadt Mainz und seinen Mitgliedern. In: Archiv für hessische Geschichte und Altertumskunde NF 52 (1994), S. 11–138.</li>
 <li>Keussen, Hermann [u.a.]: Die Matrikel der Universität Köln. 8 Bde. Düsseldorf/Bonn 1892–1981 (Publikationen der Gesellschaft für Rheinische Geschichtskunde; 8).</li>
- <li><a href="https://www.dilibri.de/1408118">Kurmainzischer Hof- und Staatskalender. 1740–1789</a> [27.07.2022].</li>
+<li><a href="https://www.dilibri.de/1408118">Kurmainzischer Hof- und Staatskalender. 1740–1789</a> [27.07.2022].</li>
 <li>Lahrkamp, Helmut: Dietrich Caspar v. Fürstenberg (1615–1675). In: Lahrkamp, Helmut / Richtering, Helmut / Schöne, Manfred / Theuerkauf, Gerhard [Hrsg.]: Fürstenbergsche Geschichte. Bd. 3: Die Geschichte des Geschlechts Fürstenberg im 17. Jahrhundert. Münster 1971, S. 96–106.</li> 
 <li>Landeshauptarchiv Koblenz: Bestand 48, Nr. 117, 118, 119, 120.</li>
 <li>Luschberger, Franz: <a href="http://www.historische-eschborn.de/berichte/Main-Taunus-Kreis/Mainzer_Domkapitel/body_mainzer_domkapitel.html">Das Mainzer Domkapitel als Ortsherrschaft in Flörsheim und Hochheim </a>, Historiches Eschborn: Berichte [26.07.2022].
@@ -31,7 +31,7 @@
 <li>Pauly, Ferdinand: Die Bistümer der Kirchenprovinz Trier. Das Erzbistum Trier. Bd. 3: Das Stift St. Kastor in Karden an der Mosel. In. Germania sacra NF 19 (1986), S. 313.</li>
 <li>Rauch, Günter: Das Mainzer Domkapitel in der Neuzeit. Zu Verfassung und Selbstverständnis einer adligen geistlichen Gemeinschaft. In: ZRG KA 63 (1977), S. 132–179.</li>
 <li>Rauch, Günter: Pröpste, Propstei und Stift von Sankt Bartholomäus in Frankfurt. 9. Jahrhundert bis 1802. Frankfurt am Main 1975 (Studien zur Frankfurter Geschichte 8).</li>
- <li>Reiter, Ernst: <a href="https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben">Marquard II</a>. In: Neue Deutsche Biographie, Bd. 16: 1990, S. 239–240, [26.07.2022].</li>
+<li>Reiter, Ernst: <a href="https://www.deutsche-biographie.de/sfz58490.html#ndbcontent_leben">Marquard II</a>. In: Neue Deutsche Biographie, Bd. 16: 1990, S. 239–240, [26.07.2022].</li>
 <li>Robens, Arnold: Der ritterbürtige landständische Adel des Großherzogthums Niederrhein, dargestellt in Wappen und Abstammungen, 2 Bde. Aachen 1818.</li>
 <li>Romberg, Winfried: Germania Sacra. Dritte Folge. Die Bistümer der Kirchenprovinz Mainz. Bd. 8: Das Bistum Würzburg. Die Würzburger Bischöfe von 1684–1746. Berlin 2014.</li>
 <li>Salver, Johann O.: Proben des hohen Teutschen Reichs Adels oder Sammlungen alter Denkmäler, Grabsteinen, Wappen, Inn- und Urschriften, u. d. Nach ihrem wahren Urbilde aufgenommen, unter offener Treüe bewähret, und durch Anenbaüme auch sonstige Nachrichten erkläret und erlaüteret. o.O. 1775.</li>
@@ -40,7 +40,7 @@
 <li>Schrohe, Heinrich: Die Stadt Mainz unter kurfürstlicher Verwaltung (1462–1792). Mainz 1920 (Beiträge zur Geschichte der Stadt Mainz; 5).</li>
 <li>Specht, Thomas: Die Matrikel der Universität Dillingen. Bd. 1: 1551–1645. Dillingen 1909–1911 (Archiv für die Geschichte des Hochstifts Augsburg; 2).</li>
 <li>Theux de Montjardin, Joseph Henri Louis de: Le Chapitre de Saint Lambert à Liège. 3 Bde. Brüssel 1871.</li>
- <li>Universität Erfurt: <a href="https://www.uni-erfurt.de/fileadmin/fakultaet/philosophische/Historisches_Seminar/Forschung/Geschichte_der_aelteren_Erfurter_Universitaet/Liste_Rektoren_Universitaet_Erfurt.pdf">Rektoren der Universität (1392–1816)</a> [25.06.2022].</li>
+<li>Universität Erfurt: <a href="https://www.uni-erfurt.de/fileadmin/fakultaet/philosophische/Historisches_Seminar/Forschung/Geschichte_der_aelteren_Erfurter_Universitaet/Liste_Rektoren_Universitaet_Erfurt.pdf">Rektoren der Universität (1392–1816)</a> [25.06.2022].</li>
 <li>Von Wurzbach, Constantin: Stadion, Christoph Rudolf. In: Biographisches Lexikon des Kaisertums Österreich 37 (1878), S. 26.</li>
 <li>Weidenbach, Hofrath: Die Freiherren zu Breidbach zu Bürresheim. In: Annalen des Historischen Vereins für den Niederrhein 24 (1872), S. 70–125.</li>
  <li>Wendehorst, Alfred: <a href="https://www.deutsche-biographie.de/pnd118976788.html#ndbcontent">Johann Philipp Franz Graf von Schönborn</a>. In: Neue Deutsche Biographie. Bd. 10: 1974, S. 546 [Online-Version], [16.06.2022].</li>
