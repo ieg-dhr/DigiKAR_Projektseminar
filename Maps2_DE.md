@@ -83,5 +83,5 @@
 <hr>
 
 <p><strong>Karten erstellt von:</strong><p>
-<p>Geistliche Ämter: Jana Charlotte Unselt, Alina Buchal, Julia Celine Jung</p>
-<p>Allgemeine Lebensstationen: Claudia Dorst Alonso, Lara Beringer, Lukas Theobald</p>
+<p>Jana Charlotte Unselt, Alina Buchal, Julia Celine Jung (Geistliche Ämter)</p>
+<p>Claudia Dorst Alonso, Lara Beringer, Lukas Theobald (Allgemeine Lebensstationen)</p>
