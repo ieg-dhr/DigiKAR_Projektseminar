@@ -15,7 +15,7 @@
 <p align="justify"><strong>EN:</strong> This repository contains data and visualisations of early modern clerical biographies. The data were collected by history students of the Master's seminar <b>Mobility in Electoral Mainz</b> in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. The project seminar was part of the <a href="https://modell-m.uni-mainz.de/">ModeLL-M</a> project at the <a href="https://www.uni-mainz.de/">Johannes-Gutenberg-University Mainz</a>. In <em>ModeLL-M</em>, models of digitally extended project teaching are being developed and tested in the History Department. The History Department was supported by partner institutes in the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project, which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
 <div class="container" align="center">
-<table border="0" style="width: 100%" align="center" style="padding:20px" cellspacing="0" cellpadding="0">
+<table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
     <th>Inhalt                              </th>
@@ -77,7 +77,7 @@
 <h4>Beteiligte Studierende / participating students</h4>
 
 <div class="container" align="center">
- <table border="0" style="width: 90%" align="center" style="padding: 30px">
+ <table border="0" style="width: 90%" style="padding: 30px">
   <tr style="width:200px">
     <td>Alina Buchal</td>
     <td>Lara Beringer</td>
