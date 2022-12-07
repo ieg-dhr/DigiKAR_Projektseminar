@@ -14,12 +14,8 @@
 <div class="container" align="center">
 <h4>Inhalt</h4>
 <table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
-<tr>
-    <th style="width: 10%"></th>
-    <th style="width: 90%"></th>
-  </tr>
   <tr>
-    <td><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
+    <td style="width: 10%"><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></td>
   </tr>
   <tr>
