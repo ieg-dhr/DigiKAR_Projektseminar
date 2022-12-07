@@ -35,5 +35,7 @@ jedoch recht verlässlich überliefert. Die einzelnen Titel können dem <a href=
 
 <p align="justify">Für Mainz sind neben dem Domkapitel auch die einzelnen Stifte genannt. Auch das Stift St. Burkhard in Würzburg ist separat erfasst. Hier erfolgte im April 1609 die Aufschwörung von Adolph Hund von Saulheim. Im Sinne einer umfassenden Interpretation der Untersuchungsergebnisse sollten verschiedene Kartenansichten vergleichend verwendet werden.</p>
 
+<hr>
+
 <p><strong>Karten erstellt von:</strong><p>
 <p>Jana Charlotte Unselt, Alina Buchal und Julia Celine Jung</p>
