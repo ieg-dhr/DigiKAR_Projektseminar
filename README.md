@@ -11,12 +11,12 @@
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="padding:15px; float:left"/></a> 
     <img src="./assets/WhiteBox.png" height="95px" width="100px" style="float:left"/>
 </div>
-<hr>
+<h4>Inhalt</h4>
 <div class="container" align="center">
 <table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
 <tr>
-    <th style="width:50px"></th>
-    <th>Inhalt                              </th>
+    <th style="width: 10%"></th>
+    <th style="width: 90%"></th>
   </tr>
   <tr>
     <td><img src="./assets/introduction.png" alt="drawing" width="40" style="horizontal-align:middle"/></td>
