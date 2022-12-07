@@ -3,18 +3,19 @@
 <p align="justify"><strong>DE:</strong> Dieses Repositorium enthält Daten und Visualisierungen frühneuzeitlicher Klerikerbiographien. Die Daten wurden von Geschichtsstudierenden des Master-Seminars <b>Mobilität in Kurmainz</b> im Sommersemester 2022 erhoben. Hauptziel des Seminars war es, die Studierenden im Umgang mit historischen Quellen zu schulen und ontologische Probleme zu diskutieren, die sich aus wissenschaftlichen Versuchen ergeben, biographische und räumliche Informationen zu strukturieren und zu normalisieren. Das Projektseminar wurde im Rahmen des <a href="https://modell-m.uni-mainz.de/">ModeLL-M-Projekts</a> an der <a href="https://www.uni-mainz.de/">Johannes-Gutenberg-Universität Mainz</a> durchgeführt. In <em>ModeLL-M</em> werden am Historischen Seminar Modelle digital erweiterter Projektlehre entwickelt und erprobt. Unterstützt wurde das Historische Seminar von Partnerinstituten im <a href="https://digikar.eu/">DigiKAR</a> Geohumanities-Projekt, das räumliche Beziehungen und Mobilität im frühneuzeitlichen Heiligen Römischen Reich experimentell visualisiert.</p>
 
 <div class="container" align="center">
-    <img src="./assets/WhiteBox.png" height="95px" width="45px" style="float:left"/>
+    <img src="./assets/WhiteBox.png" height="95px" width="145px" style="float:left"/>
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" height="93px" style="padding:15px; float:left"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="padding:15px; float:left"/></a> 
-    <img src="./assets/WhiteBox.png" height="95px" width="45px" style="float:left"/>
+    <img src="./assets/WhiteBox.png" height="95px" width="145px" style="float:left"/>
 </div>
 
 <p align="justify"><strong>EN:</strong> This repository contains data and visualisations of early modern clerical biographies. The data were collected by history students of the Master's seminar <b>Mobility in Electoral Mainz</b> in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. The project seminar was part of the <a href="https://modell-m.uni-mainz.de/">ModeLL-M</a> project at the <a href="https://www.uni-mainz.de/">Johannes-Gutenberg-University Mainz</a>. In <em>ModeLL-M</em>, models of digitally extended project teaching are being developed and tested in the History Department. The History Department was supported by partner institutes in the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project, which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
-<table border="0" style="width: 100%" align="center" style="padding:20px" cellspacing="0" cellpadding="0">
+<div class="container" align="center">
+<table border="0" style="width: 100%" style="padding:20px" cellspacing="0" cellpadding="0">
 <tr>
     <th style="width:50px"></th>
     <th>Inhalt                              </th>
@@ -64,6 +65,7 @@
     <td><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_EN.html">Primary sources and research literature</a></td>
   </tr>
 </table> 
+</div>
 
 <h4>Lehrende / teaching staff</h4>
 <p align="justify">
@@ -74,7 +76,8 @@
 
 <h4>Beteiligte Studierende / participating students</h4>
 
- <table border="0" style="width: 90%" align="center" style="padding: 30px">
+<div class="container" align="center">
+ <table border="0" style="width: 90%" style="padding: 30px">
   <tr style="width:200px">
     <td>Alina Buchal</td>
     <td>Lara Beringer</td>
@@ -86,13 +89,17 @@
     <td>Jana Unselt</td>
   </tr>
 </table> 
+</div>
 
 <em>Forschungsdatenmanagement / research data management:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
 <em>DigiKAR Projektmanagement / DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
 
 <hr>
 <figure>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" style="padding: 10px" style="horizontal-align:middle"/> 
+<div style="text-align: center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Wenzel_Hollar_Mainzer_Dom_1632.jpg" width="650px" style="padding: 10px"/> 
+</div>
 <figcaption>Wenzel Hollar: St. Martinsdom in Mainz, pen drawing, 1632, photograph of original work by Stefan Volk, 2015, <a href="https://commons.wikimedia.org/wiki/File:Wenzel_Hollar_Mainzer_Dom_1632.jpg">Wikimedia Commons</a></figcaption>
 </figure> 
+
 
