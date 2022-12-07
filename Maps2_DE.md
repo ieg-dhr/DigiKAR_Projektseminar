@@ -6,13 +6,13 @@
 
 <hr>
 
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="450px" align="right" style="padding: 10px"/></a>
+
 <p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (1615–1675)</strong>, der sich in Florenz, Rom und Böhmen sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt. Die Mehrfachnennung bedeutet, dass er an den genannten Orten mehrere Ämter (teils mit zeitlichen Unterbrechungen) innehatte.</p>
 
 <h2>Schwerpunkte der erstellten Karten</h2>
 
 <p align="justify">Die Einzelkarten, die im Projektseminar entstanden, wurden von den Studierenden in zwei Arbeitsgruppen erstellt. Eine Gruppe konzentrierte sich auf die geistlichen Ämtern der untersuchten Personen, die zweite Gruppe bezog auch andere Lebensstationen (z.B. Schulausbildung, Studium, Kavalierstour, Gesandtentätigkeit, oder Beisetzung) in die Untersuchung ein. Diese beiden Schwerpunkte sind in den hier geteilten Karten sichtbar.</p>
-
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="450px" align="right" style="padding: 10px"/></a>
 
 <hr>
 
