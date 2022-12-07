@@ -49,10 +49,10 @@
 
 <h4>Lehrende</h4>
 <p align="justify">
-<em>Seminarleitung & historische Inhalte / course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
-<em>Datenerfassung & Bibliographie / data collection & bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel</a><br>
-<em>Einführung "wissenschaftliche Kartographie" / introduction "scientific cartography":</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
-<em>Einführung "QGIS" & Webdesign / introduction "QGIS" & web design:</em> <a href="https://www.maastrichtuniversity.nl/p70076654">Monika Barget</a><br> 
+<em>Seminarleitung & historische Inhalte:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
+<em>Datenerfassung & Bibliographie:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel</a><br>
+<em>Einführung "wissenschaftliche Kartographie":</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
+<em>Einführung "QGIS" & Webdesign:</em> <a href="https://www.maastrichtuniversity.nl/p70076654">Monika Barget</a><br> 
 
 <h4>Beteiligte Studierende</h4>
 
