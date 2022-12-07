@@ -4,15 +4,18 @@
 @import "{{ site.theme }}";
 .wrapper {width: 850px; max-width: 100%;}
 
+/* setting for HTML tables */
 .table {border: none;
         background-color: rgba(0, 0, 0, 0.0);}
 
 .dt {background-color:transparent;}
 
+/* settings for div containers */
 .container {overflow: hidden;
             margin: 0 auto;
            }
 
+/* settings for div tables */
 .divTable {
           margin: 0 auto;
           display: table;  
@@ -46,7 +49,9 @@
               background-color: rgba(0, 0, 0, 0.0);  
               margin-right: 10px;
               overflow-wrap: normal;
-              }
+             }
+
+/* paragraph settings */
 .p {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -57,11 +62,11 @@
  /* 5 logos in containers */
 .logoColumn {
   float: left;
-  width: 20%;
+  width: 15%;
   padding: 15px;
 }
 
-/* Clear floats after image containers */
+/* clear floats after logo container */
 .logoRow::after {
   content: "";
   clear: both;
