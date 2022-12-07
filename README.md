@@ -9,7 +9,7 @@
 <div class="logoColumn">
     <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="float:left"/></a>
 </div>
-<div class="logoColumn_long">
+<div class="logoColumnlong">
     <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="float:left"/></a>
 </div>
 <div class="logoColumn">
