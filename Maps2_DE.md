@@ -1,10 +1,8 @@
 <h2>Vergleichende Kartierung mehrerer Biographien</h2>
 
-<p>Ein Ansatz zur vergleichenden Darstellung von Daten ist die kategorisierte oder regelbasierte Einfärbungen von Punktgeometrien.</p>
-
 <a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="450px" align="left" style="padding: 10px"/></a>
 
-<p align="justify">Die obige Karte zeigt für jeden Domprobst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die nähere Umgebung der Stadt Mainz.</p>
+<p align="justify">Ein Ansatz zur vergleichenden Darstellung von Daten ist die kategorisierte oder regelbasierte Einfärbungen von Punktgeometrien. Die erste Karte zeigt für jeden Domprobst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die nähere Umgebung der Stadt Mainz.</p>
 
 <hr>
 
@@ -20,17 +18,17 @@
 
 <div class="divTable">
 <div class="divTableBody">
- <div class="headRow">
-                <div class="divTableCell" align="center">Name</div>
-                <div  class="divTableCell">Karte (PDF)</div>
-                <div class="divTableHead">Name</div>
-                <div  class="divTableCell">Name</div>
-             </div>
+<div class="headRow">
+                <div class="divTableCell" align="center" width="25%">Name</div>
+                <div  class="divTableCell" width="25%">Karte (PDF)</div>
+                <div class="divTableCell" width="25%">Name</div>
+                <div  class="divTableCell" width="25%">Name</div>
+</div>
 <div class="divTableRow">
-<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf"><img style="max-width: 100%;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saulheim.png" alt="" width="250px" /></a></div>
-<div class="divTableCell">Adolf Hund von Saulheim (1652-1668)</div>
-<div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf"><img style="max-width: 100%;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saal.png" alt="" width="250px" /></a></div>
-<div class="divTableCell">Johann von Heppenheim genannt von Saal (1668-1672)</div>
+<div class="divTableCell" width="25%"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saulheim.pdf"><img style="max-width: 100%;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saulheim.png" alt="" width="250px" /></a></div>
+<div class="divTableCell" width="25%">Adolf Hund von Saulheim (1652-1668)</div>
+<div class="divTableCell" width="25%"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Saal.pdf"><img style="max-width: 100%;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Saal.png" alt="" width="250px" /></a></div>
+<div class="divTableCell" width="25%">Johann von Heppenheim genannt von Saal (1668-1672)</div>
 </div>
 <div class="divTableRow">
 <div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Von Metternich.pdf"><img style="max-width: 100%;" src="https://github.com/ieg-dhr/DigiKAR_Projektseminar/raw/pages-dev/maps/Von Metternich.png" alt="" width="250px" /></a></div>
