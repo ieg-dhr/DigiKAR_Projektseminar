@@ -20,18 +20,21 @@
           }
 
 .divTableBody {
+	margin: auto;
 	display: table-row-group;
               }
 
 .headRow {
-             display: table-row;
+             margin: auto;
+	     display: table-row;
              width: auto;
              clear: both;
              font-weight: bold;
              }
 
 .divTableRow {
-             display: table-row;
+             margin: auto;
+	     display: table-row;
              width: auto;
              clear: both;
              }
