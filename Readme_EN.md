@@ -2,12 +2,24 @@
 
 <p align="justify">This repository contains data and visualisations of early modern clerical biographies. The data were collected by history students of the Master's seminar <b>Mobility in Electoral Mainz</b> in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. The project seminar was part of the <a href="https://modell-m.uni-mainz.de/">ModeLL-M</a> project at the <a href="https://www.uni-mainz.de/">Johannes-Gutenberg-University Mainz</a>. In <em>ModeLL-M</em>, models of digitally extended project teaching are being developed and tested in the History Department. The History Department was supported by partner institutes in the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project, which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
-<div class="logos">
-    <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" height="93px" style="padding:15px; float:left"/></a>
-    <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="padding:15px; float:left"/></a> 
+<div class="container">
+<div class="logoRow">
+<div class="logoColumn">
+    <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" height="93px" style="float:left"/></a>
+</div>
+<div class="logoColumn">
+    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" height="93px" style="float:left"/></a>
+</div>
+<div class="logoColumnlong">
+    <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" height="93px" style="float:left"/></a>
+</div>
+<div class="logoColumn">
+    <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" height="93px" style="float:left"/></a>
+</div>
+<div class="logoColumn">
+    <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" height="93px" style="float:left"/></a> 
+</div>
+</div>
 </div>
 
 <div class="container">
