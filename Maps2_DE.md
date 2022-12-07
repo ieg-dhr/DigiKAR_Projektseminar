@@ -73,3 +73,8 @@
 
 <a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.pdf"><img src="./maps/Beispiel Drucklayout.png" width="450px" align="left" style="padding: 10px"/></a>
 <p align="justify" style="padding: 10px">Eine optisch schönere Lösung als die oben gezeigten Einzelkarten bietet eine exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren beispielhaft vorgenommen werden konnte.</p>
+
+<hr>
+
+<p><strong>Karten erstellt von:</strong><p>
+<p>Claudia Dorst Alonso, Lara Beringer und Lukas Theobald</p>
