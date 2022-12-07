@@ -2,7 +2,7 @@
 
 <p>Ein Ansatz zur vergleichenden Darstellung von Daten ist die kategorisierte oder regelbasierte Einfärbungen von Punktgeometrien.</p>
 
-<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="650px" align="center"/></a>
+<a href="./maps/Map_Domherren_byNAME.png"><img src="./maps/Map_Domherren_byNAME.png" width="450px" align="left" style="padding: 10px"/></a>
 
 <p align="justify">Die obige Karte zeigt für jeden Domprobst biographisch relevante Orte in einer anderen Farbe. Während einige Kleriker vergleichsweise mobil waren und weit entfernt von Mainz studierten, die "Grand Tour" (Kavaliersreise) unternahmen oder in diplomatischer Mission unterwegs waren, konzentrierte sich das Leben anderer auf das Kurfürstentum Mainz oder sogar auf die nähere Umgebung der Stadt Mainz.</p>
 
@@ -10,7 +10,7 @@
 
 <p align="justify">Ein Beispiel für einen mobileren Kleriker im analysierten Datensatz ist <strong>Dietrich Kaspar von Fürstenberg (1615–1675)</strong>, der sich in Florenz, Rom und Böhmen sowie an mehreren Orten im heutigen Belgien und Frankreich aufhielt. Die Mehrfachnennung bedeutet, dass er an den genannten Orten mehrere Ämter (teils mit zeitlichen Unterbrechungen) innehatte.</p>
 
-<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="650px" align="center"/></a>
+<a href="./maps/Map_DietrichKaspar-von-Fürstenberg.png"><img src="./maps/Map_DietrichKaspar-von-Fürstenberg.png" width="450px" align="right" style="padding: 10px"/></a>
 
 <hr>
 
@@ -132,5 +132,5 @@
 
 <p align="justify" style="padding: 10px">Eine optisch schönere Lösung als die oben gezeigten Einzelkarten bietet eine exemplarisch für <strong>Marquard Schenk von Kastell</strong> erstellte Karte, die auf einem QGIS „Drucklayout“ beruht. Diese Karte integriert eine Legende und einen Maßstab, was in der Erstellung allerdings sehr zeitaufwändig ist und daher nur für einen Domherren beispielhaft vorgenommen werden konnte.</p>
 
-<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.pdf"><img src="./maps/Beispiel Drucklayout.png" width="650px" align="center"/></a>
+<a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/main/Static Maps PDFs/Beispiel Drucklayout.pdf"><img src="./maps/Beispiel Drucklayout.png" width="450px" align="left" style="padding: 10px"/></a>
 
