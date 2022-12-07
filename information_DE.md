@@ -7,9 +7,9 @@
 <div class="divTable">
 <div class="divTableBody">
 <div class="headRow">
-<div class="divTableCell">NAME</div>
-<div class="divTableCell">LEBENSDATEN</div>
-<div class="divTableCell">AMTSZEIT<br /> ALS DOMPROBST</div>
+<div class="divTableCell" style="width:60%">NAME</div>
+<div class="divTableCell" style="width:20%">LEBENSDATEN</div>
+<div class="divTableCell" style="width:20%">AMTSZEIT<br /> ALS DOMPROBST</div>
 </div>
 <div class="divTableRow">
 <div class="divTableCell"><a href="https://github.com/ieg-dhr/DigiKAR_Projektseminar/blob/pages-dev/CSV tables/CSV_Domherren_individualBIOGRAPHIES/Adolph Hund von Saulheim.csv">Adolph Hund von Saulheim</a></div>
