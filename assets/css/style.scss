@@ -42,7 +42,19 @@
 	flex-direction: flex-start;
 	flex-wrap: wrap;
 	gap: 15px;
-}
+	}
+
+/* settings for sinlge map list */
+.singleMaps {width: 100%;
+	display:flex;
+	flex-direction: flex-start;
+	flex-wrap: wrap;
+	gap: 10px
+	}
+
+.singleMaps > div > div, a {
+	max-width: 180px
+	}
 
 /* settings for div tables */
 .divTable {
