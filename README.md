@@ -4,7 +4,7 @@
 
 <div class="container logoRow">
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" style="max-height:93px" /></a>
-    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" style="max-height="93px" /></a>
+    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" style="max-height:93px" /></a>
     <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" style="max-height:93px" /></a>
     <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" style="max-height:93px"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" style="max-height:93px" /></a> 
@@ -13,19 +13,19 @@
 <div class="container toc">
 <h4>Inhalt</h4>
 <ul style="list-style-type:none;">
-<li><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/introduction.png" alt="drawing" width="40"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></li>
-<li><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/persons.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Untersuchte Personen</a></li>
-<li><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/geocoding.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a></li>
-<li><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/map1.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">Interaktive Karte</a></li>
-<li style="color: #63a52a;"><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/map2.png" alt="drawing" width="40">Karten: 
+<li><img style="margin-right: 15px" src="./assets/introduction.png" alt="drawing" width="40"><a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/introduction_DE.html">Einführung</a></li>
+<li><img style="margin-right: 15px" src="./assets/persons.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_DE.html">Untersuchte Personen</a></li>
+<li><img style="margin-right: 15px" src="./assets/geocoding.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/geocoding_DE.html">Geokodierung</a></li>
+<li><img style="margin-right: 15px" src="./assets/map1.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/interactive-map_DE.html">Interaktive Karte</a></li>
+<li style="color: #63a52a;"><img style="margin-right: 15px" src="./assets/map2.png" alt="drawing" width="40">Karten: 
 	<ul style="list-style-type:none; padding-left: 55px;">
 	<li style="line-heigt: 1.0; margin-bottom: 0;"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps1_DE.html">1) Orte der Aufschwörungen</a></li>
 	<li style="line-heigt: 1.0; margin-bottom: 0;"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps2_DE.html">2) Kartierung einzelner Biographien</a></li>
 	<li style="line-heigt: 1.0; margin-bottom: 0;"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/Maps3_DE.html">3) Gesamtdarstellung der Aktionszentren</a></li>
 	</ul>
 </li>
-<li><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/network.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_DE.html">Netzwerkdiagramm</a></li>
-<li><img style="margin-right: 15px" src="Mobilit%C3%A4t%20in%20Kurmainz%20(1600-1800)Mobility%20in%20Electoral%20Mainz%20(1600-1800)-Dateien/information.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_DE.html">Quellen und Literatur</a></li>
+<li><img style="margin-right: 15px" src="./assets/network.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/network-graph_DE.html">Netzwerkdiagramm</a></li>
+<li><img style="margin-right: 15px" src="./assets/information.png" alt="drawing" width="40"><a style="text-align: left;" href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_DE.html">Quellen und Literatur</a></li>
 </ul>    
 </div>
 
@@ -37,7 +37,7 @@
 <em>Einführung "wissenschaftliche Kartographie":</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
 <em>Einführung "QGIS" & Webdesign:</em> <a href="https://www.maastrichtuniversity.nl/p70076654">Monika Barget</a><br> 
 <h4>Beteiligte Studierende</h4>
-<div class="container studentRow">
+<div class="container studentsRow">
 <div>Alina Buchal</div><div>Lara Beringer</div><div>Claudia Dorst Alonso</div><div>Julia Celine Jung</div><div>Lukas Theobald</div><div>Jana Unselt</div></div>
 <h4>Unterstützung</h4>
 <p><em>Forschungsdatenmanagement:</em> <a href="https://www.ieg-mainz.de/en/research/digital_historical_research/dh-lab">IEG Mainz DH Lab</a><br> 
