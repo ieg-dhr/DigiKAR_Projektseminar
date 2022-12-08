@@ -15,6 +15,35 @@
             margin: 0 auto;
            }
 
+/* settings for logo row */
+.logoRow {width: 100%;
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+	gap: 5px;
+	}
+
+/* clear floats after logo container */
+.logoRow::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
+
+/* settings for TOC container */
+.toc {width: 500px;
+	max-width: 100%;
+	align: center;
+}
+
+/* settings for students container */
+.studentsRow {width: 100%;
+	display:flex;
+	flex-direction: flex-start;
+	flex-wrap: wrap;
+	gap: 15px;
+}
+
 /* settings for div tables */
 .divTable {
           margin: 0 auto;
@@ -58,27 +87,6 @@
   margin-right: 30px;
   margin-left: 30px;
 }
-
- /* 4 small logos in container */
-.logoColumn {
-  float: left;
-  width: 13%;
-  padding: 15px;
-}
-
- /* 1 long logo in container */
-.logoColumnlong {
-  float: left;
-  width: 26%;
-  padding: 15px;
-}
-
-/* clear floats after logo container */
-.logoRow::after {
-  content: "";
-  clear: both;
-  display: table;
-} 
 
 /* format bibliography */
 .bibliography {
