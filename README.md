@@ -4,7 +4,7 @@
 
 <div class="container logoRow">
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" style="max-height:93px" /></a>
-    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" max-height="93px" /></a>
+    <a href="https://www.ieg-mainz.de/"><img src="./Logos_DigiKAR/logo_ieg.jpg" style="max-height="93px" /></a>
     <a href="https://modell-m.uni-mainz.de/"><img src="./Logos_DigiKAR/ModeLL-M_Logo mit Textzusatz_RGB.png" style="max-height:93px" /></a>
     <a href="https://www.uni-mainz.de/"><img src="./Logos_DigiKAR/Johannes_Gutenberg-Universit%C3%A4t_Mainz_logo.png" style="max-height:93px"/></a>
     <a href="https://leibniz-ifl.de/"><img src="./Logos_DigiKAR/logo_ifl.jpg" style="max-height:93px" /></a> 
