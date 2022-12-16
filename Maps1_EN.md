@@ -6,13 +6,13 @@
 
 <p align="justify">The map above shows the locations of all cathedral chapters and collegiate chapters where the cathedral provosts of the Mainz cathedral chapter were sworn in during their lives. The larger red location dots indicate the number of swearings-in recorded at the respective locations, regardless of the institutions involved. Place dots without numbers mean that only one swearing-in took place.</p> 
 
-<p align="justify">The <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/information_EN.html">fourteen cathedral provosts</a> who were elected as cathedral provosts in the Mainz cathedral chapter between 1650 and 1817 were considered. In addition to the cathedral chapters in Mainz, Trier, Speyer, Bamberg, Worms, Würzburg, Eichsstätt, Hildesheim and Minden, the map depicts the swearing-in 
+<p align="justify">The <a href="information_EN.html">fourteen cathedral provosts</a> who were elected as cathedral provosts in the Mainz cathedral chapter between 1650 and 1817 were considered. In addition to the cathedral chapters in Mainz, Trier, Speyer, Bamberg, Worms, Würzburg, Eichsstätt, Hildesheim and Minden, the map depicts the swearing-in 
 of individual cathedral provosts in various other monasteries. The map shows various swearing-in ceremonies in the area between Brunswick and Hanover in the 
 north and Ingolstadt in the south, since none of the selected cathedral provosts was sworn in at chapters further south. The families of the 
 cathedral provosts predominantly held the rank of imperial knights, which could be the reason for the low number of swearings-in at the cathedral chapter of 
 Cologne and the lack of swearings-in in Strasbourg, where the rank of imperial count was a prerequisite for access.</p>
 
-<p>The source and literature basis for research on the lives of the individual cathedral provosts varies considerably, but the places of swearings-in have been quite reliably handed down. The resources used for our research can be found in <a href="https://ieg-dhr.github.io/DigiKAR_Projektseminar/sources_EN">list of primary sources and research literature</a>.</p>
+<p>The source and literature basis for research on the lives of the individual cathedral provosts varies considerably, but the places of swearings-in have been quite reliably handed down. The resources used for our research can be found in <a href="sources_EN">list of primary sources and research literature</a>.</p>
 
 <hr>
 
