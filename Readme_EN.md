@@ -13,7 +13,7 @@
 </div>
 
 <div class="container toc">
-<h4>Inhalt</h4>
+<h4>Contents</h4>
 <ul style="list-style-type:none;">
 <li><img style="margin-right: 15px" src="./assets/introduction.png" alt="drawing" width="40"><a href="introduction_EN.html">Introduction</a></li>
 <li><img style="margin-right: 15px" src="./assets/persons.png" alt="drawing" width="40"><a style="text-align: left;" href="information_EN.html">Persons studied</a></li>
