@@ -1,6 +1,8 @@
 <h2>DigiKAR Project Seminar</h2>
 
-<p align="justify">This repository contains data and visualisations of early modern clerical biographies. The data were collected by history students of the Master's seminar <b>Mobility in Electoral Mainz</b> in the summer term of 2022. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. The project seminar was part of the <a href="https://modell-m.uni-mainz.de/">ModeLL-M</a> project at the <a href="https://www.uni-mainz.de/">Johannes-Gutenberg-University Mainz</a>. In <em>ModeLL-M</em>, models of digitally extended project teaching are being developed and tested in the History Department. The History Department was supported by partner institutes in the <a href="https://digikar.eu/">DigiKAR</a> geohumanities project, which experimentally visualises spatial relations and mobility in the early modern Holy Roman Empire.</p>
+<p align="justify">This repository contains data and visualizations of early modern clerical biographies. These are the results from a project seminar on mobility in Kurmainz in the early modern period, which was conducted in the summer semester of 2022 at the <a href="https://neueregeschichte.uni-mainz.de/">Section for Modern History in the Department of History at the Johannes Gutenberg University Mainz (JGU)</a>. The data were collected by students of history in the context of this master's seminar. The foremost aim of the seminar was to train the students in working with historical sources and understanding ontological problems arising from researchers' attempts to structure and normalise biographic and spatial information. This website gives an insight into the joint work in the seminar, to the evaluated sources, methods and results.</p>
+
+<p align="justify">The project seminar “Mobility in Kurmainz” contributed to the development and testing of models for digitally enhanced project-oriented teaching at the History Department of the JGU and was conceived within the framework of ModeLL-M (Mainz Models for Digitally Enhanced Teaching and Learning). The goal of <a href="https://modell-m.uni-mainz.de/">ModeLL-M</a> is to strengthen feedback, activation, self-controlling, and collaboration in student-centered teaching and learning through hybrid learning settings. In terms of content and methodology, the seminar is also embedded in the joint project <a href="https://digikar.eu/">“Digitale Kartenwerkstatt Altes Reich” (DigiKAR)</a>, which is funded by the Leibniz Association and in which JGU is participating. Therefore, in addition to the Historical Department, DigiKAR project partners were also involved in teaching. DigiKAR is a geohumanities project that experimentally visualizes spatial relations and mobility in the early modern Holy Roman Empire.</p>
 
 <div class="container logoRow">
     <a href="https://digikar.eu/"><img src="./Logos_DigiKAR/DigiKAR_logo-small.png" style="max-height:93px" /></a>
@@ -34,8 +36,8 @@
 <p align="justify">
 <em>Course coordination & historical content:</em> <a href="https://neueregeschichte.uni-mainz.de/mitarbeiter/apl-prof-dr-bettina-braun/">Bettina Braun</a><br>
 <em>Data collection & bibliography:</em> <a href="https://neueregeschichte.uni-mainz.de/florian-stabel-m-a-m-ed-diplom-archivar-fh/">Florian Stabel</a><br>
-<em>Introduction "scientific cartography":</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
-<em>Introduction "QGIS" & web design:</em> <a href="https://www.maastrichtuniversity.nl/p70076654">Monika Barget</a><br> 
+<em>Introduction “scientific cartography”:</em> <a href="https://leibniz-ifl.de/institut/personen/moser-jana">Jana Moser</a><br>
+<em>Introduction “QGIS” & web design:</em> <a href="https://www.maastrichtuniversity.nl/p70076654">Monika Barget</a><br> 
 
 <h4>Participating students</h4>
 <div class="container studentsRow">
@@ -43,8 +45,8 @@
 </div>
 
 <h4>Research support</h4>
-<p><em>Research data management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/cremer">Fabian Cremer</a><br> 
-<em>DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a></p>
+<p><em>DigiKAR project management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/buyken">Constanze Buyken</a><br>
+<em>Research data management:</em> <a href="https://www.ieg-mainz.de/en/institute/people/cremer">Fabian Cremer</a></p>
 
 <hr>
 <figure>
